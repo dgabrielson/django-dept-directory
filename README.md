@@ -26,20 +26,27 @@ DIRECTORY_LOCALFLAVOR_POSTALCODE = 'django.contrib.localflavor.ca.forms.CAPostal
 
 `class ca.forms.CAPhoneNumberField`
 
-    A form field that validates input as a Canadian phone number, with the format XXX-XXX-XXXX.
+A form field that validates input as a Canadian phone number, with the format XXX-XXX-XXXX.
 
 `class ca.forms.CAPostalCodeField`
 
-    A form field that validates input as a Canadian postal code, with the format XXX XXX.
+A form field that validates input as a Canadian postal code, with the format XXX XXX.
 
 `class ca.forms.CAProvinceField`
 
-    A form field that validates input as a Canadian province name or abbreviation.
+A form field that validates input as a Canadian province name or abbreviation.
 
 `class ca.forms.CASocialInsuranceNumberField`
 
-    A form field that validates input as a Canadian Social Insurance Number (SIN). A valid number must have the format XXX-XXX-XXX and pass a Luhn mod-10 checksum.
+A form field that validates input as a Canadian Social Insurance Number (SIN). A valid number must have the format XXX-XXX-XXX and pass a Luhn mod-10 checksum.
 
 `class ca.forms.CAProvinceSelect`
 
-    A Select widget that uses a list of Canadian provinces and territories as its choices.
+A Select widget that uses a list of Canadian provinces and territories as its choices.
+
+
+## Phone numbers
+
+Due to the need to record international phone numbers, now
+using `django-phonenumber-field` and
+`phonenumbers`.
