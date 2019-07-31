@@ -1,0 +1,66 @@
+{% extends "people/__base.html" %}
+
+{# ########################################### #}
+
+{% block head_title %}{% if object.pk %}Update{% else %}Create{%endif %} Person{% endblock %}
+{% block body_title %}{% if object.pk %}Update{% else %}Create{%endif %} Person{% endblock %}
+
+{# ########################################### #}
+
+{# right sidebar should be empty in twocol mode #}
+{% block page_right_sidebar %}{% endblock %}
+{% block page_main_classes %}col-lg-10{% endblock %}
+
+{# ########################################### #}
+
+{% block html_head %}
+{{ block.super }}
+{{ form.media }}
+<!-- form media just above. -->
+{% endblock %}
+
+{# ########################################### #}
+
+{% block page_breadcrumbs %}
+    <a href="{% url 'people-admin-person-list' %}">
+        Person list
+    </a>
+    <span class="divider">&gt;</span>
+    {% if object.pk %}
+        <a href="{% url 'people-admin-person-detail' pk=person.pk %}">
+            {{ person }}
+        </a>
+        <span class="divider">&gt;</span>
+        Update
+    {% else %}
+        Create
+    {% endif %}
+{% endblock page_breadcrumbs %}
+
+{# ########################################### #}
+
+{% block body_content %}
+
+    <form enctype="multipart/form-data" action="" method="post" class="form">{% csrf_token %}
+        <table class="table-form">
+            <tr><th>{{ form.subform_title }}</th></tr>
+            {% include 'includes/form.html' with visual_break=True %}
+            {% for f in form.extra_forms %}
+                <tr class="table-form-row-even"></tr>
+                <tr><th>{{ f.subform_title }}</th></tr>
+                {% include 'includes/form.html' with form=f visual_break=True %}
+            {% endfor %}
+            <tr class="table-form-row-even"></tr>
+            <tr class="submit-row">
+                <td>
+                    <input type="submit" value="{% if object.pk %}Update{% else %}Create{%endif %}">
+                </td>
+            </tr>
+        </table>
+    </form>
+
+
+{% endblock %}
+
+
+{# ########################################### #}

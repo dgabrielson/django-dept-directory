@@ -1,0 +1,25 @@
+{% extends "people/__base.html" %}
+
+{# ########################################### #}
+
+{% block head_title %}Email confirmation{% endblock %}
+{% block body_title %}Email confirmation{% endblock %}
+
+{# ########################################### #}
+
+
+{% block body_content %}
+
+<p>
+Please check your email at <tt>{{ emailaddress }}</tt>
+for your confirmation message.
+</p>
+
+<p>
+<strong>Please note</strong>: you may need to check your spam mailbox for this email message.
+</p>
+
+{% endblock %}
+
+
+{# ########################################### #}

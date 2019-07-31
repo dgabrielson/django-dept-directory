@@ -1,0 +1,29 @@
+{% extends "people/__base.html" %}
+
+{# ########################################### #}
+
+{% block head_title %}Email Verified{% endblock %}
+{% block body_title %}Email Verified{% endblock %}
+
+{# ########################################### #}
+
+
+{% block body_content %}
+
+<p>
+You have verified your email address <tt>{{ emailconfirmation.email }}</tt>.
+</p>
+
+{% if emailconfirmation.redirect_url %}
+<p>
+    Please
+    <a href="{{ emailconfirmation.redirect_url }}">
+        click this link
+    </a>
+    to go back to what you were doing.
+</p>
+{% endif %}
+{% endblock %}
+
+
+{# ########################################### #}

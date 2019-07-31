@@ -1,0 +1,64 @@
+{% extends 'directory/__base.html' %}
+{% load directory_tags %}
+
+##################################################################
+
+{% block head_title %}Department Directory{% endblock %}
+{% block body_title %}Department Directory{% endblock %}
+
+##################################################################
+
+
+{% block body_content %}
+
+{% with entrytype=entrytype_list.0 %}
+    {# prominently display the first entrytype, just list the rest. #}
+    <h2>{% if entrytype.directoryentry_set.active|length == 1 %}{{ entrytype.verbose_name }}{% else %}{{ entrytype.verbose_name_plural }}{% endif %}</h2>
+    <table>
+        {% for entry in entrytype.directoryentry_set.active %}
+            <p>
+                <strong>
+                    {% if entry.title %}{{ entry.title }}{% else %}{{ entry.person.title }}{% endif %}:
+                </strong>
+                {% with email=entry.person.email page_url=entry.get_absolute_url %}
+                    {% if page_url %}
+                        <a href="{{ page_url }}">{{ entry.person }}</a>
+                    {% else %}
+                        {% if email %}
+                            {{ email|cloak_email_link:entry.person }}
+                        {% else %}
+                            {{ name }}
+                        {% endif %}
+                    {% endif %}
+                {% endwith %}
+            </p>
+        {% endfor %}
+    </table>
+{% endwith %}
+
+<h2>Complete list</h2>
+<ul>
+{% for entrytype in entrytype_list %}
+    {# if not for.first #} {# use this to skip the first entry above #}
+        <li>
+            {# individual type pages #}
+            {% comment %}
+            <a href="{% url 'directory-table-type-detail' slug=entrytype.slug %}">
+                {% if entrytype.directoryentry_set.active|length == 1 %}{{ entrytype.verbose_name }}{% else %}{{ entrytype.verbose_name_plural }}{% endif %} {#[only]#}
+            </a><br>
+            {% endcomment %}
+
+            {# combined type page #}
+            {# comment #}
+            <a href="{% url 'directory-table-entry-list' %}#{{ entrytype.slug }}">
+                {% if entrytype.directoryentry_set.active|length == 1 %}{{ entrytype.verbose_name }}{% else %}{{ entrytype.verbose_name_plural }}{% endif %} {#[combined]#}
+            </a>
+            {# endcomment #}
+        </li>
+    {# endif #}
+{% endfor %}
+</ul>
+
+{% endblock %}
+
+##################################################################

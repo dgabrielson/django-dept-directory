@@ -1,0 +1,39 @@
+{% extends 'directory/__base.html' %}
+{% load directory_tags %}
+
+##################################################################
+
+{% block head_title %}Department Directory{% endblock %}
+{% block body_title %}Department Directory{% endblock %}
+
+##################################################################
+
+
+{% block body_content %}
+
+<ul>
+{% for entrytype in entrytype_list %}
+    {# if not for.first #} {# use this to skip the first entry above #}
+        <li>
+            {# combined type page #}
+            {# comment #}
+            <a href="{% url 'directory-visual-4col-entry-list' %}#{{ entrytype.slug }}">
+                {% if entrytype.directoryentry_set.active|length == 1 %}{{ entrytype.verbose_name }}{% else %}{{ entrytype.verbose_name_plural }}{% endif %}
+            </a>
+            {# endcomment #}
+
+            {# individual type pages #}
+            {# comment #}
+            <a href="{% url 'directory-visual-4col-type-detail' slug=entrytype.slug %}">
+                (category only)
+            </a><br>
+            {# endcomment #}
+
+        </li>
+    {# endif #}
+{% endfor %}
+</ul>
+
+{% endblock %}
+
+##################################################################

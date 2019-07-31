@@ -1,0 +1,22 @@
+{% extends 'directory/__base.html' %}
+
+{# ########################################### #}
+
+{% block page_content_body %}
+
+{% block body_content %}
+{% endblock %}
+
+
+{% endblock %}
+
+{# ########################################### #}
+
+{% block app_breadcrumbs %}
+    <span class="divider">&gt;</span>
+    {% include './includes/app_breadcrumbs.html' %}
+    {% block page_breadcrumbs %}
+    {% endblock %}
+{% endblock app_breadcrumbs %}
+
+{# ########################################### #}

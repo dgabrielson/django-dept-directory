@@ -1,0 +1,55 @@
+
+The people application provides an extensible form for adding and
+updating person information.
+
+Portions of the interface can be setup by declaring ``extra_person_forms``
+in the ``PEOPLE_CONFIG`` dictionary, e.g.,
+
+    PEOPLE_CONFIG = {
+        'extra_person_forms': [
+                    'people.forms.EmailAddress_PersonSubForm',
+                    'directory.forms.DirectoryEntry_PersonSubForm',
+                    'person_pages.forms.PersonPage_PersonSubForm',
+                ],
+        }
+
+
+Each ``PersonSubForm`` is a form class (usually a ModelForm), that provides
+the following functionality:
+
+
+Must have a ``subform_title`` attribute.
+This name **must not** collide with available form fields.
+
+Must **not** allow editing of a person ForeignKey, if one exists.
+
+The form's ``__init__`` must deal with the ``instance`` kwarg arg properly:
+(the instance passed to the PersonSubForm is for the *person*, not the
+related object.
+The main person form is designed to be a *simplified* view of the data model,
+so only a *single* instance of the related object should be loaded.
+In particular, the ``PersonSubForm``s will **not** get instantiated for every
+related object (e.g., if a person has multiple email addresses, the
+``EmailAddress_PersonSubForm`` only loads **only one object**.
+[This *may* change in the future.]
+
+The form's ``save()`` method must exist and takes a mandatory first argument,
+the ``person``.
+
+Note that non-model forms must follow these restrictions as well, as the
+parent Person form requires and uses this functionality.
+(In particular, the ``save`` must exist.)
+
+TODO: Consider a few classmethods for the API, for example,
+* ``check_permissions`` -- given a user, should this subform be displayed?
+* ``discover_subobjects`` -- given a person, return any appropriate
+    subobject instances and use these for the ``instance`` parameter.
+    (Simplifying ``__init__`` handling to the point where it shouldn't
+    be required.)
+
+Also consider a mechanism for autodiscovery of foreignkey handling,
+simplifying subform ``save`` methods.
+
+Get a list of person flags to set if saved?  E.g., ``directory``
+when people have either a directory entry or person page?
+

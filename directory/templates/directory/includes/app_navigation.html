@@ -1,0 +1,19 @@
+
+{% url 'directory-type-list' as link_url %}
+{% if link_url %}
+    <a href="{{ link_url }}"{% if link_url in current_url %} class="selected"{% endif %}>
+        Directory
+    </a>
+    {% if link_url in current_url %}
+        <ul>
+            <li>
+            {% url 'directory-visual-list' as link_url %}
+            {% if link_url %}
+                <a href="{{ link_url }}"{% if link_url in current_url %} class="selected"{% endif %}>
+                    Visual Directory
+                </a>
+            {% endif %}
+            </li>
+        </ul>
+    {% endif %}
+{% endif %}

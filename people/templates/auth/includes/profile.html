@@ -1,0 +1,14 @@
+{# ########################################################## #}
+{# This template fragment expects to be have a `third_person` #}
+{# variable as a part of the context.                         #}
+{# This variable indicates whether it is *this* person        #}
+{# or a different person looking at the information           #}
+{# It is assumed that only people with the change_person      #}
+{# permission will be looking at other people's information.  #}
+{# ########################################################## #}
+
+
+{% include 'auth/includes/profile/superuser.html' %}
+{% include 'auth/includes/profile/api_key.html' %}
+{% include 'auth/includes/profile/groups.html' %}
+

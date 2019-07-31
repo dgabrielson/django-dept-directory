@@ -1,0 +1,27 @@
+{% extends 'admin/app_index.html' %}
+
+
+{% block sidebar %}
+{{ block.super }}
+
+<div id="content-related">
+    <div class="module" id="recent-actions-module">
+        <h2>Special actions</h2>
+        <ul class="actionlist">
+            {% comment %}
+            <li class="changelink"><a href="{% url 'directory-print' %}">
+                    Print Directory</a></li>
+            {% endcomment %}
+            <li class="changelink">
+                <a href="{% url 'admin:directory-entrytype-print' %}" class="viewsitelink">
+                    PDF Directory
+                </a>
+            </li>
+
+        </ul>
+    </div>
+</div>
+
+{% endblock %}
+
+

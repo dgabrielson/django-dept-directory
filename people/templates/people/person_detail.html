@@ -1,0 +1,35 @@
+{% extends "people/__base.html" %}
+
+{# ########################################### #}
+
+{% block head_title %}Person Detail{% endblock %}
+{% block body_title %}Person Detail{% endblock %}
+
+{# ########################################### #}
+
+{% block page_breadcrumbs %}
+    <a href="{% url 'people-admin-person-list' %}">
+        Person list
+    </a>
+    <span class="divider">&gt;</span>
+    {{ object }}
+{% endblock page_breadcrumbs %}
+
+{# ########################################### #}
+
+{% block body_content %}
+
+<ul class="pagenav">
+    <li>
+        <a href="{% url 'people-admin-person-update' pk=person.pk %}">
+            Edit this person record
+        </a>
+    </li>
+</ul>
+
+{% include 'people/includes/person_info.html' with third_person=1 %}
+
+{% endblock %}
+
+
+{# ########################################### #}

@@ -1,0 +1,55 @@
+{% extends 'directory/__base.html' %}
+
+
+{# ######################################################### #}
+
+{% block head_title %}Contact info - {{ person }}{% endblock %}
+{% block body_title %}{{ person }}{% endblock %}
+
+{# ######################################################### #}
+
+{% block html_head %}
+    {{ block.super }}
+    <style TYPE="text/css">
+    <!--
+        {% include 'directory/includes/visual.css' %}
+    -->
+    </style>
+{% endblock %}
+
+{# ######################################################### #}
+
+{% block page_content_body %}
+
+
+{% with entry_list=person.directoryentry_set.default_list %}
+    {% if entry_list %}
+        <table>
+            {% for entry in entry_list %}
+                {% include 'directory/visual_1col/includes/entry.html' with name=entry.type.verbose_name  %}
+
+                {% if perms.directory.edit_directoryentry or request.user.username == person.username %}
+                    {% url 'directory-visual-1col-entry-update' pk=entry.pk as update_url %}
+                    {% if update_url %}
+                        <tr>
+                            <td></td>
+                            <td>
+                                <a href="{{ update_url }}">
+                                    &rarr; Update entry
+                                </a>
+                            </td>
+                        </tr>
+                    {% endif %}
+                {% endif %}
+
+            {% endfor %}
+        </table>
+    {% else %}
+        {{ person }} has no directory information.
+    {% endif %}
+{% endwith %}
+
+
+{% endblock %}
+
+{# ######################################################### #}

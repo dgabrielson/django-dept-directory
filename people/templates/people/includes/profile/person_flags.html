@@ -1,0 +1,28 @@
+{# ########################################################## #}
+{# This template fragment expects to be have a `third_person` #}
+{# variable as a part of the context.                         #}
+{# This variable indicates whether it is *this* person        #}
+{# or a different person looking at the information           #}
+{# It is assumed that only people with the change_person      #}
+{# permission will be looking at other people's information.  #}
+{# ########################################################## #}
+
+
+{% load humanize %}
+
+
+{% if person.flags.all %}
+    <h3>
+        Flag{{ person.flags.all|pluralize }}
+        {% if third_person %}
+            for this individual
+        {% endif %}
+    </h3>
+    <ul>
+        {% for flag in person.flags.all %}
+            <li>
+                {{ flag }}
+            </li>
+        {% endfor %}
+    </ul>
+{% endif %}

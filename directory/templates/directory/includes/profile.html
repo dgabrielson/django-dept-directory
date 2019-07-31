@@ -1,0 +1,56 @@
+{# ########################################################## #}
+{# This template fragment expects to be have a `third_person` #}
+{# variable as a part of the context.                         #}
+{# This variable indicates whether it is *this* person        #}
+{# or a different person looking at the information           #}
+{# It is assumed that only people with the change_person      #}
+{# permission will be looking at other people's information.  #}
+{# ########################################################## #}
+
+{% load humanize %}
+
+
+{% with entry_list=person.directoryentry_set.all %}
+    {% if entry_list %}
+        <h3>Directory Information</h3>
+        <p>
+            {% if third_person %}
+                This person has
+            {% else %}
+                You have
+            {% endif %}
+            {{ entry_list|length|apnumber }}
+            directory
+            entr{{ entry_list|pluralize:"y,ies" }}.
+            {% if third_person %}
+                {% if entry_list|length != entry_list.active|length %}
+                    {% if entry_list.active.count > 0 %}
+                        (Only
+                        {{ pentry_list.active|length|apnumber }}
+                        are active.)
+                    {% else %}
+                        {% if entry_list|length == 1 %}
+                            (Currently not active.)
+                        {% else %}
+                            (None of which are active.)
+                        {% endif %}
+                    {% endif %}
+                {% else %}
+                    {% if entry_list|length == 1 %}
+                        (It is active.)
+                    {% else %}
+                        (All active.)
+                    {% endif %}
+                {% endif %}
+            {% endif %}
+        </p>
+        {% url 'directory-by-person-detail' slug=person.slug as link_url %}
+        {% if link_url %}
+            <p>
+                <a href="{{ link_url }}">
+                    &rarr; See directory entry
+                </a>
+            </p>
+        {% endif %}
+    {% endif %}
+{% endwith %}

@@ -1,0 +1,47 @@
+{% extends 'person_tags/__base.html' %}
+{% load markup %}
+
+{% block head_title %}{{ taggroup.name }}{% endblock %}
+{% block body_title %}{{ taggroup.name }}{% endblock %}
+
+{% block body_content %}
+
+{{ taggroup.description|restructuredtext }}
+
+{% if taggroup.people %}
+    <p>
+        {{ taggroup.people|pluralize:"This person is,These people are" }}
+        involved in this research area:
+        <ul class="simple">
+            {% for person in taggroup.people %}
+                {% with directory_list=person.directoryentry_set.active %}
+                    {% with type_slug_list=directory_list.type_slug_list %}
+                        {% if type_slug_list %}
+                            <li>
+                                <a href="{{ person.get_absolute_url }}">
+                                    {{ person }}
+                                </a>
+                                {% if 'faculty' not in type_slug_list %}
+                                    ({{ directory_list.0.type }})
+                                {% endif %}
+                            </li>
+                        {% endif %}
+                    {% endwith %}
+                {% endwith %}
+            {% endfor %}
+        </ul>
+    </p>
+{% endif %}
+
+{% include './includes/taggroup_detail_post.html' %}
+
+{% endblock %}
+
+{# ########################################### #}
+
+{% block page_breadcrumbs %}
+    <span class="divider">&gt;</span>
+    {{ taggroup }}
+{% endblock page_breadcrumbs %}
+
+{# ########################################### #}

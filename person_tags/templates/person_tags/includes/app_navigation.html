@@ -1,0 +1,24 @@
+
+{% url 'persontag-person-list' as link_url %}
+{% if link_url %}
+    <a href="{{ link_url }}"{% if link_url in current_url %} class="selected"{% endif %}>
+        Research
+    </a>
+    {% if link_url in current_url %}
+        <ul class="menu">
+            {% comment %}
+            {% url 'persontag-taggroup-list' as link_url %}
+            {% if link_url %}
+                <li>
+                    <a href="{{ link_url }}"{% if link_url in current_url %} class="selected"{% endif %}>
+                        Areas
+                    </a>
+                </li>
+            {% endif %}
+            {% endcomment %}
+            <li>
+                {% include 'publications/includes/app_navigation.html' %}
+            </li>
+        </ul>
+    {% endif %}
+{% endif %}

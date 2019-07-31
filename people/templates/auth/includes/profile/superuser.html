@@ -1,0 +1,24 @@
+{# ########################################################## #}
+{# This template fragment expects to be have a `third_person` #}
+{# variable as a part of the context.                         #}
+{# This variable indicates whether it is *this* person        #}
+{# or a different person looking at the information           #}
+{# It is assumed that only people with the change_person      #}
+{# permission will be looking at other people's information.  #}
+{# ########################################################## #}
+
+{% if person.get_user.is_superuser %}
+    <h3>
+        {% if third_person %}
+            This is
+        {% else %}
+            You are
+        {% endif %}
+        a superuser.
+    </h3>
+    {% if not third_person %}
+        <p>
+            (With great power comes great responsibilty.)
+        </p>
+    {% endif %}
+{% endif %}

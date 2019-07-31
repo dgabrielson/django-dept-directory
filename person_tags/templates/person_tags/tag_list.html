@@ -1,0 +1,41 @@
+{% extends 'person_tags/__base.html' %}
+
+{% block head_title %}Research Interests{% endblock %}
+{% block body_title %}Research Interests{% endblock %}
+
+{% block body_content %}
+
+<ul>
+    {% for tag in tag_list %}
+        {% with person_list=tag.persontaggedentry_set.active.get_people %}
+            {% if person_list %}
+                <li>
+                    <strong><a href="{{ tag.get_absolute_url }}">{{ tag|capfirst }}</a></strong>:
+                    {% for person in person_list %}
+                        {% if person.active and person.directoryentry_set.active %}
+                            {% if person.get_absolute_url %}
+                                <a href="{{ person.get_absolute_url }}">
+                                    {{ person }}{% if not forloop.last %}, {% endif %}
+                                </a>
+                            {% else %}
+                                    {{ person }}{% if not forloop.last %}, {% endif %}
+                            {% endif %}
+                        {% endif %}
+                     {% endfor %}
+                 </li>
+             {% endif %}
+         {% endwith %}
+    {% endfor %}
+</ul>
+
+
+{% endblock %}
+
+{# ########################################### #}
+
+{% block page_breadcrumbs %}
+    <span class="divider">&gt;</span>
+    Interests
+{% endblock page_breadcrumbs %}
+
+{# ########################################### #}

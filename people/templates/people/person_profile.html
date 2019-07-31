@@ -1,0 +1,53 @@
+{% extends "people/__base.html" %}
+{% load static %}
+
+{# ########################################### #}
+
+{% block head_title %}Personal Profile{% endblock %}
+{% block body_title %}Personal Profile{% endblock %}
+
+{# ########################################### #}
+
+{% block html_head_people_extra %}
+    <script src="{% static 'js/clipboard.min.js' %}"></script>
+{% endblock %}
+
+{# ########################################### #}
+
+{% block page_breadcrumbs %}
+    {{ block.super }}
+    Profile
+{% endblock %}
+
+
+{# ########################################### #}
+
+{% block body_content %}
+
+<ul class="pagenav">
+{% block content_pagenav %}
+{% url 'people-admin-person-list' as link_url %}
+{% if link_url and perms.people.change_person %}
+    <li>
+        <a href="{{ link_url }}">
+            Person list
+        </a>
+    </li>
+{% endif %}
+{% endblock %}
+</ul>
+
+{% include 'people/includes/person_info.html' with third_person=0 %}
+
+{% endblock %}
+
+
+{# ########################################### #}
+
+{% block people_extra_content %}
+    <script>
+        new Clipboard('.copy-link-btn');
+    </script>
+{% endblock %}
+
+{# ########################################### #}

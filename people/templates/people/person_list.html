@@ -1,0 +1,69 @@
+{% extends "people/__base.html" %}
+
+{# ########################################### #}
+
+{% block head_title %}Person List{% endblock %}
+{% block body_title %}Person List{% endblock %}
+
+{# ########################################### #}
+
+{% block page_breadcrumbs %}
+    {% if request.GET.q %}
+        <a href="{% url 'people-admin-person-list' %}">
+            Person list
+        </a>
+        <span class="divider">&gt;</span>
+        Search results
+    {% else %}
+        Person list
+    {% endif %}
+{% endblock page_breadcrumbs %}
+
+{# ########################################### #}
+
+
+{% block body_content %}
+
+<ul class="pagenav">
+    {% url 'people-admin-person-create' as link_url %}
+    {% if link_url and perms.people.add_person %}
+        <li>
+            <a href="{{ link_url }}">
+                Create a new person record
+            </a>
+        </li>
+    {% endif %}
+</ul>
+
+    <p>
+        <form action="{% url 'people-admin-person-list' %}">
+            Search:
+            <input id="id_search" type="text" name="q" maxlength="100" />
+            <input type="submit" value="Search">
+        </form>
+    </p>
+
+    {% if request.GET.q %}
+        <h3>
+            Search results for &ldquo;<tt>{{ request.GET.q }}</tt>&rdquo;
+        </h3>
+    {% endif %}
+
+    <ul>
+    {% for person in person_list %}
+        <li>
+            <a href="{% url 'people-admin-person-detail' pk=person.pk %}">
+                {{ person }}
+            </a>
+        </li>
+    {% endfor %}
+    </ul>
+
+    {% if is_paginated %}
+        {% url 'people-admin-person-list' as paginated_base_url %}
+        {% include 'people/pagination.html' with paginated_base_url=paginated_base_url object_name="people" %}
+    {% endif %}
+
+{% endblock %}
+
+{# ########################################### #}

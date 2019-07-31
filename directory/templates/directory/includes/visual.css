@@ -1,0 +1,33 @@
+
+td.mugshot {
+    width: 106px;
+    min-width: 106px;
+    vertical-align: middle;
+    padding-right: 0;
+}
+
+div.name {
+    margin-top: 2px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+div.title {
+    font-size: 15px;
+    font-weight: semi-bold;
+}
+
+div.office {
+}
+
+div.phone {
+}
+
+div.note {
+    font-style: italic;
+    margin-left: 4em;
+}
+
+tr.entry:not(:last-child) > td {
+    padding-bottom: 1.25em;
+}

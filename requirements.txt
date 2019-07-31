@@ -1,0 +1,7 @@
+pillow
+#django-autoslug
+dcg-autoslug
+django-phonenumber-field
+phonenumbers
+
+python-latex

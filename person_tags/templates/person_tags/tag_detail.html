@@ -1,0 +1,47 @@
+{% extends 'person_tags/__base.html' %}
+
+{% block head_title %}{{ tag|capfirst }}{% endblock %}
+{% block body_title %}{{ tag|capfirst }}{% endblock %}
+
+{% block body_content %}
+
+{% if tag.persontaggedentry_set.active %}
+    <p>
+        The following people have this interest:
+        <ul>
+        {% for entry in tag.persontaggedentry_set.active %}
+            {% with person=entry.person %}
+                <li>
+                    {% if person.get_absolute_url %}
+                        <a href="{{ person.get_absolute_url }}">
+                            {{ person }}
+                        </a>
+                    {% else %}
+                            {{ person }}
+                    {% endif %}
+                </li>
+            {% endwith %}
+        {% endfor %}
+        </ul>
+    </p>
+{% endif %}
+
+{% with group_list=tag.groups.active %}
+    {% if group_list %}
+        <p>
+            This interest belongs to these research areas:
+            <ul>
+                {% for group in group_list %}
+                    <li>
+                        <a href="{{ group.get_absolute_url }}">
+                            {{ group }}
+                        </a>
+                    </li>
+                {% endfor %}
+            </ul>
+        </p>
+    {% endif %}
+{% endwith %}
+
+{% endblock %}
+

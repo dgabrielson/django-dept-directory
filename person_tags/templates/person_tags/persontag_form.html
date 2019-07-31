@@ -1,0 +1,59 @@
+{% extends 'person_tags/__base.html' %}
+
+{# ######################################################### #}
+
+{% block head_title %}{% if object %}Update {{ object }}{% else %}Create New Tag{% endif %}{% endblock %}
+{% block body_title %}{% if object %}Update {{ object }}{% else %}Create New Tag{% endif %}{% endblock %}
+
+{# ######################################################### #}
+
+{% block html_head %}
+{{ block.super }}
+{{ form.media }}
+{% endblock %}
+
+{# right sidebar should be empty in twocol mode #}
+{% block page_right_sidebar %}{% endblock %}
+{% block page_main_classes %}col-lg-10{% endblock %}
+
+{# ######################################################### #}
+
+{% block body_content %}
+
+{% if person.slug %}
+    <p><strong>Current tags:</strong>
+    <ul>
+        {% for entry in person.persontaggedentry_set.active %}
+            <li>
+                {{ entry }}
+            </li>
+        {% endfor %}
+    </ul>
+    <p>
+
+    <p>
+        &rarr;
+        <a href="{% url 'persontag-person-tagged-entry-update' slug=person.slug %}">
+            Update my tags
+        </a>
+    </p>
+{% endif %}
+
+<form enctype="multipart/form-data" action="" method="post" class="form">{% csrf_token %}
+    <div class="form-container">
+        <table class="table-form">
+            {% include 'includes/form.html' %}
+            <tr class="submit-row">
+                <td>
+                    <input type="submit" value="Create" class="save-btn">
+                </td>
+            </tr>
+        </table>
+    </div>
+</form>
+
+
+{% endblock %}
+
+
+{# ######################################################### #}

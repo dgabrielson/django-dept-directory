@@ -1,0 +1,29 @@
+{% extends 'person_tags/__base.html' %}
+
+{% block head_title %}Faculty Research{% endblock %}
+{% block body_title %}Faculty Research{% endblock %}
+
+{% block body_content %}
+
+<ul>
+    {% for person in person_list %}
+        {% with direntry=person.directoryentry_set.all.0 %}
+            {% if direntry %}
+                <li> <strong>{% if direntry.get_absolute_url %}<a href="{{ direntry.get_absolute_url }}">{% endif %}{{ person }}{% if direntry.get_absolute_url %}</a>{% endif %}</strong>:
+                    {% for entry in person.persontaggedentry_set.active %}
+                        {# <a href="{{ entry.tag.get_absolute_url }}">{{ entry }}</a>{% if not forloop.last %}, {% endif %} #}
+                        {% if entry.tag.groups %}
+                            <a href="{{ entry.tag.get_absolute_url }}">
+                                {{ entry }}</a>{% if not forloop.last %}, {% endif %}
+                        {% else %}
+                            {{ entry }}{% if not forloop.last %}, {% endif %}
+                        {% endif %}
+                    {% endfor %}
+            {% endif %}
+        {% endwith %}
+    {% endfor %}
+</ul>
+
+
+{% endblock %}
+

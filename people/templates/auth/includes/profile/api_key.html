@@ -1,0 +1,20 @@
+{# ########################################################## #}
+{# This template fragment expects to be have a `third_person` #}
+{# variable as a part of the context.                         #}
+{# This variable indicates whether it is *this* person        #}
+{# or a different person looking at the information           #}
+{# It is assumed that only people with the change_person      #}
+{# permission will be looking at other people's information.  #}
+{# ########################################################## #}
+
+
+{% with user=person.get_user %}
+    {% if user.api_key %}
+        {% if not third_person %}
+            <h3> You have an ApiKey </h3>
+            <p>
+                <tt>ApiKey {{ user.username}}:{{ user.api_key.key }}</tt>
+            </p>
+        {% endif %}
+    {% endif %}
+{% endwith %}

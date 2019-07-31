@@ -1,0 +1,49 @@
+{% load directory_tags %}
+{% load static %}
+<tr class="entry">
+    {% with email=entry.person.email page_url=entry.get_absolute_url %}
+    <td class="mugshot">
+        {% if page_url %}<a href="{{ page_url }}">{% endif %}
+        {% if entry.mugshot %}
+            <img src="{{ entry.mugshot.url }}" width="90">
+        {% else %}
+            <img src="{% static 'directory/img/no_photo.png' %}" height="85" width="90" alt="No photo available">
+        {% endif %}
+        {% if page_url %}</a>{% endif %}
+    </td>
+    <td>
+        <div class="name">
+            {% if page_url %}
+                <a href="{{ page_url }}">{{ entry }}</a>
+            {% else %}
+                {% if email %}
+                    {{ email|cloak_email_link:entry.person }}
+                {% else %}
+                    {{ entry }}
+                {% endif %}
+            {% endif %}
+        </div>
+        {% if entry.get_absolute_url or email %}</a>{% endif %}
+
+        {% if entry.title or entry.person.title %}
+            <div class="title">{% if entry.title %}{{ entry.title }}{% else %}{{ entry.person.title }}{% endif %}</div>
+        {% endif %}
+        {% if email %}
+            <div class="email">{{ email|cloak_email_link }}</div>
+        {% endif %}
+        {% if entry.office %}
+            <div class="office">Office: {{ entry.office }}</div>
+        {% endif %}
+        {% if entry.phone_number %}
+            <div class="phone">Phone: {{ entry.phone_number }}</div>
+        {% elif entry.person.phone %}
+            <div class="phone">Phone: {{ entry.person.phone }}</div>
+        {% elif entry.office.phone_number %}
+            <div class="phone">Phone: {{ entry.office.phone_number }}</div>
+        {% endif %}
+        {% if entry.note %}
+                <div class="note">{{ entry.note }}</div>
+        {% endif %}
+    </td>
+    {% endwith %}
+</tr>

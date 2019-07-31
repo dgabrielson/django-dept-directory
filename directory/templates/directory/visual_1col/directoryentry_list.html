@@ -1,0 +1,56 @@
+{% extends 'directory/__base.html' %}
+{% load directory_tags %}
+
+{# ############################################################### #}
+
+{% block head_title %}Department Directory{% endblock %}
+{% block body_title %}Department Directory{% endblock %}
+
+{# ############################################################### #}
+
+{% block html_head %}
+    {{ block.super }}
+    <style type="text/css">
+    <!--
+        {% include 'directory/includes/visual.css' %}
+    -->
+    </style>
+{% endblock %}
+
+{# ############################################################### #}
+
+{% block page_breadcrumbs %}
+    {% if entrytype %}
+    <span class="divider">&gt;</span>
+    {% if entrytype.directoryentry_set.active|length == 1 %}{{ entrytype.verbose_name }}{% else %}{{ entrytype.verbose_name_plural }}{% endif %}
+    {% endif %}
+{% endblock page_breadcrumbs %}
+
+{# ############################################################### #}
+
+
+{% block body_content %}
+
+{# this is a list of pictures, broken out by types #}
+
+{% regroup directoryentry_list by type as directory_list %}
+
+
+<table>
+    {% for type in directory_list %}
+        <tr>
+            <th colspan="4">
+                <h2>{% if type.list|length == 1 %}{{ type.grouper.verbose_name }}{% else %}{{ type.grouper.verbose_name_plural }}{% endif %}</h2>
+                <a name="{{ type.slug }}"></a>
+            </th>
+
+        </tr>
+        {% for entry in type.list %}
+            {% include 'directory/visual_1col/includes/entry.html' with name=entry.person.cn %}
+        {% endfor %}
+    {% endfor %}
+</table>
+
+{% endblock %}
+
+{# ############################################################### #}

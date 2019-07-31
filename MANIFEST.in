@@ -1,0 +1,13 @@
+include requirements.txt
+include LICENSE.txt
+recursive-include directory/static *
+recursive-include directory/templates *
+#recursive-include people/static *
+recursive-include people/templates *
+#recursive-include person_tags/static *
+recursive-include person_tags/templates *
+#recursive-include places/static *
+#recursive-include places/templates *
+
+# added by check_manifest.py
+recursive-include docs *.txt

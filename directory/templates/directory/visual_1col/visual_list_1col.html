@@ -1,0 +1,46 @@
+{% extends 'directory/__base.html' %}
+{% load directory_tags %}
+
+##################################################################
+
+{% block head_title %}Department Directory{% endblock %}
+{% block body_title %}Department Directory{% endblock %}
+
+##################################################################
+
+{% block html_head %}
+    {{ block.super }}
+    <style TYPE="text/css">
+    <!--
+        {% include 'directory/includes/visual.css' %}
+    -->
+    </style>
+{% endblock %}
+
+{% block body_content %}
+
+{# this is a list of pictures, broken out by types #}
+
+
+<table>
+    </tr>
+    {% for type in directory_list %}
+        {% with type_list=type.directoryentry_set.default_list %}
+            {% if type_list %}
+                <tr>
+                    <th colspan="4">
+                        <h3>{% if type_list|length == 1 %}{{ type.verbose_name }}{% else %}{{ type.verbose_name_plural }}{% endif %}</h3>
+                        <a name="{{ type.slug }}"></a>
+                    </th>
+                    
+                </tr>
+                {% for entry in type_list %}
+                    {% include 'directory/includes/visual_1col_entry.html' with name=entry.person.cn %}
+                {% endfor %}
+            {% endif %}
+        {% endwith %}
+    {% endfor %}
+</table>
+
+{% endblock %}
+

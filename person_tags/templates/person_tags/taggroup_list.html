@@ -1,0 +1,25 @@
+{% extends 'person_tags/__base.html' %}
+{% load markup %}
+
+{% block head_title %}Research Areas{% endblock %}
+{% block body_title %}Research Areas{% endblock %}
+
+{% block body_content %}
+
+The Department has active research in the following main domains.
+Click links below or to the left to find out more about a given domain,
+including faculty members and students involved, publications, etc.
+
+
+{% for taggroup in taggroup_list %}
+    <h2>
+        <a href="{{ taggroup.get_absolute_url }}">
+            {{ taggroup.name }}
+        </a>
+    </h2>
+    {{ taggroup.description|restructuredtext }}
+
+{% endfor %}
+
+
+{% endblock %}

@@ -1,0 +1,9 @@
+
+{% url 'directory-index' as top_url %}
+{% if top_url %}
+    {% if top_url != request.path %}
+        <a href="{{ top_url }}">Directory</a>
+    {% else %}
+        Directory
+    {% endif %}
+{% endif %}

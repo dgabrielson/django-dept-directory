@@ -1,0 +1,95 @@
+{# ########################################################## #}
+{# This template fragment expects to be have a `third_person` #}
+{# variable as a part of the context.                         #}
+{# This variable indicates whether it is *this* person        #}
+{# or a different person looking at the information           #}
+{# It is assumed that only people with the change_person      #}
+{# permission will be looking at other people's information.  #}
+{# ########################################################## #}
+
+
+{% load humanize %}
+
+
+<table>
+    <tr>
+        <th>
+            Full name:
+        </th>
+        <td>
+            {{ person.cn }}
+        </td>
+    </tr>
+    <tr>
+        <th>
+            Given name:
+        </th>
+        <td>
+            {{ person.given_name }}
+        </td>
+    </tr>
+    <tr>
+        <th>
+            Family name:
+        </th>
+        <td>
+            {{ person.sn }}
+        </td>
+    </tr>
+    {% if third_person %}
+        <tr>
+            <th>
+                username:
+            </th>
+            <td>
+                {{ person.username }}
+            </td>
+        </tr>
+        <tr>
+            <th>
+               slug:
+            </th>
+            <td>
+                {{ person.slug }}
+                {% if not person.slug %}
+                    <br>
+                    <strong>Warning</strong>:
+                    Having no slug will severly limit the web presence of this person.
+                {% endif %}
+            </td>
+        </tr>
+    {% endif %}
+    {% with email_list=person.emailaddress_set.active %}
+        {% for email in email_list %}
+            <tr>
+                {% if forloop.first %}
+                    <th>
+                        Email address{{ email_list|pluralize:"es" }}:
+                    </th>
+                {% else %}<td></td>
+                {% endif %}
+                <td>
+                    <tt>{{ email }}</tt>
+                </td>
+                <td>
+                    {% if email.public %}
+                        [public]
+                    {% else %}
+                        [private]
+                    {% endif %}
+                </td>
+                {% if not third_person %}
+                    <td>
+                    {% if email.verified %}
+                        (verified)
+                    {% else %}
+                        <a href="{% url 'people-verify-email' pk=email.pk %}?next={% url 'people-person-detail' %}">
+                            (verify)
+                        </a>
+                    {% endif %}
+                    </td>
+                {% endif %}
+            </tr>
+        {% endfor %}
+    {% endwith %}
+</table>

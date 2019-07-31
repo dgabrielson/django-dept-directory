@@ -1,0 +1,42 @@
+{% extends 'directory/__base.html' %}
+
+{% block head_title %}Department Directory{% endblock %}
+{% block body_title %}Department Directory{% endblock %}
+
+{% block body_content %}
+
+{# index page #}
+
+<p>
+    Typical only one of these formats would be in use;
+    although the can be easily customized with combining 
+    <tt>urlpatterns</tt> or providing site custom ones.
+</p>
+
+<ul>
+    <li>
+        <a href="{% url 'directory-table-type-list' %}">
+            Table format
+        </a>
+    </li>
+    <li>
+        <a href="{% url 'directory-visual-1col-type-list' %}">
+            Visual list format
+        </a>
+    </li>
+    <li>
+        <a href="{% url 'directory-visual-4col-type-list' %}">
+            Visual table format
+        </a>
+    </li>
+    <li>
+        <a href="{% url 'directory-by-person-list' %}">
+            By person
+        </a>
+    </li>
+
+
+</ul>
+
+
+{% endblock %}

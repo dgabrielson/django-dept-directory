@@ -1,0 +1,37 @@
+{% extends 'directory/__base.html' %}
+{% load directory_tags %}
+
+{# ########################################### #}
+
+{% block head_title %}{% if entrytype.directoryentry_set.active|length == 1 %}{{ entrytype.verbose_name }}{% else %}{{ entrytype.verbose_name_plural }}{% endif %}{% endblock %}
+{% block body_title %}{% if entrytype.directoryentry_set.active|length == 1 %}{{ entrytype.verbose_name }}{% else %}{{ entrytype.verbose_name_plural }}{% endif %}{% endblock %}
+
+{# ########################################### #}
+
+
+{% block body_content %}
+
+<table>
+    <thead>
+        <tr>
+            <th width="180">Name</th>
+            <th width="120">Office</th>
+            <th width="120">Phone</th>
+        </tr>
+    </thead>
+{% for entry in entrytype.directoryentry_set.active %}
+    {% include 'directory/table/includes/entry.html' %}
+{% endfor %}
+</table>
+
+{% endblock %}
+
+
+{# ########################################### #}
+
+{% block page_breadcrumbs %}
+    <span class="divider">&gt;</span>
+    {% if entrytype.directoryentry_set.active|length == 1 %}{{ entrytype.verbose_name }}{% else %}{{ entrytype.verbose_name_plural }}{% endif %}
+{% endblock page_breadcrumbs %}
+
+{# ########################################### #}

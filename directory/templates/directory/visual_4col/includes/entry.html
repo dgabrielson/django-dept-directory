@@ -1,0 +1,14 @@
+{% load directory_tags %}
+{% with email=entry.person.email page_url=entry.get_absolute_url %}
+    {% if page_url %}<a href="{{ page_url }}">{% endif %}
+    {% if rowtype == "faces" %}
+        {% if entry.mugshot %}
+            <img src="{{ MEDIA_URL }}{{ entry.mugshot }}" width="90">
+        {% else %}
+            <img src="{{ STATIC_URL }}directory/img/no_photo.png" height="85" width="90" alt="No photo available">
+        {% endif %}
+    {% else %}
+        {{ entry.person }}
+    {% endif %}
+    {% if page_url %}</a>{% endif %}
+{% endwith %}

@@ -1,0 +1,2965 @@
+name: Abbe, Ernst Karl
+dates: 1840.01.23 -- 1905-01-14
+wikipedia: Ernst_Karl_Abbe
+photo: abbe.gif | | | http://www-groups.dcs.st-and.ac.uk/~history/BigPictures/Abbe.jpeg
+fields: phys stat
+ids: MR:22135 MacTutor:Abbe MG:52329
+biog: DSB 1, 6-9
+biog: ESS 1, 2-3
+
+name: Adams, John Couch
+dates: 1819-06-05 -- 1892-02-1892
+wikipedia: John_Couch_Adams
+photo: adams.gif | | | http://www-gap.dcs.st-and.ac.uk/~history/PictDisplay/Adams.html
+fields: astr stat
+ids: MacTutor: Adams
+biog: DSB 1, 53-54
+biog: ODNB
+
+name: Adrain, Robert
+dates: 1775-09-30 -- 1843-08-10
+wikipedia: Robert_Adrain
+photo: adrain.gif | | | photo: http://www.york.ac.uk/depts/maths/histstat/people/adrain.gif
+fields: math stat
+ids: MacTutor:Adrain MR:305196
+biog: DSB 1, 65-66
+biog: DAB 1, 109-110
+biog: ODNB
+
+name: Airy, George Biddell
+dates: 1801-07-27 -- 1892-01-02
+wikipedia: George_Biddell_Airy
+photo: airy.gif | | | A J Meadow, Greenwich Observatory: Volume 2: Recent History (1836-1975), London: Taylor & Francis 1975.
+fields: astr stat
+ids: MacTutor:Airy MR:319487
+biog: DSB 1, 84-87
+biog: ODNB
+
+name: Aitchison, John
+dates: 1926-00-00 -- 
+wikipedia: John_Aitchison
+photo: aitchison.gif | | | RSS News 29 (1) (2001 September), 3. 
+fields: stat
+ids: CIS:2301 CIS:2301 CIS:120113
+
+name: Aitken, Alexander Craig
+dates: 1895-04-01 -- 1967-11-03
+wikipedia: Alexander_Aitken
+photo: aitken.gif | | | A C Aitken, To Catch the Spirit, Dunedin: University of Otago Press 1995.
+fields: stat math
+ids: CIS:100333
+biog: ESSU 1, 20-22
+biog: ODNB
+
+name: Anderson, Oskar Nikolayevich
+name_alt: Andeerson, Oskar Johann Viktor
+dates: 1887-08-02 -- 1960-02-12
+wikipedia: Oskar_Anderson
+photo: anderson_o.gif | | | O Anderson, Ausgehwählte Schriftern (ed. von H Kellerer et al.), Tübingen 1963, Bd I, gegenüber S. I.
+fields: stat
+ids: CIS:16259 MacTutor:Anderson MR:403779
+
+name: Anderson, Roy Malcolm
+dates: 1947-00-00 -- 
+wikipedia: Roy_Anderson_%28zoologist%29
+photo: anderson_r.gif | | | http://www.med.ic.ac.uk/divisions/62/research/images/Roy_Anderson.jpg
+fields: biol epid stat
+ids: CIS:35370 MG:81059 MR:25835
+
+name: Anderson, Theodore William
+dates: 1918-00-00 -- 
+photo: anderson_t_w | (left) with Tukey, John Wilder | | Paul R Halmos, I Have a Photographic Memory, Providence, RI: American Mathematical Society 1987.
+fields: stat
+ids: CIS:10045 CIS:129914 MR:25845 MG:83137
+
+name: Anderson, Virgil
+dates: 1915-00-00 -- 
+photo: anderson_v.gif | | | A conversation with Shanti Gupta, Statistical Science, 13 (1998), 291-305 at page 295.
+fields: stat
+ids: CIS:47040 CIS:2650 MR:213760 MG:15627
+
+name: Anscombe, Frank
+name_alt: Anscombe, Francis John
+dates: 1918-00-00 -- 2001-00-00
+wikipedia: Francis_Anscombe 
+photo: ansocmbe.gif | | | http://www.yale.edu/opa/v30.n9/story11.jpeg
+fields: stat
+ids: CIS:660 CIS:4612 MR:26375 MG:62936 MR:735595
+
+name: Arbuthnot, John
+dates: 1667-04-29 -- 1735-02-27
+wikipedia: John_Arbuthnot
+photo: arbuthnot.gif | | | L M Beattie, John Arbuthnot, Cambridge University Press 1935.
+fields: med math stat
+ids: MacTutor:Arbuthnot MR:244255
+biog: DSB 1, 208-209
+biog: DNB 1, 534-537
+biog: ESSU 2, 2-6
+biog: ODNB
+
+name: Armitage, Peter 
+dates: 1924-00-00 -- 
+wikipedia: Peter_Armitage
+photo: armitage.gif | | | Journal of the Royal Statistical Society Series A 146 (4) (1983)
+fields: stat
+ids: CIS:1190 CIS:2836 MR:27145 MG:42218
+
+name: Arnauld, Antoine
+dates: 1612-02-06 -- 1694-08-06
+wikipedia: Antoine_Arnauld
+photo: arnauld.gif | | | Abb.4 from H Loeffel, Blaise Pascal, Basel: Birkhäuser 1987.
+fields: theol phil math stat
+ids: MacTutor:Arnauld MR:619699
+biog: DSB 1, 291-292
+
+name: Aubrey, John
+dates: 1626-03-12 -- 1697-06-07
+wikipedia: John_Aubrey
+photo: aubrey.gif | | | http://www.druidic.isles.net/jpgs/aubreys.jpg
+fields: hist
+biog: ODNB.
+
+name: Babbage, Charles
+dates: 1791-12-26 -- 1871-10-18
+wikipedia: Charles_Babbage
+photo: babbage.gif | | | M Moseley, Irascible Genius: A Life of Charles Babbage, Inventor, London: Hutchinson 1964.
+fields: comp math stat
+ids: MR:192668
+biog: DSB 1,354-356
+
+name: Bachelier, Louis Jean-Baptiste
+dates: 1870-03-11 -- 1946-04-28
+wikipedia: Bachelier
+photo: bachelier.gif | | | http://sjepg.univ-fcomte.fr/La_recherche/Libre/bachelier/page01/Louis_jeune_.gif 
+fields: math phys econ actu stat
+ids: MacTutor:Bachelier MR:329805 MG:87766
+
+name: Bahadur, Raghu Raj
+dates: 1924-04-30 -- 1997-07-1997
+wikipedia: Raghu_Raj_Bahadur
+photo: bahadur.gif
+fields: stat
+ids: CIS:141876 CIS:864 MG:47416 MR:407800
+
+name: Baily, Francis
+dates: 1744-04-28 -- 1844-08-30
+wikipedia: Francis_Baily
+photo: baily.gif
+fields: astr stat
+biog: DSB 1, 402-403
+biog: DNB 1, 899-904
+biog: ODNB
+
+name: Banach, Stefan
+name_alt: Stepan Stepanovich Banach
+dates: 1892-00-00 -- 1945-00-00
+wikipedia: Stefan_Banach
+photo: banach.gif | | | K Kuratowski, A Half Century of Polish Mathematics: Remembrances and Reflections, Oxford, etc.: Pergamon 1980.
+photo: scotch.gif | Scotch Cafe in Lvov | | Lviv: Sightseeing Guide, L'viv: Centre d'Europe 1999.
+fields: math
+ids: MR:30300 MacTutor:Banach MG:12681
+
+name: Barnard, George Alfred 
+dates: 1915-09-23 -- 2002-08-09
+wikipedia: George_Alfred_Barnard
+photo: barnard.gif | | | Journal of the Royal Statistical Society Series A 135 (1) (1972)
+fields: stat
+ids: CIS:1011 CIS:1440 CIS:142868 CIS:14773
+
+name: Barndorff-Nielsen, Ole Eiler
+dates: 1935-03-18 -- 
+wikipedia: Ole_Barndorff-Nielsen
+photo: barndorff-nielsen.gif
+fields: stat
+ids: CIS:1793 CIS:1607 CIS:44226 CIS:150516 CIS:48431 CIS:158179 CIS:61598 MR:31370 MG:43855
+
+name: Barrett, George
+dates: 1752-00-00 -- 1821-00-00
+photo: barrett.gif | | | From p.334 of T O'Donnell, History of Life Insurance in its Formative Years, Chicago: American Conservation Company 1936.
+fields: actu stat
+biog: Bull. Inst. Math. Stats. 17 (1988), 278.
+biog: ODNB
+
+name: Bartholomew, David J
+dates: 1931-00-00 -- 
+photo: bartholomew.gif | | | Frontispiece from Journal of the Royal Statistical Society Series A 158 (1) (1995)
+fields: stat theol
+ids: CIS:93343 CIS:27133 CIS:555 CIS:155515 MR:31920 MG:42221
+
+name: Bartlett, Maurice Stephenson
+dates: 1910-06-18 -- 2002-01-08
+wikipedia: M._S._Bartlett
+photo: bartlett.gif | | | Journal of the Royal Statistical Society Series A 130 (4) (1967)
+fields: stat
+ids: CIS:48979 CIS:438 MR:31960 MG:58066
+biog: ODNB
+
+name: Basu, Debabrata
+dates: 1924-00-00 -- 2001-03-24
+wikipedia: Debabrata_Basu
+photo: basu.gif | | | J K Ghosh, S K Mitra and K R Parthasarathy (ed.), Glimpses of India's Statistical Heritage, New Delhi, etc.: Wiley 1992.
+fields: stat
+ids: CIS:18697 MG:48981
+
+name: Bayes, Rev. Thomas
+dates: 1702-00-00 -- 1761-04-17
+wikipedia: Thomas_Bayes
+photo: bayes.gif | | | From p.335 of T O'Donnell, History of Life Insurance in its Formative Years, Chicago: American Conservation Company 1936.
+photo: bayes_signature.gif | Bayes' signature | | http://www.stats.uwo.ca/faculty/bellhouse/bayespage.htm
+photo: bayes_grave.gif | The Bayes family valut | | From p.297 in J L Folks, Ideas of Statistics, Ames, IO: Iowa State University Press 1981.
+photo: bayes_map.gif | Visitor's map of Bunhill Fields | | The Official Guide to Bunhill Fields, London: Corporation of London 1991.
+photo: bayes_house.gif | Ashton Lodge where Bayes probably lived | | Bulletin of the Institute of Mathematical Statistics 20 (1991), 226 (see also 17 (1988), 49, 276-278, 482-3, 19 (1990), 478-479 and 21 (1992), 225-227).
+fields: stat math theol
+ids: MG:48331 MacTutor:Bayes MR:233302
+biog: DSB 1, 531-532
+biog: IES 1, 7-9
+biog: ESS Sup 14-17
+biog: DNB (Missing Persons), 50-51.
+biog: ODNB.
+
+name: Bechhofer, Robert E
+dates: 1919-00-00 -- 1996-00-00
+photo: bechhofer.gif | (centre) with Sobel, Milton (left) and Gupta, Shanti Swarup (right) | | A conversation with Shanti Gupta, Statistical Science, 13 (1998), 291-305 at page 294
+fields: stat
+ids: CIS:622 CIS:20093 CIS:979 MG:85681 MR:33265
+
+name: Bellhouse, David A
+dates: 0000-00-00 -- 
+photo: bellhouse.gif | | | http://www.stats.uwo.ca/faculty/bellhouse/
+fields: stat
+
+name: Benjamin, Bernard
+dates: 1910-03-08 -- 2002-05-15
+wikipedia: Bernard_Benjamin
+photo: benjamin.gif | | | Journal of the Royal Statistical Society Series A 134 (1) (1971)
+fields: actu stat
+ids: CIS:4719
+
+name: Berger, James Orvis
+dates: 1950-00-00 -- 
+photo: berger_j_o.gif | | | http://www.stat.duke.edu/~berger/icon/berger2.jpg
+fields: stat
+ids: CIS:9105 CIS:136945 CIS:13470 MR:35185 MG:46730
+
+name: Berger, Roger L
+dates: 0000-00-00 -- 
+photo: berger_r_l.gif | | | http://www.west.asu.edu/rlberge1/index.html
+fields: stat
+ids: 
+
+name: Bernardo, José-Miguel
+dates: 1950-00-00 -- 
+wikipedia: 
+photo: bernardo.gif | Ixtapa, Mexico | 2000 | http://www.uv.es/~bernardo/Jose2b.jpg
+fields: stat
+ids: CIS:19820 CIS:11710 CIS:12685
+
+name: Bernoulli, Daniel
+dates: 1700-01-29 -- 1782-07-27
+wikipedia: Daniel_Bernoulli
+photo: bernoulli_d.gif | | | Frontispiece of Werke, Vol.3, Basel: Birkhäuser 1987.
+photo: bernoulli_tree.gif | The Bernoulli family tree | | Adapted from the web at http://www.ub.unibas.ch/spez/bernoull.htm
+fields: math phys stat
+ids: MacTutor:Bernoulli_Daniel MG:108998 MR:35680
+biog: DSB 2, 36-46
+biog: IES 1, 20
+biog: ESS 1, 216-217
+
+name: Bernoulli, James
+name_alt: Bernoulli, Jacob
+name_alt: Bernoulli, Jacques
+dates: 1654-12-27 -- 1705-08-16
+wikipedia: Jakob_Bernoulli
+photo: bernoulli_ja.gif
+photo: bernoulli_tree.gif | The Bernoulli family tree | | Adapted from the web at http://www.ub.unibas.ch/spez/bernoull.htm
+photo: bernoulli_ja_grave | Grave of James Bernoulli | | From Fig. 11.17 in Eli Maor, To InfinIty and Beyond: A Cultural History of the Infinite, Basel: Birkhäuser 1986
+fields: stat
+ids: MacTutor:Bernoulli_Jacob MG:54440
+biog: DSB 2, 46-51
+biog: IES 1, 19
+biog: ESS 1, 215-216
+
+name: Bernoulli, Nicholas
+name_alt: Bernoulli, Nicholas I
+dates: 1687-10-21 -- 1759-11-29
+wikipedia: Nicolaus_I_Bernoulli
+photo: bernoulli.gif | No known portrait appears to exist (cf. the Bernoulli family tree). Title page of De Usu Artis Conjectandi in Jure here | | Reproduced opposite p.287 in James Bernoulli, Werke, Vol.3, Basel: Birkhäuser 1989
+fields: math stat law
+ids: MacTutor:Bernoulli_Nicolaus(I)
+biog: DSB 2, 56-57
+biog: IES 1, 19-20
+biog: ESS 1, 216.
+
+name: Bernstein, Sergey Natanovich
+dates: 1880-03-05 -- 1968-10-26
+wikipedia: Sergei_Natanovich_Bernstein
+photo: bernstein.gif | | | http://hp.iitp.ru/ENG/02/0231.HTM
+fields: math stat
+ids: CIS:138118 MR:191770 MG:53459 MacTutor:Bernstein_Sergi
+biog: DSB 15, 22-24
+biog: ESS 1, 221-223
+
+name: Bertin, Jacques
+dates: 1918-00-00 -- 
+wikipedia: Jacques_Bertin
+photo: bertin.gif | | | http://wwwusers.imaginet.fr/~bplanque/bertin.html
+fields: geog stat
+
+name: Bertrand, Joseph Louis François
+dates: 1822-03-11 -- 1900-04-05
+wikipedia: Joseph_Louis_Fran%C3%A7ois_Bertrand
+photo: bertrand.gif | | | From p.277 in A N Kolmogorov and A P Yushkevich (eds), Mathematics in the Nineteenth Century: Mathematical Logic, Algebra, Number Theory, Probability Theory, Boston, MA: Birkhäuser 1992.
+fields: math phys stat
+ids: MacTutor:Bertrand MR:358073
+biog: DSB 2, 87-89
+
+name: Besag, Julian
+dates: 0000-00-00 --
+photo: besag.gif | | | RSS News 29 (1) (2001 September), 2
+fields: stat
+ids: CIS:17802 CIS:6517 CIS:8192 MR:239739 MG:22252
+biog: DSB 2, 97-102
+
+name: Bessel, Friedrich Wilhelm
+dates: 1784-07-22 -- 1846-03-17
+wikipedia: Friedrich_Bessel
+photo: bessel.gif | | | From fig.10, opp. p.321 in A Pannekoek, A History of Astronomy, London: George Allen and Unwin 1961.
+fields: math astr stat
+ids: MR:36040 MG:18603 MacTutor:Bessel
+biog: DSB 2, 97-102
+
+name: Bharucha-Reid, Albert Turner
+dates: 1930-00-00 -- 1985-00-00
+wikipedia: 
+photo: bharucha-reid.gif | | | No. 479 from Paul R Halmos, I Have a Photographic Memory, Providence, RI: American Mathematical Society 1987.
+fields: stat
+ids: CIS:29633 CIS:439 MG:7984 MR:36370
+
+name: Bienaymé, Irénée-Jules
+name_alt: Bienayme, Irénée-Jules
+dates: 1796-08-28 -- 1878-10-19
+wikipedia: Ir%C3%A9n%C3%A9e-Jules_Bienaym%C3%A9
+photo: bienayme.gif | | | Frontispiece from C C Heyde and E Seneta, I.J. Bienaymé: Statistical Theory Anticipated, New York: Springer-Verlag 1977.
+fields: stat demog
+ids: MacTutor:Bienayme
+biog: IES 1, 21-22
+biog: ESS 1, 231-235
+
+name: Birnbaum, Allan
+dates: 1923-05-27 -- 1976-07-01
+wikipedia: Allan_Birnbaum
+photo: birnbaum.gif | | | The American Statistician 31 (1977), pp. 178
+fields: stat
+ids: CIS:274 MR:413961 MG:33041
+
+name: Blackwell, David Harold
+dates: 1919-00-00 -- 
+wikipedia: David_Blackwell
+photo: blackwell.gif | | | From Constance Reid, Neyman - from Life, New York: Springer-Verlag 1982
+fields: stat
+ids: CIS:1561 CIS:166 MR:37555 MacTutor:Blackwell MG:4209
+
+name: Bodmer, Sir Walter Frederick
+name_alt: Bodmer, Fred
+dates: 1936-00-00 -- 
+wikipedia: Walter_Bodmer
+photo: bodmer.gif | | | Frontispiece from Journal of the Royal Statistical Society Series A 148 (2) (1985)
+fields: gene epid stat
+ids: CIS:125188 CIS:48980
+
+name: Bol'shev, Logiy Nikolaevich
+name_alt: Bolshev, Logiy Nikolaevich
+dates: 1922-00-00 -- 1978-00-00
+photo: bolshev.gif | | | http://hp.iitp.ru/ENG/38/3800.HTM
+fields: stat
+ids: CIS:19529 CIS:579 MR:201105 MG:17501
+biog: ESSU 1, 63-6
+
+name: Boltzmann, Ludwig Eduard
+dates: 1844-02-20 -- 1906-09-05
+wikipedia: Ludwig_Boltzmann
+photo: boltzmann.gif | | | From p.270 in A N Kolmogorov and A P Yushkevich (eds), Mathematics in the Nineteenth Century: Mathematical Logic, Algebra, Number Theory, Probability Theory, Boston, MA: Birkhäuser 1992.
+fields: phys stat
+ids: MR:39015 MG:13105
+biog: DSB 2, 260-268
+biog: ESS 1, 293-294
+
+name: Bonferroni, Carlo Emilio
+dates: 1892-01-28 -- 1960-08-18
+wikipedia: Carlo_Emilio_Bonferroni
+photo: bonferroni.gif | | | From p.225 in N L Johnson and S Kotz (ed.), Leading personalities in Statistical Sciences from the Seventeenth Century to the Present, New York, etc.: Wiley 1997 
+fields: stat
+ids: MacTutor:Bonferroni MR:196232
+
+name: Boole, George
+dates: 1815-11-02 -- 1864-12-08
+wikipedia: George_Boole
+photo: boole.gif | | | Frontispiece from G Boole, Collected Logical Works, Vol. I: Studies in Logic and Probability, La Salle, IL: Open Court 1952.
+fields: math stat
+ids: MacTutor:Boole MR:39385
+biog: DSB 2, 293-298
+biog: DNB 2, 831-833
+biog: ODNB
+
+name: Borel, Émile Félix-Edouard-Justin
+dates: 1871-01-07 -- 1956-02-03
+wikipedia: %C3%89mile_Borel
+photo: borel.gif | | | From Constance Reid, Neyman - from Life, New York: Springer-Verlag 1982
+fields: math stat
+ids: MR:250357 MacTutor:Borel MG:39071
+biog: DSB 2, 302-305
+
+name: Bortkiewicz, Ladislaus von
+dates: 1868-08-07 -- 1931-07-15
+wikipedia: Ladislaus_Bortkiewicz
+photo: bortkiewicz.gif | | | Reichshandbuch der Deutschen Gessellschaft, Bd. I: Handbuch der Persönlichkeiten in Wort und Bild, 1930, S. 188.
+fields: math stat
+ids: MacTutor:Bortkiewicz
+
+name: Bose, Raj Chandra
+dates: 1901-06-19 -- 1987-10-31
+wikipedia: Raj_Chandra_Bose
+photo: bose.gif | | | From p.41 in The Mathematical Intelligencer 5(1) (1983).
+fields: stat
+ids: MR:39945 MG:11936
+biog: ESS Sup, 22-23
+
+name: Boskovich, Rudjer Josip, S.J.
+name_alt: Boscovich, Ruggiero Giuseppe
+name_alt: Boscovich, Roger Joseph 
+dates: 1711-05-18 -- 1787-02-13
+wikipedia: Roger_Joseph_Boscovich
+photo: boscovich.gif | | | From frontispiece of L L White (ed.), Roger Joseph Boscovich, S.J., F.R.S. 1711-1787, London: George Allen and Unwin 1961.
+fields: math stat
+ids: MacTutor:Boscovich MR:215042
+biog: DSB 2, 326-332
+biog: ESS 1, 303-304
+
+name: Bowley, Sir Arthur Lyon
+dates: 1869-11-06 -- 1957-01-21
+wikipedia: Arthur_Lyon_Bowley
+photo: bowley.gif | | | Frontispiece from A H Bowley, A Memoir of Professor Sir Arthur Bowley, 1869-1957, and his family, Petworth 1972 
+fields: stat econ
+biog: ODNB
+
+name: Box, George Edward Pelham
+dates: 1919-10-18 -- 
+wikipedia: George_E._P._Box
+photo: box.gif | | | From p.240 in A conversation with George Box, Statistical Science, 2 (1987), 239-258.
+fields: stat
+ids: CIS:772 MacTutor:Box CIS:1442 CIS:149582 MR:40500 MG:42226
+
+name: Bradley, Ralph A
+dates: 1923-00-00 -- 
+photo: bradley.gif | | | From A conversation with Ralph A Bradley, Statistical Science, 16 (2001), 75-100 at page 88.
+fields: stat
+ids: CIS:78723 CIS:1115 MR:40820 MG:35100
+
+name: Bravais, Auguste
+dates: 1811-08-23 -- 1863-03-30
+wikipedia: Auguste_Bravais
+photo: bravais.gif | | | http://www.lmcp.jussieu.fr/~soyer/cristallo/bravais.gif
+fields: chem phys astr stat
+
+name: Breiman, Leo
+dates: 1928-01-27 -- 2005-07-07
+wikipedia: Leo_Breiman
+photo: breiman.gif | | | A conversation with Richard Olshen, Statistical Science, 16 (2001), 184-198 at page 192.
+fields: stat
+ids: CIS:1141 CIS:532 MR:189332 MG:32157
+
+name: Buffon, George Louis Leclerc, Comte de
+dates: 1707-09-07 -- 1788-04-16
+wikipedia: Georges-Louis_Leclerc%2C_Comte_de_Buffon
+photo: buffon.gif | | | From p.211 of T O'Donnell, History of Life Insurance in its Formative Years, Chicago: American Conservation Company 1936.
+fields: biol math stat
+ids: MacTutor:Buffon MR:260991
+biog: DSB 2, 576-582
+
+name: Bunyakovskii, Viktor Yakovlevich
+dates: 1804-12-16 -- 1889-12-12
+wikipedia: Viktor_Bunyakovsky
+photo: bunyakovskii.gif | | | From p.250 in A N Kolmogorov and A P Yushkevich (eds), Mathematics in the Nineteenth Century: Mathematical Logic, Algebra, Number Theory, Probability Theory, Boston, MA: Birkhäuser 1992.
+fields: math phys stat
+ids: MacTutor:Bunyakovsky
+
+name: Burr, Irving Wingate
+dates: 1908-00-00 -- 0000-00-00
+photo: burr.gif | | | A conversation with Shanti Gupta, Statistical Science, 13 (1998), 291-305 at page 295.
+fields: stat
+ids: CIS:7611 MR:420172 MG:5187
+
+name: Cantelli, Francesco Paolo
+dates: 1875-00-00 -- 1966-00-00
+wikipedia: Francesco_Paolo_Cantelli
+photo: cantelli.gif | | | From p.228 in N L Johnson and S Kotz (ed.), Leading personalities in Statistical Sciences from the Seventeenth Century to the Present, New York, etc.: Wiley 1997
+fields: math astr stat
+ids: MacTutor:Cantelli MR:250664
+biog: ESSU 3, 65-69
+
+name: Carcavi, Pierre de
+dates: 1600-00-00 -- 1684-00-00
+fields: theol math
+ids: MacTutor:Carcavi MR:721247
+biog: DSB 3, 63-64
+
+name: Cardano, Girolamo
+name_alt: Cardano, Gerolamo
+name_alt: Cardan, Jerome
+dates: 1501-09-24 -- 1576-
+wikipedia: Gerolamo_Cardano
+photo: cardano.gif | | | From facing p.52 in A Wykes, Doctor Cardano: Physician Extraordinary, London: Frederick Muller 1969
+fields: med math astr stat
+ids: CIS:150259 MacTutor:Cardan MR:271760
+biog: DSB 3, 64-67
+
+name: Carlyle, Thomas
+dates: 1795-12-04 -- 1881-02-05
+wikipedia: Thomas_Carlyle
+photo: carlyle.gif | | | http://www.sc.edu/library/spcoll/britlit/carlyle.gif 
+fields: hist
+ids: MacTutor:Carlyle) 
+biog: DNB 3, 1020-1036
+biog: ODNB
+
+name: Casella, George
+dates: 0000-00-00 -- 
+photo: casella.gif | | | http://www.stat.ufl.edu/personnel/usrpages/casella.shtml 
+fields: stat
+ids: 
+
+name: Cauchy, Augustin Louis
+dates: 1789-08-21 -- 1857-05-23
+wikipedia: Augustin_Louis_Cauchy
+photo: cauchy_young.gif | Cauchy as a young academician. Half-length portrait by Boilly, 1821 | | From p.137 in B Belhouse, Augustin-Louis Cauchy: A Biography, Springer-Verlag 1991.
+photo: cauchy.gif | | | From p.497 in D E Smith, A History of Mathematics, Vol. I, Boston, MA: Ginn 1925 and New York, NY: Dover 1958.
+fields: math stat
+ids: MR:46365 MG:55177 MacTutor:Cauchy
+biog: DSB 3, 131-148
+biog: ESS 1, 384-385
+
+name: Chauvenet, William
+dates: 1820-00-00 -- 1870-00-00
+wikipedia: William_Chauvenet
+photo: chauvenet.gif | | | http://www.artsci.wustl.edu/~freiwald/chauvenet.html 
+fields: math educ stat
+ids: MacTutor:Chauvenet MR:295185
+
+name: Chebysheff, Pavnutii Lvovich
+name_alt: Chebyshev, Pafnuty Lvovich
+name_alt: Tchebycheff, Pafnuty Lvovitch
+name_alt: Cebysev, Pafnuty Lvovic 
+dates: 1821-05-04 -- 1894-11-26
+wikipedia: Pafnuty_Chebyshev
+photo: chebyshev.htm | | | From facing p.70 in W J Adams, The Life and Times of the Central Limit Theorem, New York, NY: Kaedmon 1974.
+fields: math stat
+ids: MR:191693 MacTutor:Chebyshev MG:12542
+biog: DSB 3, 222-232
+biog: ESS 1, 429-431
+
+name: Chernoff, Herman
+dates: 1923-07-01 -- 
+wikipedia: Herman_Chernoff
+photo: chernoff.gif | | | From p.166 in The Mathematical Intelligencer 3 (1981).
+fields: math phys stat
+ids: CIS:1489 CIS:402 CIS:14421 MacTutor:Chernoff  MR:48065 MG:14275
+
+name: Chetverikov, Nikolai Sergeeivich
+dates: 1885-00-00 -- 1973-00-00
+photo: chetverikov.gif | | | From Plate VI in O Sheynin, Aleksandr A. Chuprov: Life, Work, Correspondence. The Making of mathematical statistics, Göttingen: Vandenhoeck and Ruprecht 1996. This picture was reprinted from Priroda 1974, No. 2, p. 87.
+fields: math stat
+ids: CIS:10361 MR:341293
+
+name: Cheysson, Jean-Jacques Emile
+name_alt: Cheysson, Emile
+dates: 1836-00-00 -- 1910-00-00
+photo: cheysson.gif | | | http://annales.org/archives/x/cheysson.html
+fields: math stat
+
+name: Chiang, Chin Long
+dates: 1914-00-00 -- 
+photo: chiang.gif | | | A conversation with Chin Long Chiang, Statistical Science, 14 (1999), 457-470 at page 458.
+fields: stat
+ids: CIS:1200 CIS:440
+
+name: Chow, Yuan Shih
+dates: 1924-00-00 -- 
+photo: chuan.gif | | | http://hp.iitp.ru/ENG/30/3073.HTM
+fields: stat
+biog: ESS 1, 477-479
+
+name: Chuprov, Alexander Alexandrovich
+name_alt: Tschuprow, Alexander Alexandrovich
+Name_alt: Cuprov, Aleksandr Aleksandrovic
+dates: 1874-02-18 -- 1926-04-19
+wikipedia: Alexander_Alexandrovich_Chuprov
+photo: chuprov.gif | | | http://hp.iitp.ru/ENG/30/3073.HTM
+fields: math stat
+ids: CIS:18675 MR:248252
+biog: CIS:18675 MR:248252
+
+name: Cochran, William Gemmell
+dates: 1909-07-15 -- 1980-03-29
+wikipedia: William_Gemmell_Cochran
+photo: cochran.gif | | | Frontispiece from Contributions to Statistics, New York: Wiley 1982.
+fields: stat
+ids: CIS:323 CIS:20368 MR:50115 MacTutor:Cochran MG:25897
+biog: DSB 17, 171-173
+biog: ESSU 1, 124-125
+
+name: Condorcet, Marquis de
+name_alt: Caritat, Marie-Antoine-Jean-Nicolas
+dates: 1743-09-17 -- 1794-03-28
+wikipedia: Marquis_de_Condorcet
+photo: condorcet.gif | | | From the cover of R Rashed (ed.), Sciences a l'Époque de la Révolution Français, Paris: Blanchard 1988.
+fields: math econ pol stat
+ids: MacTutor:Condorcet MR:245648 CIS:95100
+biog: DSB 3, 383-388
+
+name: Cook, Leonard Warren
+name_alt: Cook, Len
+dates: 1949-04-13
+wikipedia: Len_Cook
+photo: cook.htm | | | From RSS News 33 (3) (2005 November), 7
+fields: stat
+ids: CIS:15554 CIS:146938 CIS:67460 MR:730126
+
+name: Coolidge, Julian Lowell
+dates: 1873-09-28 -- 1954-03-05
+wikipedia: Julian_Lowell_Coolidge
+photo: coolidge.htm | | | http://www.maa.org/aboutmaa/coolidge.gif
+fields: stat
+ids: 
+
+name: Cornfield, Jerome
+dates: 1912-00-00 -- 1979-00-00
+photo: cornfiled.gif | | | http://www.biostat.jhsph.edu/newsEvent/history/cornfield.shtml
+fields: stat
+ids: CIS:12875 CIS:273 MR:278617 MG:49822
+
+name: Cournot, Antoine Augustine
+dates: 1801-08-28 -- 1877-03-31
+wikipedia: Antoine_Augustin_Cournot
+photo: cournot.gif | | | http://www.econ.uiuc.edu/~roger/fame.html 
+fields: math econ phil stat
+ids: MacTutor:Cournot MR:52230
+
+name: Courtney, Leonard Henry
+name_alt: Courtney, Lord
+wikipedia: Leonard_Courtney%2C_1st_Baron_Courtney_of_Penwith
+photo: courtney.gif | | | Frontispiece  from  Cornish  Granite:  Extracts  from the Writings and Speeches of Lord Courtney of Penrith, London: Leonard Parsons 1925
+fields pol stat
+biog: ODNB
+
+name: Cox, Sir David Roxbee
+dates: 1924-00-00 -- 
+wikipedia: David_Cox_%28statistician%
+photo: cox_d_r.gif | | | Frontispiece from Journal of the Royal Statistical Society Series A 144 (3) (1981)
+photo: fraser.gif | Left to Right: Sir David (Roxbee) Cox, Nancy Reid, Donald A S Fraser, John Ashworth Nelder | | From the web at http://www.unine.ch/statistics/cox/cox14.gif 
+fields: stat
+ids: CIS:567 CIS:84105 CIS:159106 CIS:41157 CIS:155698 CIS:151004 MR:52370 MG:70804
+
+name: Cox, Gertrude Mary
+dates: 1900-01-13 -- 1978-10-17
+wikipedia: Gertrude_Mary_Cox
+photo: cox_g_m.gif | | | From p.75 in S Stinnett et al., Women in Statistics: Sesquicentennial Activities, American Statistician 44(2) (1990), 74-80.
+fields: stat
+ids: CIS:535 MR:52385 MacTutor:Cox MG:89293
+biog: ESSU 1, 167-168
+
+name: Cramer, Gabriel
+dates: 1704-07-31 -- 1752-01-04
+wikipedia: Gabriel_Cramer
+photo: cramer_g.gif | | | http://www-groups.dcs.st-and.ac.uk/~history/BigPictures/Cramer.jpeg 
+fields: math stat
+ids: CIS:93588 MR:428666 MacTutor:Cramer
+
+name: Cramér, Harald
+name_alt: Cramer, Harald
+dates: 1893-09-25 -- 1985-10-05
+wikipedia: Harald_Cramer
+photo: cramer.gif | with Rao, Cayampudi Radhakhrishna | | From p.56 in A conversation with C.R. Rao, Statistical Science, 2 (1987), 53-67
+fields: stat
+ids: CIS:2032 CIS:495
+biog: ESS Sup, 36-37
+
+name: Crofton, Morgan William
+dates: 1826-00-00 -- 1915-00-00
+wikipedia: Morgan_Crofton
+photo: crofton.gif | | | Following links from http://www.royalsoc.ac.uk/ 
+ids: MacTutor:Crofton
+biog: ODNB
+
+name: Csörgö, Sándor
+dates: 1947-00-00 -- 2008-02-14
+wikipedia: /S%C3%A1ndor_Cs%C3%B6rg%C5%91
+photo: csorgo.gif | | | http://www.math-uszeged.hu/portal/en/az-intezet/in-memoriam-csorgo-sandor-3.html
+fields: stat
+ids: 
+
+name: Cunliffe, Stella Vivian
+dates: 1917-01-12 -- 
+wikipedia: Stella_Cunliffe
+photo: cunliffe.gif | | | Frontispiece from Journal of the Royal Statistical Society Series A 139 (1) (1976)
+fields: stat
+ids: CIS:15171 CIS:24710 MR:429283
+
+name: D'Alembert, Jean le Rond
+dates: 1717-11-16 -- 1783-10-29
+wikipedia: Jean_le_Rond_d'Alembert
+photo: dalembert.gif | | | From Fig. 13.8, p.201 in J Stillwell, Mathematics and its History, Berlin: Springer 1989
+fields: math stat
+ids: MacTutor:D'Alembert MG:10826 MR:24580
+biog DSB 1, 110-117
+
+name: Daniel, Cuthbert
+dates: 1905-00-00 -- 1997-00-00
+photo: daniel.gif | | | From p. 92 in Cuthbert Daniel: Industrial Statistician American Statistician 52 (2) (1998), 89-92
+fields: stat
+ids: CIS:448 CIS:806
+
+name: Daniels, Henry Ellis
+date: 1912-10-02 -- 2000-04-14
+wikipedia: Henry_Daniels
+photo: daniels.gif| | | Frontispiece from Journal of the Royal Statistical Society Series A 138 (1) (1975)
+fields: stat
+ids: CIS:48978 CIS:7CIS:48978 CIS:77325 MR:54475 MG:57769
+
+name: Dantzig, George Bernard
+dates: 1914-11-08 -- 2005-05-13
+wikipedia: George_Dantzig
+photo: dantzig.gif | | | From p.61 in D J Albers, G L Alexanderson and C Reid, More Mathematical People, Boston, MA: Harcourt Brace Jovanovich 1990
+fields: stat
+ids: CIS:55198 CIS:1145 MR:54520 MacTutor:Dantzig_George MG:32292 
+
+name: Darmois, Georges
+dates: 1888-00-00 -- 1960-00-00
+photo: darmois.gif | | | From p.166 in D J Albers, G L Alexanderson and C Reid, More Mathematical People, Boston, MA: Harcourt Brace Jovanovich 1990
+fields: stat
+ids: MG:31964 MG:81193 MR:431600
+
+name: David, Florence Nightingale
+dates: 1909-08-23 -- 1993-00-00
+wikipedia: Florence_Nightingale_David
+photo: david.gif | | | F N David in her office at the Forestry Division at Berkeley, circa 1977, from p.236 in A conversation with F.N. David, Statistical Science 4 (1989), 235-246
+fields: stat hist
+ids: CIS:1147 CIS:71422 MacTutor:David MR:54950 MG:49989
+biog: ESSU 2, 176-178
+
+name: Davidov, August Yulevich
+dates: 1823-00-00 -- 1885-00-00
+photo: davidov.gif | | | From p.252 in A N Kolmogorov and A P Yushkevich (eds), Mathematics in the Nineteenth Century: Mathematical Logic, Algebra, Number Theory, Probability Theory, Boston, MA: Birkhäuser 1992.
+fields: math stat
+ids: MacTutor:Davidov
+biog: DSB 3, 591-592
+
+name: Davies, Owen Lewis
+dates: 1909-00-00 -- 
+photo: davies.gif | | | Sent by E-mail from Charles W Dunnett. 
+fields: stat
+ids: CIS:794 MR:432026 CIS:15314
+
+name: Dawid, Alexander Philip
+name_alt: Dawid, Philip
+dates: 1946-02-01 -- 
+wikipedia: Philip_Dawid
+photo: dawid.gif | | | From RSS News 29 (1) (2001 September), 8
+fields: stat
+ids: CIS:120186 CIS:6537 CIS:27919 CIS:119594 MR:55205
+
+name: Deming, William Edwards
+dates: 1900-12-20 -- 1993-12-20
+wikipedia: W._Edwards_Deming
+photo: deming.gif | | | From Constance Reid, Neyman - from Life, New York: Springer-Verlag 1982
+fields: stat
+ids: CIS:14071 CIS:35 MR:239809
+biog: ESSU 1, 181-185
+
+name: De Moivre, Abraham
+name_alt: Moivre, Abraham
+dates: 1667-05-26 -- 1754-11-27
+wikipedia: Moivre
+photo: de_moivre.gif | Abraham De Moivre painted by Jos. Highmore | 1736 | from Plate 9 (facing p.160) in F N David, Games, Gods and Gambling, London: Griffin 1962.
+fields: math stat
+ids: MR:126125 MacTutor:De_Moivre MG:48320
+biog: DSB 9, 452-455
+biog: IES 1, 601-604
+biog: ESS 2, 300-302
+biog: DNB 13, 563-564
+biog: ODNB
+
+name: De Morgan, Augustus
+name_alt: Morgan, Augustus de
+dates: 1806-06-27 -- 1871-03-18
+wikipedia: Augustus_De_Morgan
+photo: de_morgan.gif
+photo: de_morgan_caric.gif | As drawn by a student | | From p.36 of N Harte and J North, The World of University College London, London: University College London 1978.
+fields: math stat
+ids: MacTutor:De_Morgan MR:192394
+biog: DSB 4, 35-37
+biog: DNB 5, 780-78
+biog: ODNB
+
+name: Diaconis, Persi Warren
+dates: 1945-01-31 -- 
+wikipedia: Persi_Diaconis
+photo: diaconis.gif | | | From p.320 in A conversation with Persi Diaconis, Statistical Science 1 (1986), 319-334.
+fields: stat
+ids: CIS:27881 CIS:14888 CIS:83218 MR:57595 MG:18747
+
+name: Dirichlet, Johann Peter Gustav Lejeune
+dates: 1805-02-13 -- 1859-05-05
+wikipedia: Johann_Peter_Gustav_Lejeune_Dirichlet
+photo: dirichlet.gif | | | http://www-gap.dcs.st-and.ac.uk/~history/Mathematicians/Dirichlet.html 
+fields: math stat
+ids: MR:208401 MG:17946 MacTutor:Dirichlet
+
+name: Doll, Sir William Richard Shaboe
+name_alt: Doll, Richard
+dates: 1912-10-28 -- 2005-07-24
+wikipedia: Richard_Doll
+photo: doll.gif | | | http://www.bmj.com/collections/century/data/doll.htm 
+fields: stat med epid
+ids: CIS:1191 CIS:6041 CIS:98421 MR:677482
+
+name: Donnelly, Peter
+dates: 1959-05-15 -- 
+wikipedia: Peter_Donnelly
+photo: donnelly.gif | | | From M Atkins and N Gilbert, Faces of Mathematics, Panoptika 2001.
+fields: stat
+ids: CIS:48893 CIS:40539 MR:59100
+
+name: Doob, Joseph Leo
+dates: 1910--2-27 -- 2004-06-07
+wikipedia: Joseph_Leo_Doob
+photo: doob.gif | | | From Constance Reid, Neyman - from Life, New York: Springer-Verlag 1982
+fields: stat
+ids: CIS:95 CIS:17283 CIS:45721 MR:59155 MacTutor:Doob MG:4598 
+
+name: Dunnell, Karen Hope
+dates: 1946-06-16 -- 
+wikipedia: Karen_Dunnell
+photo: dunnell.gif | | | From p.175 of Inside National Statistics, Significance 2 (2005), 174-176
+fields: stat
+
+name: Dunnett, Charles
+dates: 1921-00-00 -- 2007-00-00
+wikipedia: Charles_Dunnett
+photo: dunnett.gif | | | http://www.ssc.ca/images/dunnett_hamilton.jpg 
+fields: stat
+ids: CIS:379 CIS:1365 MR:60675
+
+name: Durbin, James
+dates: 1923-00-00 -- 
+wikipedia: James_Durbin
+photo: durbin.gif | | | Frontispiece from Journal of the Royal Statistical Society Series A 150 (3) (1987)
+fields: stat econ
+ids: CIS:1215 CIS:54182 MR:194583) 
+
+name: Ebbinghaus, Hermann
+dates: 1850-01-24 -- 1909-02-26
+wikipedia: Hermann_Ebbinghaus
+photo: ebbinghaus.gif | | | From frontispiece of Zeitschrift für Psychologie 51 (1909)
+fields: psychol stat
+
+name: Edgeworth, Francis Ysidro
+dates: 1845-02-08 -- 1926-02-13
+wikipedia: Francis_Ysidro_Edgeworth
+photo: edgeworth.gif | | | From facing p.238 in Annals of the Royal Statistical Society 1834-1934, London: Royal Statistical Society 1934
+fields: econ stat
+ids: CIS:94222 MacTutor:Edgeworth MR:61825
+biog: ODNB
+
+name: Einstein, Albert
+dates: 1879-03-14 -- 1955-04-18
+wikipedia: Albert_Einstein
+photo: einstein.gif | | | http://en.wikipedia.org/wiki/Albert_Einstein 
+fields: phys math stat
+ids: MR:62280 MacTutor:Einstein MG:53269
+biog: ESS Sup, 54-55
+
+name: Eisenhart, Churchill
+dates: 1913-00-00 -- 1994-00-00
+wikipedia: Churchill_Eisenhart
+photo: eisenhart.gif | | | From p.513 in A conversation with Churchill Eisenhart, Statistical Science, 7 (1992), 512-530.
+fields: math stat
+ids: MR:288707
+
+name: Elfving, Gustav
+dates: 1908-00-00 -- 1984-00-00
+photo: elfving.gif | | | From p.96 in N L Johnson and S Kotz (ed.), Leading personalities in Statistical Sciences from the Seventeenth Century to the Present, New York, etc.: Wiley 1997 
+fields: stat
+ids: MR:62815 MG:20422
+
+name: Encke, Johann Franz
+dates: 1791-09-23 -- 1865-08-26
+wikipedia: Johann_Franz_Encke
+photo: encke.gif | | | Johann Encke, Director of the Berlin Observatory, from p.47 in M Littman, Planets Beyond: Discovering the Solar System, New York: Wiley 1978.
+fields: astr stat
+ids: MG:62547
+biog: DSB 4, 369-370
+
+name: Engel, Christian Lorenz Ernst
+name_alt: Engel, Ernst
+dates: 1821-03-26 -- 1896-12-08
+wikipedia: Ernst_Engel
+photo: engel.gif | | | From p.280 in N L Johnson and S Kotz (ed.), Leading personalities in Statistical Sciences from the Seventeenth Century to the Present, New York, etc.: Wiley 1997
+fields: stat
+ids: MR:250367
+biog: ESSU 2, 200-202
+
+name: Engset, Tore Olaus
+dates: 1865-05-08 -- 1943-00-00
+wikipedia: T._O._Engset
+photo: engset.gif | Tore Olaus Engset with his wife Marie Amelie | | http://www.telenor.com/telektronikk/volumes/pdf/2.1998/Page_154-164.pdf 
+fields: math engin stat
+
+name: En'ko, Pyotr Dimitrievich
+name_alt: Enko, Pyotr Dimitrievich
+dates: 1844-00-00 -- 1916-00-00
+photo: enko.gif | | | From p. 223 in C C Heyde and E Seneta, Statisticians of the Centuries, New York: Springer-Verlag 2001
+fields: math stat
+
+name: Erlang, Agner Krarup
+dates: 1878-01-01 -- 1929-02-03
+wikipedia: Agner_Krarup_Erlang
+photo: erlang.gif | | | From p. 328 in C C Heyde and E Seneta, Statisticians of the Centuries, New York: Springer-Verlag 2001
+fields: math stat engin
+ids: MacTutor:Erlang
+
+name: Esséen, Carl-Gustav
+name_alt: Esseen, Carl-Gustav
+dates: 1918-00-00 -- 2001-00-00
+wikipedia: Carl-Gustav_Esseen
+photo: esseen.gif | | | http://www.stat.unipd.it/bernoulli/02a/esseen.jpg 
+fields: stat
+ids: CIS:3172 CIS:2107 CIS:4472 MR:217489 MG:20033
+
+name: Euler, Leonhard Paul
+dates: 1708-04-15 -- 1783-09-18
+wikipedia: Leonhard_Euler
+photo: euler.gif | | | From Fig. 9.3, p.133 in J Stillwell, Mathematics and its History, Berlin: Springer 1989
+fields: math phys stat
+ids: MR:64415 MacTutor:Euler MG:38586
+biog: DSB 4, 467-484
+
+name: Farr, William
+dates: 1807-11-30 -- 1883-04-14
+wikipedia: William_Farr
+photo: farr.gif | | | Facing p.60 in Annals of the Royal Statistical Society 1834-1934, London: Royal Statistical Society 1934.
+fields: stat epid
+ids: CIS:12265 
+biog: DNB 6, 1090-1091
+biog: ODNB
+
+name: Faulhaber, Johann
+dates: 1580-05-05 -- 1635-09-10
+wikipedia: Johann_Faulhaber
+photo: faulhaber.gif | | | http://www-history.mcs.st-andrews.ac.uk/PictDisplay/Faulhaber
+fields: math stat
+ids: MacTutor:Faulhaber
+
+name: Fechner, Gustav Theodor
+dates: 1801-04-19 -- 1887-11-28
+wikipedia: Gustav_Fechner
+photo: fechner.gif | | | Frontispiece from G E Fechner, Elements of Psychophysics, ed. D.H. Howles and E.G. Boring, New York, NY: Holt, Rinehart and Winston 1966
+fields: psych stat
+ids: MR:250355
+biog: DSB 4, 556-559
+
+name: Federer, Walter Theodore
+dates: 1915-00-00 -- 
+photo: federer.gif | | | A conversation with Walter T Federer, Statistical Science, 20 (2005), 302-315 at page 303
+fields: stat
+ids: CIS:1848 CIS:8784 CIS:75086 CIS:1612 MR:65600 MG:30395
+
+name: Feller, William
+name_alt: Feller, Vilim
+name_alt: Feller, Vilibald Srecko
+dates: 1906-07-07 -- 1970-01-17
+wikipedia: William_Feller
+photo: feller.gif | | | From Constance Reid, Neyman - from Life, New York: Springer-Verlag 1982
+fields: math stat
+ids: CIS:99 CIS:172 MR:217063 MG:33019 MacTutor:Feller
+biog: DSB 17, 287-289
+biog: ESSU 2, 247-250
+
+name: Ferguson, Thomas Shelburne
+dates: 1929-00-00 -- 
+photo: ferguson.gif | | | From p.450 of Bulletin of the Institute of Mathematical Statistics 26 (5) (1997 Sep/Oct)
+fields: stat
+ids: CIS:146966 CIS:1004 MR:66155 MG:34508 MR:207485 MG:54246
+
+name: Fermat, Piere de
+dates: 1601-08-17 -- 1665-01-12
+wikipedia: Pierre_de_Fermat
+photo: fermat.gif | | | Abb.45 from H Loeffel, Blaise Pascal, Basel: Birkhäuser 1987.
+fields: math stat
+ids: MacTutor:Fermat MR:66175
+biog: DSB 4, 566-576
+
+name: de Finetti, Bruno
+name_alt: Finetti, Bruno de
+dates: 1906-06-13 -- 1985-07-20
+wikipedia: Bruno_de_Finetti
+photo: de_finetti.gif | | | Frontispiece of P K Goel and A Zellner (ed.), Bayesian Inference and Decision: Essays in Honor of Bruno de Finetti, Amsterdam: North-Holland 1986.
+fields: stat
+ids: CIS:73332 CIS:12771 CIS:171 CIS:1148 MacTutor:De_Finetti MR:66955
+biog: ESS Sup 46-47
+
+name: Finlaison, John
+name_alt: Finlayson, John
+dates: 1783-00-00 -- 1860-00-00
+wikipedia: John_Finlaison_%28Finlayson%29
+photo: finlaison.gif | | | From p.298 of T O'Donnell, History of Life Insurance in its Formative Years, Chicago: American Conservation Company 1936.
+fields: actu stat
+biog: DNB 7, 27-29
+
+name: Finney, David John
+dates: 1917-00-00 -- 
+wikipedia: D.J._Finney
+photo: finney.gif | | | Frontispiece from Journal of the Royal Statistical Society Series A 137 (1) (1974)
+fields: stat
+ids: CIS:24891 CIS:1134 MR:67045
+
+name: Fisher, Irving
+dates: 1867-02-27 -- 1947-04-29
+wikipedia: Irving_Fisher
+photo: fisher_i.gif | | | From p. 268 in C C Heyde and E Seneta, Statisticians of the Centuries, New York: Springer-Verlag 2001. 
+fields: econ stat
+ids: MR:341909
+
+name: Fisher, Sir Ronald Aylmer
+dates: 1890-02-12 -- 1962-07-29
+wikipedia: Ronald_Fisher
+photo: fisher.gif | | | Frontispiece of R A Fisher, Collected Papers, Vol.5, Adelaide: Department of Genetics of the University of Adelaide
+photo: fisher_portrait.gif | Portrait by Leontine Tintner in the Department of Statistics, University of North Carolina | | Frontispiece from Biometrika 50 (1963).
+photo: fisher_and_k.gif | Oscar Kempthorne (left in photo; from his personal collection) with R.A. Fisher during a short visit to Ames, Iowa| 1952 | From p.29 in G A Barnard, Fisher: A Retrospective, Chance 3 (1) (1990), 22-32
+fields: stat gene
+ids: CIS:60 CIS:164901 CIS:793 CIS:2497 MR:243354 MG:46924 MacTutor:Fisher CIS:1005
+biog: DSB 5, 7-11
+biog: IES 1, 352-358
+biog: ESS 3, 103-111
+biog: DNB (1961-70), 361-362
+biog: ODNB
+
+name: Franscini, Stefano
+dates: 1796-10-23 -- 1857-07-19
+wikipedia: Stefano_Franscini
+photo: franscini.gif | | | From p. 137 in C C Heyde and E Seneta, Statisticians of the Centuries, New York: Springer-Verlag 2001
+fields: pol stat
+ids: CIS:101834 MR:639757
+
+name: Fraser, Donald Alexander Stuart
+dates: 1925-00-00 -- 
+wikipedia: 
+photo: fraser.gif | Left to Right: Sir David (Roxbee) Cox, Nancy Reid, Donald A S Fraser, John Ashworth Nelder | | http://www.unine.ch/statistics/cox/cox14.gif 
+fields: stat
+ids: CIS:5626 CIS:663 CIS:37485 MR:68920 MG:14737
+
+name: Fréchet, Maurice René
+name_alt: Frechet, Maurice-René
+dates: 1878-09-02 -- 1973-06-04
+wikipedia: Maurice_René_Fréchet
+photo: frechet.gif | | | From p. 331 in C C Heyde and E Seneta, Statisticians of the Centuries, New York: Springer-Verlag 2001. 
+fields: math stat
+ids: CIS:18548
+
+name: Freund, John Ernst
+dates: 1921-00-00 -- 2004-00-00
+photo: freund.gif | | | From Teaching Statistics 27 (2005), 32. 
+fields: stat
+ids: CIS:15832 CIS:37047 CIS:286 MR:260491
+
+name: Frisch, Ragnar Anton Kittil
+dates: 1895-03-03 -- 1973-01-31
+wikipedia: Ragnar_Anton_Kittil_Frisch
+photo: frisch.gif | | | http://www.econ.uiuc.edu/~roger/fame.html 
+fields: econ stat
+ids: CIS:738 MR:446022
+
+name: Galilei, Galileo
+dates: 1564-02-15 -- 1642-01-08
+wikipedia: Galileo_Galilei
+photo: galileo.gif | | | Facing p.188 in D E Smith, A History of Mathematics, Vol. I, Boston, MA: Ginn 1925 and New York, NY: Dover 1958.
+fields: phys math stat
+ids: MacTutor:Galileo
+biog: DSB 5, 237-249
+
+name: Galton, Francis
+dates: 1822-02-16 -- 1911-01-17
+wikipedia: Francis_Galton
+photo: galton.gif | | | Francis Galton, aged 66, from Plate VIII of D W Forrest, Francis Galton: The Life and Work of a Victorian Genius, London: Paul Elek 1974.
+fields: geog anthrop stat
+ids: CIS:107437 MacTutor:Galton MG:30175 MR:260481
+biog: DSB 5, 265-267
+biog: IES 1, 359-364
+biog: ESS 3, 274-276
+biog: DNB (1901-1911), 70-72
+
+name: Gauss, Carl Friedrich
+name_alt: Gauss, Karl Friedrich
+dates: 1777-04-30 -- 1855-02-23
+wikipedia: Carl_Friedrich_Gauss
+photo: gauss.gif | | | From opp. p.42 in W J Adams, The Life and Times of the Central Limit Theorem, New York, NY: Kaedmon 1974.
+fields: math phys stat
+ids: CIS:99447 CIS:99529
+biog: DSB 5, 298-315
+biog: IES 1, 378-386
+biog: ESS 3, 305-309
+
+name: Geary, Robert Charles
+dates: 1896-00-00 -- 1983-00-00
+photo: geary.gif | | | From p. 459 in C C Heyde and E Seneta, Statisticians of the Centuries, New York: Springer-Verlag 2001
+fields: stat
+ids: CIS:60957 CIS:2661 MR:209943
+
+name: Geiringer, Hilda
+name_alt: Mises, Hilda Geiringer von
+name_alt: Von Mises, Hilda Geiringer
+dates: 1893-09-28 -- 1973-03-22
+wikipedia: Hilda_Geiringer
+photo: geiringer.gif | | | From p.50 in Die Mathematik war eing Halt und eine Freude: Hilda Geiringer zum 100 Geburtstag, Koruphyäaut;e 15 (1994 May), 50-51
+fields: stat
+ids: CIS:18577 MG:53254 MacTutor:Geiringer
+
+name: Geisser, Seymour
+dates: 1929-00-00 -- 2004-00-00
+wikipedia: Seymour_Geisser
+photo: geisser.htm | | | http://www.stat.umn.edu/Geisser_Lectureship/Note.html
+fields: stat
+ids: 
+
+name: Gibbs, Josiah Willard
+dates: 1839-02-11 -- 1903-04-28
+wikipedia: Josiah_Willard_Gibbs
+photo: gibbs.gif | | | http://en.wikipedia.org/wiki/Josiah_Willard_Gibbs
+fields: phys chem math stat
+ids: MacTutor:Gibbs MR:73305
+
+name: Gini, Corrado
+dates: 1884-05-23 -- 1965-03-13
+wikipedia: Corrado_Gini
+photo: gini.gif | | | From p. 459 in C C Heyde and E Seneta, Statisticians of the Centuries, New York: Springer-Verlag 2001
+fields: stat demog soci
+ids: CIS:2449 MR:217742
+biog: ESSU 2, 277-281
+
+name: Gnanadesikan, Ramanathan
+dates: 1932-00-00 -- 
+photo: gnanadesikan.gif | Interviewing John Tukey at Bellcore | 1993 | A conversation with Ramanathan Gnanadesikan, Statistical Science, 16 (2001), 295-309 at page 
+fields: stat
+ids: CIS:721 CIS:6071 CIS:57167 MR:74330 MG:47240
+
+name: Gnenedenko, Boris Vladimirovich
+dates: 1912-01-01 -- 1995-12-27
+wikipedia: Boris_Vladimirovich_Gnedenko
+photo: gnenedenko.gif | | | From p.244 in N L Johnson and S Kotz (ed.), Leading personalities in Statistical Sciences from the Seventeenth Century to the Present, New York, etc.: Wiley 1997
+fields: stat
+ids: CIS:66610 CIS:1023 MR:74335 MG:17513 MacTutor:Gnedenko
+biog: ESSU 2, 281-282
+
+name: Godambe, Vidyadhar P
+dates: 1926-00-00 -- 
+photo: godambe.gif | | | http://www.ssc.ca/images/godambe.jpg 
+fields: stat
+ids: CIS:47622 CIS:956 MR:74370 MG:42242
+
+name: Gompertz, Benjamin
+dates: 1779-03-05 -- 1865-07-14
+wikipedia: Benjamin_Gompertz
+photo: gompertz.gif | | | From p.341 of T O'Donnell, History of Life Insurance in its Formative Years, Chicago: American Conservation Company 1936.
+fields: math stat demog
+ids: MacTutor:Gompertz
+biog: DSB 5, 466
+
+name: Good, Irving John
+name_alt: Good, Jack
+dates: 1916-12-09 -- 
+wikipedia: I._J._Good
+photo: good.gif | | | Bulletin of the Institute of Mathematical Statistics 16(3) (1987), 106.
+fields: math stat
+ids: CIS:533 CIS:152199 CIS:8078 MR:75220 MG:72215
+
+name: Gosset, William Sealy
+name_alt: Student
+dates: 1876-06-13 -- 1937-10-16
+wikipedia: William_Sealy_Gosset
+photo: gosset.gif | | | Annals of Eugenics 9 (1939)
+fields: stat
+ids: CIS:71835 MacTutor:Gosset MR:75615
+biog: DSB 5, 409-413
+biog: IES 1, 409-413
+biog: ESS 1, 461-463
+biog: DNB (1931-1940), 353-354
+biog: ODNB
+
+name: Gould, Stephen Jay
+dates: 1941-09-10 -- 2002-05-20
+wikipedia: Stephen_Jay_Gould
+photo: gould.gif | | | Frontispiece from S J Gould, The Individual in Darwin's World, Edinburgh: Edinburgh University Press 1990
+fields: biol hist stat
+ids: CIS:10690 MR:273838
+
+name: Goulden, Cyril Harold
+dates: 1897-00-00 - 1981-00-00
+photo: goulden.gif | | | http://www.usask.ca/archives/history/hondegrees.php?id=80&view=detail&keyword=&campuses=
+fields: stat
+biog: ESSU 2, 282-284
+
+name: Graunt, John
+dates: 1620-04-24 -- 1674-04-18
+wikipedia: John_Graunt
+photo: graunt.gif | | | From p.147 of T O'Donnell, History of Life Insurance in its Formative Years, Chicago: American Conservation Company 1936
+fields: demog stat
+ids: MR:453794
+biog: DSB 5, 506-508
+biog: IES 1, 435-437
+biog: DNB 8, 427-42
+biog: ODNB
+
+name: 'sGravesande, Willem Jacob
+dates: 1688-09-26 -- 1742-02-28
+wikipedia: Willem_%27s_Gravesande
+photo: sgravesande.gif | | | http://www-groups.dcs.st-and.ac.uk/~history/BigPictures/SGravesande.jpeg 
+fields: math phil stat
+ids: MacTutor:SGravesande
+biog: DSB 5, 509-511
+biog: ESSU 2, 617-619
+
+name: Green, Peter James
+dates: 1950-00-00 -- 
+wikipedia: Peter_Green_%28mathematician%29
+photo: green.gif | | | RSS News 29 (1) (2001 September), 5
+fields: stat
+ids: CIS:49001 CIS:47508 MR:76540 CIS:73966 CIS:13803
+
+name: Griliches, Zvi
+dates: 1930-09-12 -- 1999-11-04
+wikipedia: Zvi_Griliches
+photo: griliches.gif | | | http://www.econ.uiuc.edu/~roger/fame.html 
+fields: econ stat
+ids: CIS:49399 CIS:756 MR:210084 G:61475
+
+name: Gumbel, Emil Julius
+dates: 1891-07-18 -- 1966-09-10
+wikipedia: Emil_Julius_Gumbel
+photo: gumbel.gif | | | From p. 406 in C C Heyde and E Seneta, Statisticians of the Centuries, New York: Springer-Verlag 2001
+fields: econ stat
+ids: CIS:53 CIS:271 MR:455846 MG:49040
+
+name: Gupta, Shanti Swarup
+dates: 1925-00-00 -- 2001-00-00
+photo: gupta.gif | | | From p.14 in Bulletin of the Institute of Mathematical Statistics 31 (3) (2002). 
+fields: stat
+ids: CIS:1008 CIS:94401 MacTutor:Gupta MR:78435 MG:24941
+
+name: Guttman, Louis
+dates: 1916-00-00 -- 1987-00-00
+wikipedia: Louis_Guttman
+photo: guttman.gif | | | From p.112 in N L Johnson and S Kotz (ed.), Leading personalities in Statistical Sciences from the Seventeenth Century to the Present, New York, etc.: Wiley 1997 
+fields: stat
+ids: CIS:47958 CIS:12294 MR:286032
+
+name: Haavelmo, Trygve
+dates: 1911-12-13 -- 1999-07-28
+wikipedia: Trygve_Haavelmo
+photo: haavelmo.gif | | | http://www.econ.uiuc.edu/~roger/fame.html 
+fields: econ stat
+ids: CIS:24 MR:285460
+
+name: Hájek, Jaroslav
+name_alt: Hajek, Jaroslav
+dates: 1926-00-00 -- 1974-00-00
+wikipedia: Jaroslav_H%C3%A1jek
+photo: hajek.gif | | | http://www.econ.uiuc.edu/~roger/fame.html 
+fields: econ math stat
+ids: CIS:4938 CIS:1083
+
+name: Hald, Anders
+dates: 1913-07-03 -- 2007-11-11
+wikipedia: Anders_Hald
+photo: hald.gif | | | http://www.genarians.com/1913.html 
+fields: stat hist
+ids: CIS:128053 CIS:1009 CIS:16414
+
+name: Haldane, John Burdon Sanderson
+dates: 1892-11-05 -- 1964-12-01
+wikipedia: J._B._S._Haldane
+photo: haldane.gif | J B S Haldane with his second wife, Dr Helen Spurway | 1956 | Opposite p.208 in R Clark, J.B.S.: The Life and Work of J.B.S. Haldane, London: Hodder and Stoughton 1968.
+fields: gene biol stat
+ids: MacTutor:Haldane MR:79925 MG:49250
+biog: DSB 5, 21-23
+biog: DNB (1961-70), 473-475
+
+name: Halley, Edmond
+dates: 1656-11-08 -- 1742-01-12
+wikipedia: Edmond_Halley
+photo: halley.gif | Edmond Halley as a naval officer, after a portrait by Sir Geoffrey Kneller | | Plate 2 from A Armitage, Edmond Halley, London: Nelson 1966
+fields: astr math phys stat
+ids: MacTutor:Halley MR:227987
+biog: DSB 6, 67-72
+biog: DNB 8, 988-994
+biog: ODNB
+
+name: Hand, David J
+dates: 0000-00-00 -- 
+photo: hand.gif | | | From p. 7 in RSS News, 30 (1) (2002).
+fields: stat
+ids: CIS:100197 CIS:52898 CIS:31748 MR:80675 MG:92868
+
+name: Hannan, Edward James
+dates: 1921-00-00 -- 1994-00-00
+photo: hannan.gif | | | From frontispiece of
+Essays in Time Series and Allied Processes: papers in Honour of E.J. Hannan, ed. J Gani and M B Priestley, Journal of Applied Probability 23A (1986).
+fields: stat
+ids: CIS:35839 CIS:957 MR:80855 MG:49995
+biog: ESSU 1, 306-310
+
+name: Hartigan, John Anthony
+dates: 1937-00-00
+photo: hartigan.gif | | | A conversation with John Hartigan, Statistical Science, 13 (2005), 418-430 at page 430.
+fields: stat
+ids: CIS:1860 CIS:2146 CIS:12769 MR:81845 MG:29486
+
+name: Hartley, Hermann Otto
+name_alt: Hirschfield, Hermann Otto
+dates: 1912-00-00 -- 1980-00-00
+photo: hartley.gif | | | From p.197 in N L Johnson and S Kotz (ed.), Leading personalities in Statistical Sciences from the Seventeenth Century to the Present, New York, etc.: Wiley 1997 
+fields: math stat
+ids: CIS:651 MR:81875 MG:20670
+
+name: Hájek, Jaroslav
+name_alt: Hajek, Jaroslav
+dates: 1926-00-00 -- 1974-00-00
+photo: hayek.gif | | | From p.194 in N L Johnson and S Kotz (ed.), Leading personalities in Statistical Sciences from the Seventeenth Century to the Present, New York, etc.: Wiley 1997 
+fields: stat
+ids: CIS:74469
+
+name: Helmert, Friedrich Robert
+dates: 1843-07-31 -- 1917-06-15
+wikipedia: Friedrich_Robert_Helmert
+photo: helmert.gif | | | http://www.math.wisc.edu/~apache/photos/kurtz.gif
+fields: geog phys math stat
+ids: MR:366127 MG:62585
+biog: DSB 6, 239-241
+biog: ESS 3, 605-606
+
+name: Heyde, Christopher Charles
+dates: 1939-04-20 -- 2008-03-06
+wikipedia: Chris_Heyde
+photo: heyde.gif | | | A conversation with Chris Heyde, Statistical Science, 13 (2006), 286-298 at page 297.
+fields: stat
+ids: CIS:1986 CIS:99971 CIS:77324 MR:190193 MG:57372 CIS:148059
+
+name: Heysham, John
+dates: 1753-00-00 -- 1834-00-00
+photo: heysham.gif | | | From p.363 of T O'Donnell, History of Life Insurance in its Formative Years, Chicago: American Conservation Company 1936.
+fields: actu stat
+biog: DNB 9, 778
+
+name: Hill, Sir Austin Bradford
+dates: 1897-07-08 -- 1991-04-18
+wikipedia: Austin_Bradford_Hill
+photo: hill.gif | | | Frontispiece from Journal of the Royal Statistical Society Series A 140 (2) (1977)
+fields: epid med stat
+ids: CIS:2462 MR:318346 CIS:74207
+biog: ODNB
+
+name: Hodges, Joseph Lawson, Jr
+dates: 1922-00-00 -- 2000-00-00
+photo: hodges.gif | | | From Constance Reid, Neyman - from Life, New York: Springer-Verlag 1982
+fields: stat
+ids: CIS:18416 CIS:1594 CIS:162 CIS:748 MR:86785 MG:32297
+
+name: Hoeffding, Wasily
+dates: 1914-06-12 -- 1991-02-28
+wikipedia: Wassily_Hoeffding
+photo: hoeffding.gif | | | From p.118 in N L Johnson and S Kotz (ed.), Leading personalities in Statistical Sciences from the Seventeenth Century to the Present, New York, etc.: Wiley 1997 
+fields: stat
+ids: CIS:2017 CIS:165
+
+name: Hoel, Paul G
+dates: 1905-00-00 -- 2000-00-00
+photo: hoel.gif | | | From p.412 of Bulletin of the Institute of Mathematical Statistics 29 (4) (2000 Jul/Aug)
+fields: stat
+ids: CIS:164 CIS:46406 CIS:1079 MR:86865 MG:13234
+
+name: Hogg, Robert Vincent
+dates: 1924-00-00 -- 
+wikipedia: 
+photo: hogg.htm | | | http://www.stat.uiowa.edu/~bhogg
+fields: stat
+ids: 
+
+name: Hotelling, Harold
+dates: 1895-09-29 -- 1973-12-26
+wikipedia: Harold_Hotelling
+photo: hotelling.gif | | | From Constance Reid, Neyman - from Life, New York: Springer-Verlag 1982
+fields: stat
+ids: CIS:11304 CIS:18 CIS:64087 MR:255681 MG:35422
+biog: ESS 3, 668-669
+
+name: Hoyle, Edmond
+dates: 1672-00-00 -- 1769-08-29
+wikipedia: Edmond_Hoyle
+photo: hoyle.gif | | | From p.131 of T O'Donnell, History of Life Insurance in its Formative Years, Chicago: American Conservation Company 1936.
+fields: games stat
+biog: DSB 10, 132-133
+biog: ODNB
+
+name: Huber, Peter
+dates: 1934-00-00 -- 
+wikipedia: 
+photo: huber.htm | | | From p.135 of Statistical Science 23 (1) (2008), 120-135
+fields: stat
+ids: 
+
+name: Hudde, Johannes
+name_alt: Hudde, Jan
+dates: 1628-04-23 -- 1704-04-15
+wikipedia: Johannes_Hudde
+photo: hudde.gif | | | From p.131 of T O'Donnell, History of Life Insurance in its Formative Years, Chicago: American Conservation Company 1936.
+fields: math stat
+ids: MacTutor:Hudde MR:89370
+biog: DSB 6, 536-538
+
+name: Huntington, Edward Vermilye
+dates: 1874-04-26 -- 1952-11-25
+wikipedia: Edward_Vermilye_Huntington
+photo: huntington.htm | | | http://www.maa.org/aboutmaa/huntington.gif
+fields: stat
+ids: 
+
+name: Hurst, Harold Edwin
+dates: 1880-00-00 -- 1978-00-00
+photo: hurst.gif | | | From p. 335 in C C Heyde and E Seneta, Statisticians of the Centuries, New York: Springer-Verlag 2001. 
+fields: stat
+
+name: Huygens, Christiaan
+dates: 1629-04-14 -- 1695-07-08
+wikipedia: Christiaan_Huygens
+photo: huygens.gif | | | Abb.47 from H Loeffel, Blaise Pascal, Basel: Birkhäuser 1987
+fields: math phys stat
+ids: MacTutor:Huygens MR:90380
+biog: DSB 6, 597-613
+
+name: Huzurbazar, Vasant Shankar
+dates: 1919-00-00 -- 
+photo: huzurbazar.gif | | | From p. 25 of J K Ghosh, S K Mitra and K R Parthasarathy (ed.), Glimpses of India's Statistical Heritage, New Delhi, etc.: Wiley 1992.
+fields: stat
+ids: CIS:74610 CIS:3081 MR:90395 MG:24149
+
+name: Irwin, Joseph Oscar
+dates: 1898-12-17 -- 1982-07-27
+wikipedia: Joseph_Oscar_Irwin
+photo: irwin.gif | | | Frontispiece from Journal of the Royal Statistical Society Series A 126 (3) (1963)
+fields: stat
+ids: CIS:2470 MR:466407
+
+name: Isham, Valerie S
+dates: 0000-00-00 -- 
+photo: isham.gif | | | From M Atkins and N Gilbert, Faces of Mathematics, Panoptika 2001. 
+fields: stat
+ids: CIS:8119 CIS:71956 CIS:72390 MR:91745
+
+name: Jeffreys, Sir Harold
+dates: 1891-04-22 -- 1989-03-18
+wikipedia: Harold_Jeffreys
+photo: jeffreys.gif | | | Opposite p.303. in A Cook, "Sir Harold Jeffreys", Biographical Memoirs of Fellows of the Royal Society 36 (1990), 303-333.
+fields: geog math phys
+ids: CIS:25869 MR:94170 MG:18584 MacTutor:Jeffreys
+biog: ODNB
+
+name: Jevons, William Stanley
+dates: 1835-09-01 -- 1882-08-13
+wikipedia: William_Stanley_Jevons
+photo: jevons.gif | | | From p.21 in A N Kolmogorov and A P Yushkevich (eds), Mathematics in the Nineteenth Century: Mathematical Logic, Algebra, Number Theory, Probability Theory, Boston, MA: Birkhäuser 1992.
+fields: econ stat
+ids: MacTutor:Jevons MR:267454
+
+name: Jordan, Károly
+dates: 1871-00-00 -- 1959-00-00
+photo: jordan.gif | | | From the dustjacket of K Jordan, Chapters from the Classical Theory of Probability, Budapest: Akadémiai Kiadó 1972.
+fields: math stat
+
+name: Kac, Mark
+name_alt: Kac, Marek
+dates: 1914-08-03 -- 1984-10-26
+wikipedia: Mark_Kac
+photo: kac.gif | | | No. 470 from Paul R Halmos, I Have a Photographic Memory, Providence, RI: American Mathematical Society 1987.
+fields: math phys stat
+ids: CIS:170 CIS:11527 MR:193014 MacTutor:Kac MG:17851
+
+name: Kallianpur, Gopinath
+dates: 1925-00-00 -- 
+photo: kallianpur.gif | | | From p. 45 of J K Ghosh, S K Mitra and K R Parthasarathy (ed.), Glimpses of India's Statistical Heritage, New Delhi, etc.: Wiley 1992.
+fields: stat
+ids: CIS:30265 MR:97265 MG:12962
+
+name: Kantorovich, Leonid Vitaliyevich
+dates: 1912-01-19 -- 1986-04-07
+wikipedia: Leonid_Kantorovich
+photo: kantorovich.gif | | | 
+fields: math stat econ
+ids: CIS:37010 MR:97985 MacTutor:Kantorovich MG:58665
+
+name: Karlin, Samuel
+dates: 1924-00-00 -- 1986-00-00
+photo: karlin.gif | | | From London Mathematical Society Newsletter 301 (2002 February).
+fields: stat
+ids: CIS:3158 CIS:409 MR:98455 MG:8105
+
+name: Kay-Shuttleworth, James Phillips, Bart.
+dates: 1804-07-20 -- 1877-05-26
+wikipedia: Sir_James_Kay-Shuttleworth%2C_1st_Baronet
+photo: kay-shuttleworth.gif | | | http://www.spartacus.schoolnet.co.uk/PHkay.htm
+fields: pol stat
+biog: ODNB
+
+name: Kelly, Francis Patrick
+name_alt: Kelly, Frank
+dates: 1950-12-28 -- 
+wikipedia: Frank_Kelly_%28professor%29
+photo: kelly.gif | | | From M Atkins and N Gilbert, Faces of Mathematics, Panoptika 2001. 
+fields: stat
+ids: CIS:79845 CIS:10559 CIS:70999 MR:100070 MG:70420
+
+name: Kemperman, Johannes Henricus Bernardus
+dates: 1924-00-00 -- 
+photo: kemperman.gif | | | From A conversation with Johannes H B Kemperman, Statistical Science, 15 (2000), 396-408 at page 399
+fields: stat
+ids: CIS:113533 MR:219580 MG:8008
+
+name: Kempthorne, Oscar
+dates: 1924-00-00
+photo: kempthorne.gif | Oscar Kempthorne (left in photo; from his personal collection) with R.A. Fisher during a short visit to Ames, Iowa | 1952 | From p.29 in G A Barnard, Fisher: A Retrospective, Chance 3 (1) (1990), 22-32.
+fields: stat
+ids: CIS:382 CIS:369 MR:100190 MG:43260
+
+name: Kendall, David George
+dates: 1918-01-15 -- 2007-10-23
+wikipedia: David_George_Kendall
+photo: kendall_d_g.gif | | | From London Mathematical Society Newsletter 201 (1993 January).
+fields: stat
+ids: CIS:2014 CIS:442 MR:100195 MacTutor:Kendall MG:15004
+
+name: Kendall, Sir Maurice George
+dates: 1907-09-06 -- 1983-03-29
+wikipedia: Maurice_George_Kendall
+photo: kendall_m_g.gif | | | Frontispiece from Sir Maurice Kendall, Statistics: Theory and Practice, London: Griffin 1984.
+fields: stat
+ids: CIS:48 CIS:719 CIS:32 MacTutor:Kendall_Maurice MR:100200
+biog: ESSU 1, 343-345
+biog: ODNB
+
+name: Keynes, John Maynard
+name_alt: Keynes, Lord
+dates: 1883-06-05 -- 1946-04-21
+wikipedia: John_Maynard_Keynes
+photo: keynes.gif | | | http://www.econ.uiuc.edu/~roger/fame.html 
+fields: econ stat
+ids: MacTutor:Keynes MR:241012
+biog: ODNB
+
+name: Khinchin, Aleksandr Yakovlevich
+name_alt: Khintchine, Aleksandr Jakovlevich
+name_alt: Hinchin, Aleksandr Yakovlevich
+dates: 1894-07-19 -- 1959-11-18
+wikipedia: Aleksandr_Khinchin
+photo: khinchin.gif | | | From p.39 in S Zdravkovska and P L Duren (eds), Golden Years of Moscow Mathematics, Providence, RI: American Mathematical Society/London Mathematical Society 1993
+fields: stat
+ids: CIS:494 MR:192413 MacTutor:Khinchin MG:56857
+biog: DSB 7, 351-352
+
+name: Kiaer, Anders Nicolai
+dates: 1838-00-00 -- 1919-00-00
+photo: kiaer.gif | | | From p. 208 in C C Heyde and E Seneta, Statisticians of the Centuries, New York: Springer-Verlag 2001
+fields: stat
+ids: CIS:14037
+biog: ESS Sup, 78
+
+name: Kiefer, Jack Carl
+dates: 1924-00-00 -- 1981-00-00
+photo: kiefer.gif | | | Frontispiece from Collected Papers, Volume III, New York: Springer-Verlag 1985
+fields: stat
+ids: CIS:1070 CIS:59304 CIS:14468 CIS:50319 MR:101255 MacTutor:Kiefer MG:11772
+
+name: Kingman, Sir John Frank Charles
+dates: 1939-08-28 -- 
+wikipedia: John_Kingman
+photo: kingman.gif | | | Frontispiece from Journal of the Royal Statistical Society Series A 152 (3) (1989)
+fields: stat
+ids: CIS:67089 CIS:141871 MacTutor:Kingman CIS:1129 MG:84864 MR:189114 CIS:148061 MG:108378
+
+name: Knapp, Georg Friedrich
+dates: 1842-03-07 -- 1926-02-20
+wikipedia: Georg_Friedrich_Knapp
+photo: knapp.gif | | | From Plate IV in O Sheynin, Aleksandr A. Chuprov: Life, Work, Correspondence. The Making of mathematical statistics, Göttingen: Vandenhoeck and Ruprecht 1996.
+fields: econ stat
+
+name: Knibbs, Sir George Handley
+dates: 1858-06-13 -- 1929-03-30
+wikipedia: George_Handley_Knibbs
+photo: knibbs.gif | | | From p. 257 in C C Heyde and E Seneta, Statisticians of the Centuries, New York: Springer-Verlag 2001.
+fields: stat
+ids: MR:267457
+
+name: Knuth, Donald Ervin
+dates: 1938-01-10 -- 
+wikipedia: Donald_Knuth
+photo: knuth.gif | | | http://www-cs-faculty.stanford.edu/~knuth/
+fields: stat comp
+ids: 
+
+name: Kolmogorov, Andrei Nikolaevich
+dates: 1903-04-25 -- 1987-10-20
+wikipedia: Andrey_Nikolaevich_Kolmogorov
+photo: kolmogorov.gif | | | Frontispiece from Russian Mathematical Surveys 43 (1) (1988)
+fields: stat math
+ids: CIS:511 CIS:42347 MR:104340 MG:10480 MacTutor:Kolmogorov CIS:162034 CIS:19201
+biog: ESS Sup, 78-80
+
+name: Konüs, Alexandr Alexandrovich
+name_alt: Konus, Alexandr Alexandrovich
+dates: 1895-00-00 -- 1990-00-00
+photo: konus.gif
+fields: stat
+biog: ESSU 2, 353-355
+
+name: Koopmans, Tjalling Charles
+dates: 1910-08-28 -- 1985-02-26
+wikipedia: Tjalling_Koopmans
+photo: koopmans.gif | | | http://www.econ.uiuc.edu/~roger/fame.html 
+fields: stat
+ids: CIS:3438 MG:110580 MR:104725
+
+name: Kotz, Samuel Borisovich
+dates: 1930-00-00 -- 
+photo: kotz.gif | | | Frontispiece from N L Johnson and N Balakrishnan (ed.), Advances in the Theory and Practice of Statistics: A Volume in Honor of Samuel Kotz, Wiley 1997. 
+fields: stat
+ids: CIS:4180 CIS:1088 CIS:163495 CIS:151977 MR:105490
+
+name: Kravchuk, Mikhailo Pylypovich 1892-1942
+name_alt: Krawtchouk, Mikhailo Pylypovich
+dates: 1892-09-27 -- 1942-03-09
+wikipedia: Mikhail_Kravchuk
+photo: kravchuk.gif | | | From p. 425 in C C Heyde and E Seneta, Statisticians of the Centuries, New York: Springer-Verlag 2001
+fields: stat
+ids: MG:83268 MR:748579 MR:290293
+
+name: Krishnaiah, Parachuri Rama
+dates: 1932-00-00 -- 1987-00-00
+photo: krishnaiah.gif | with H Drygas, J Müller, C Rao, and C Parisetti | | From the web at http://owpdb.mfo.de/person_detail?id=2339
+fields: stat
+ids: CIS:2649 CIS:2209 MR:106745 MG:89324
+biog: ESSU 2, 355-356
+
+name: Kruskal, Willaim Henry
+dates: 1919-10-19 -- 2005-04-21
+wikipedia: William_Kruskal
+photo: kruskal_w.gif | | | http://leifcarlsen.wordpress.com/2006/01/01/citat-william-h-kruskal-1/
+fields: stat
+ids: 
+
+name: Kruskal, Joseph Bernard
+dates: 1928-01-29 -- 
+wikipedia: Joseph_Kruskal
+photo: kruskal_j_b.gif | | | From p.182 in The Mathematical Intelligencer 4 (1982)
+fields: stat
+ids: CIS:52166 CIS:2484 CIS:17907 CIS:4756
+
+name: Kuznets, Simon Smith
+dates: 1901-04-30 -- 1985-07-08
+wikipedia: Simon_Kuznets
+photo: kuznets.gif | | | http://cepa.newschool.edu/het/profiles/kuznets.htm
+fields: econ stat
+ids: CIS:65636
+
+name: Kurtz, Thomas Eugene
+dates: 1928-02-22 -- 
+wikipedia: Thomas_Eugene_Kurtz
+photo: kurtz.gif | | | http://www.math.wisc.edu/~apache/photos/kurtz.gif
+fields: comp stat
+ids: CIS:2303 CIS:3771 MR:482372 MG:35248
+
+name: Lagrange, Joseph-Louis
+name_alt: Lagrangia, Giuseppe Lodovico
+dates: 1736-01-25 -- 1813-04-10
+wikipedia: Joseph_Louis_Lagrange
+photo: lagrange.gif | | | From p.38 in B Belhouse, Augustin-Louis Cauchy: A Biography, Berlin: Springer-Verlag 1
+fields: math phys stat
+ids: MR:109270 MG:17864 MacTutor:Lagrange
+biog: DSB 7, 559-573
+
+name: Lahiri, Debabrata B
+dates: 1913-00-00 -- 2003-00-00
+photo: lahiri.gif | | | From p. 67 of J K Ghosh, S K Mitra and K R Parthasarath$
+fields: stat
+ids: CIS:3609 MR:483672
+
+name: Lambert, Johann Heinrich
+dates: 1728-08-26 -- 1777-09-25
+wikipedia: Johann_Heinrich_Lambert
+photo: lambert.gif | | | http://www-groups.dcs.st-and.ac.uk/~history/BigPictures/Lambert_2.jpeg 
+fields: math phys astr stat
+ids: MacTutor:Lambert
+
+name: Lancaster, Henry Oliver
+dates: 1913-00-00 -- 2003-00-00
+photo: lancaster.gif | | | From p.16 in Bulletin of the Institute of Mathematic$
+fields: stat hist
+ids: CIS:36759 CIS:621 MR:109735
+
+name: Langevin, Paul
+dates: 1872-01-23 -- 1946-12-19
+wikipedia: Paul_Langevin
+photo: langevin.gif | | | http://perso.netinfo.fr/PLangevin/Langevin.JPG
+fields: phys stat
+ids: CIS:142512 MR:110070
+biog: DSB 8, 9-14
+biog: ESS 4, 468-469
+
+name: Laplace, Pierre-Simon
+name_alt: Laplace, Marquis de
+dates: 1749-03-23 -- 1827-03-05
+wikipedia: Pierre-Simon_Laplace
+photo: laplace.gif | Laplace in his robes as Chancellor of the Senate | | From Plate 6 in M Crosland, The Society of Arcueil, Cambridge, MA: Harvard University Press 1967
+fields: math phys stat
+ids: CIS:99555 MR:110255 MacTutor:Laplace MG:108295
+biog: DSB 15, 273-403
+biog: IES 1, 493-9
+biog: ESS 4, 469-473.
+
+name: Lebesgue, Henri Léon
+dates: 1875-06-28 -- 1941-07-26
+wikipedia: Henri_Lebesgue
+photo: lebesgue.gif | | | From Constance Reid, Neyman - from Life, New York: Springer-Verlag 1982
+fields: math stat
+ids: MacTutor:Lebesgue MG:86693 MR:224312
+biog: DSB 8, 110-112
+
+name: Le Cam, Lucien Marie
+dates: 1924-11-18 -- 2000-04-25
+wikipedia: Lucien_Le_Cam
+photo: le_cam.gif | | | From A conversation with Lucien Le Cam, Statistical Science, 14 (1999), 223-241 at page 230
+fields: math stat
+ids: CIS:410 CIS:19550 CIS:1892 CIS:872 CIS:49727 MG:32891 MR:111350
+
+name: Legendre, Adrien-Marie
+dates: 1752-09-18 -- 1833-01-10
+wikipedia: Adrien-Marie_Legendre
+photo: legendre.gif | After a lithograph by Delpech | | On p.488 of D E Smith, A History of Mathematics, Vol. I, Boston, MA: Ginn 1925 and New York, NY: Dover 1958
+fields: math stat
+ids: MacTutor:Legendre MR:250359
+biog: DSB 8, 135-143
+
+name: Lehmann, Erich Leo
+dates: 1917-00-00 -- 
+photo: lehmann.gif | With his daughter Barbara | | From Constance Reid, Neyman - from Life, New York: Springer-Verlag 1
+fields: stat
+ids: CIS:101 CIS:72746 (CIS:39543
+
+name: Lehrer, Thomas Andrew
+dates: 1928-04-28 -- 
+wikipedia: Tom_Lehrer
+photo: lehrer.gif | | | No. 606 from Paul R Halmos, I Have a Photographic Memory, Providence, RI: American Mathematical Society 1987
+fields: math
+
+name: Le Verrier, Urbain Jean Joseph
+dates: 1811-03-11 -- 1877-09-23
+wikipedia: Urbain_Le_Verrier
+photo: leverrier.gif | | | http://www-gap.dcs.st-and.ac.uk/~history/PictDisplay/Le_Verrier.html
+fields: math stat
+ids: MacTutor:Le_Verrier
+biog: DSB 8, 176-179
+
+name: Lévy, Paul Pierre
+name_alt: Levy, Paul Pierre
+dates: 1886-09-15 -- 1971-12-15
+wikipedia: Paul_Pierre_L%C3%A9vy
+photo: levy.gif | | | From opp. p.300 in Bulletin of the London Mathematical Society 7 (1973)
+fields: math stat
+ids: CIS:1534
+biog: ESS 4, 617-618
+
+name: Lexis, Wilhelm
+dates: 1837-07-17 -- 1914-10-25
+wikipedia: Wilhelm_Lexis
+photo: lexis.gif | | | Illustrirte Zeitung (Leipzig), 143 (1914), 394
+fields: stat econ
+ids: CIS:70374 MacTutor:Lexis
+biog: IES 1, 507-512
+biog: ESS 4, 625-627
+
+name: Lievesley, Denise
+dates: 0000-00-00 -- 
+photo: lievesley.gif | | | Frontispiece of The Statistician 50 (4) (2001)
+fields: stat
+ids: CIS:83273 CIS:38390 MR:699578
+
+name: Lindeberg, Jarl Waldemar
+dates: 1876-08-04 -- 1932-12-12
+wikipedia: Jarl_Waldemar_Lindeberg
+photo: lindeberg.gif | | | From p. 318 in C C Heyde and E Seneta, Statisticians of the Centuries, New York: Springer-Verlag 2001
+fields: stat
+ids: MR:488654
+
+name: Lindley, Dennis Victor
+dates: 1923-07-23 -- 
+wikipedia: Dennis_Lindley
+photo: lindley.gif | The archetypal progressive: Volvo, Guardian and green wellies | | From Fig. 1.5, opp. p.7 P R Freeman and A F M Smith (ed.), Aspects of Uncertainty: A Tribute to D V Lindley, New York: Wiley 1994.
+fields: stat
+ids: CIS:40739 CIS:18532 CIS:1012 MG:81763 MR:114295
+
+name: Linnik, Yurii Vladimirovich 
+dates: 1915-01-08 -- 1972-06-30
+wikipedia: Yuri_Linnik
+photo: linnik.gif | | | http://www-gap.dcs.st-and.ac.uk/~history/PictDisplay/Linnik.html 
+fields: stat
+ids: CIS:17284 CIS:523 MR:281480 MacTutor:Linnik MG:44401
+
+name: Loève, Michel
+name_alt: Loeve, Michel
+dates: 1907-01-22 -- 1979-02-17
+wikipedia: Michel_Lo%C3%A8ve
+photo: loeve.gif | | | From Constance Reid, Neyman - from Life, New York: Springer-Verlag 1982
+fields: stat
+ids: CIS:20081 CIS:7051
+
+name: Lukacs, Eugene
+dates: 1906-08-14 -- 1987-12-21
+photo: lukacs.gif | | | From p.13 in J Gani (ed.), The Making of Statisticians, Berlin: Springer 1982
+fields: stat
+ids: CIS:942 CIS:419 CIS:4701
+
+name: Lundberg, Ernesrt Filip Oscar
+name_alt: Lundberg, Filip
+dates: 1893-09-25 -- 1985-10-05
+wikipedia: Filip_Lundberg
+photo: lundberg.gif | | | From p. 308 in C C Heyde and E Seneta, Statisticians of the Centuries, New York: Springer-Verlag 200
+fields: stat
+ids: MR:491233
+
+name: Lüroth, Jacob
+name_alt: Luroth, Jacob
+name_alt: Lueroth, Jacob
+dates: 1844-00-00 -- 1910-00-00
+photo: lueroth.gif | | | http://www.mathematik.uni-karlsruhe.de/page/geschichte/en
+fields: math stat
+
+name: Lyapunov, Aleksandr Mikhailovich
+dates: 1857-06-06 -- 1918-11-03
+wikipedia: Aleksandr_Lyapunov
+photo: lyapunov.gif | | | 
+fields: math phys stat
+ids: MR:223173 MacTutor:Lyapunov MG:31015 MR:248800 MG:55572
+biog: DSB 8, 559-563
+biog: ESS 4, 625-627
+
+name: Macfarlane, Alexander
+dates: 1851-04-21 -- 1913-08-28
+wikipedia: Alexander_Macfarlane_%28mathematici
+photo: macfarlane.gif | | | http://ca.geocities.com/macfarlanebio/ 
+fields: math phys hist
+ids: MR:720878
+
+name: Mahalanobis, Prasanta Chandra
+dates: 1893-06-29 -- 1972-06-28
+wikipedia: Prasanta_Chandra_Mahalanobis
+photo: mahalanobis.gif | | | From p.336 in J L Folks, Ideas in Statistics, Ames, IO: Iowa State University Press 1981
+fields: stat
+ids: CIS:121 MG:47927 MR:220863 MG:47966
+biog: IES 1, 571-576
+biog: ESS 5, 175-176
+
+name: Malthus, Thomas Robert
+dates: 1766-02-13 -- 1834-12-23
+wikipedia: Thomas_Malthus
+photo: malthus.gif | | | From facing p.4 in Annals of the Royal Statistical Society 1834-1934, London: Royal Statistical Society 1934
+fields: econ stat
+ids: MR:650143
+biog: DNB 9, 67-71
+biog: ESS 5, 189-190
+biog: ODNB
+
+name: Mann, Henry Berthold
+dates: 1905-00-00 -- 2000-00-00
+photo: mann.gif | | | No. 150 from Paul R Halmos, I Have a Photographic Memory, Providence, RI: American Mathematical Society 1
+fields: math stat
+ids: CIS:861 MR:494476 MG:9142
+
+name: Mardia, Kantilal Vardichand
+dates: 1935-00-00 -- 
+wikipedia: Kantilal_Mardia
+photo: mardia.gif | | | A conversation with Kenti Mardia, Statistical Science, 17 (2002), 113-148 at page 120
+fields: stat
+ids: CIS:14832 CIS:128071 CIS:1379 CIS:151840 MR:119740 MG:93605
+
+name: Markov, Andrei Andreevich
+name_alt: Markoff, Andrey Andreyevich
+dates: 1856-06-14 -- 1922-07-20
+wikipedia: Andrey_Markov
+photo: markov.gif | | | From opp. p.80 in W J Adams, The Life and Times of the Central Limit Theorem, New York, NY: Kaedmon
+fields: math stat
+ids: CIS:106023 CIS:18674 MacTutor:Markov MG:12543
+biog: DSB 9, 124-130
+biog: ESS 5, 247-
+
+name: Masani, Pesi Rustom
+dates: 1919-00-00 -- 1999-00-00
+photo: masani.gif | | | From p. 83 of J K Ghosh, S K Mitra and K R Parthasarathy (ed.), Glimpses of India's Statistical Heritage, New Delhi, etc.: Wiley 1992
+fields: stat
+ids: CIS:816 CIS:39519 CIS:80931 MR:120860 MG:7772
+
+name: Masères, Francis
+name_alt: Maseres, Francis
+dates: 1731-12-15 -- 1824-05-19
+photo: maseres.gif | | | From p.278 in T O'Donnell, History of Life Insurance in its Formative Years, Chicago: American Conservation Company 1936
+fields: math stat
+ids: MacTutor:Maseres
+biog: DSB 9, 158-159
+biog: DNB 12, 1292-1294
+biog: ODNB
+
+name: Maxwell, James Clerk
+dates: 1831-06-13 -- 1879-11-05
+wikipedia: James_Clerk_Maxwell
+photo: maxwell.gif | | | From M Goldman, The Demon in the Aether, Edinburgh: Harris 1983
+fields: phys math stat
+ids: MG:105806 MacTutor:Maxwell MR:121735
+biog: DSB 9, 198-230
+biog: DNB 13, 118-121
+biog: ODNB
+
+name: Mayer, Johann Tobias
+dates: 1723-02-17 -- 1762-02-20
+wikipedia: Johann_Tobias_Mayer
+photo: mayer.gif | | | Opposite contents page (and on title page) of E G Forbes, The Birth of Navigational Science: Tobias Mayer, Maritime Monographs and Reports No. 10, London: National Maritime Museum 1974
+fields: astr stat
+ids: MacTutor:Mayer_Tobias MG:102637 MR:243214
+biog: DSB 9, 232-235
+
+name: Mayr, Georg von
+name_alt: Von Mayr, Georg
+dates: 1841-00-00 -- 1925-00-00
+photo: mayr.gif | | | From p. 219 in C C Heyde and E Seneta, Statisticians of the Centuries, New York: Springer-Verlag 2001
+fields: stat
+ids: MG:23914
+
+name: McKendrick, Alexander Gray
+dates: 1876-09-08 -- 1943-05-30
+wikipedia: Anderson_Gray_McKendrick
+photo: mckendrick.gif | | | From p. 323 in C C Heyde and E Seneta, Statisticians of the Centuries, New York: Springer-Verlag 2001
+fields: epid stat
+ids: CIS:107438 MR:498218
+biog: ODNB
+
+name: McKean, Joseph W
+dates: 0000-00-00 -- 
+photo: mckean.gif | | | http://www.stat.wmich.edu/people/faculty.html 
+fields: stat
+ids: 
+
+name: Mendel, Johann Gregor
+dates: 1822-07-20 -- 1884-01-06
+wikipedia: Gregor_Mendel
+photo: mendel.gif | | 1862 | Opposite p.49 in R Olby, Origins of Mendelism, Chicago, IL: University of Chicago Press 1966
+fields: gene
+
+name: Mendenhall, William
+dates: 0000-00-00 -- 
+photo: mendenhall.gif | | | http://www.stat.ufl.edu/personnel/Faculty%20Listing/Emeritus.html 
+fields: stat
+ids: 
+
+name: Merriman, Mansfield
+dates: 1848-00-00 -- 1925-00-00
+photo: merriman.gif | | | http://histv2.free.fr/licks/Merriman-photo.JPG 
+fields: astr math stat
+ids: MG:38027
+
+name: Mersenne, Marin
+dates: 1588-09-08 -- 1648-09-01
+wikipedia: Marin_Mersenne
+photo: mersenne.gif | | | Abb.4 from H Loeffel, Blaise Pascal, Basel: Birkhäuser 1987
+fields: theol math music stat
+ids: MacTutor:Mersenne MR:267386
+biog: DSB 9, 316-322
+
+name: Meyer, Anton
+dates: 1801-00-00 -- 1857-00-00
+photo: meyer.gif | | | From p. 148 in C C Heyde and E Seneta, Statisticians of the Centuries, New York: Springer-Verlag 2001
+fields: math stat
+
+name: Mises, Richard Edler von
+name_alt: Von Mises, Richard Edler
+dates: 1883-04-19 -- 1953-07-14
+wikipedia: Richard_von_Mises
+photo: mises.gif | | | Frontispiece from Garrett Birkhoff, Gustav Kuerti and Gabor Szegö, Studies in Mathematics and Mechanics Presented to Richard von Mises by Friends, Colleagues and Pupils, New York: Academic Press 1954
+fields: math phys stat
+ids: MR:195522 MG:20745 MacTutor:Mises
+biog: DSB 9, 419-420
+biog: ESS 6, 502-505
+
+name: Mitra, Sujit Kumar
+dates: 1932-00-00 -- 2004-00-00
+photo: mitra.gif | | | From p.10 in IMS Bulletin 33 (2004), 10
+fields: stat
+ids: CIS:89742 CIS:14170 CIS:4163 CIS:542 MR:227231
+
+name: Molenberghs, Geert
+dates: 0000-00-00 -- 
+photo: molenberghs.gif | | | From p. 7 in RSS News, 30 (1) (2002)
+fields: stat
+ids: CIS:78147 CIS:79190 CIS:154781 MR:275033 MG:68878
+
+name: Montmort, Pierre Raymond de
+dates: 1678-10-27 -- 1719-10-07
+wikipedia: Pierre_Raymond_de_Montmort
+fields: math stat
+ids: MR:505800 MacTutor:Montmort
+biog: DSB 9, 499-500
+biog: ESS 5, 618-620
+
+name: Moore, Peter Gerard
+dates: 1928-00-00
+photo: moore.gif | | | Frontispiece from Journal of the Royal Statistical Society Series A 153 (3) (1990)
+fields: stat
+ids: CIS:327 MR:503391 MG:42275 CIS:10850
+
+name: Morgenstern, Oskar
+dates: 1902-01-24 -- 1977-07-26
+wikipedia: Oskar_Morgenstern
+photo: morgenstern.gif | | | http://chasholloway.com/sitebuildercontent/sitebuilderpictures/morgenstern.jpg
+fields: econ games stat
+ids: CIS:1806 MR:503744
+
+name: Moser, Claus Adolf
+name_alt: Moser, Lord
+dates: 1922-11-24 -- 
+wikipedia: Claus_Moser%2C_Baron_Moser
+photo: moser.gif | | | Frontispiece from Journal of the Royal Statistical Society Series A 143 (1) (1980)
+fields: stat
+ids: CIS:384 CIS:13380 CIS:7508
+
+name: Moses, Lincoln E
+dates: 1921-00-00 -- 2006-00-00
+photo: moses.gif | | | A conversation with Lincoln E Moses, Statistical Science, 14 (1999), 338-354 at page 353
+fields: stat
+ids: CIS:23080 CIS:45914 CIS:455 MR:195923 MG:40892
+
+name: Mosteller, Frederick
+dates: 1916-12-24 -- 2006-07-23
+wikipedia: Frederick_Mosteller
+photo: mosteller.gif | | | From p.241 in D J Albers, G L Alexanderson and C Reid, More Mathematical People, Boston, MA: Harcourt Brace Jovanovich 1990
+fields: stat
+ids: CIS:13 MG:35033 MR:127435
+
+name: Nair, Keshavan Raghavan
+dates: 1910-00-00 -- 
+photo: nair.gif | | | From p. 101 of J K Ghosh, S K Mitra and K R Parthasarathy (ed.), Glimpses of India's Statistical Heritage, New Delhi, etc.: Wiley 1992
+fields: stat
+ids: CIS:62466
+
+name: Nelder, John Ashworth
+dates: 1924-10-08 -- 
+wikipedia: John_Nelder
+photo: nelder.gif | | | Frontispiece from Journal of the Royal Statistical Society Series A 149 (2) (1986)
+photo: fraser.gif | Left to Right: Sir David (Roxbee) Cox, Nancy Reid, Donald A S Fraser, John Ashworth Nelder | | http://www.unine.ch/statistics/cox/cox14.gif 
+fields: stat
+ids: CIS:2801 CIS:108278 CIS:35184 MR:198614 CIS:159114
+
+name: Nemchinov, Vasilii Sergeevich
+dates: 1894-02-02 -- 1964-11-05
+wikipedia: Vasily_Sergeevich_Nemchinov
+photo: nemchinov.gif | | | From the web at http://hp.iitp.ru/ENG/19/1986.HTM
+fields: econ math stat
+biog: ESSU 3, 521-522
+
+name: Neumann, Caspar
+dates: 1648-09-14 -- 1715-01-27
+wikipedia: Caspar_Neumann
+photo: neumann.gif | | | From p. 29 in C C Heyde and E Seneta, Statisticians of the Centuries, New York: Springer-Verlag 2001
+fields: actu stat
+
+name: Newcomb, Simon
+dates: 1835-03-12 -- 1909-07-11
+wikipedia: Simon_Newcomb
+photo: newcomb.gif | | | Frontispiece from Reminiscences of an Astronomer, London: Harper & Bros. 1903
+fields: astr math stat
+ids: MR:249905
+biog: DSB 10, 33-36
+biog: DAB 7, 452-455
+
+name: Neyman, Jerzy
+name_alt: Splawa-Neyman, Jerzy
+dates: 1894-04-16 -- 1981-08-05
+wikipedia: Jerzy_Neyman
+photo: neyman.gif | | | Frontispiece from Early Statistical Papers, Cambridge University Press 1967
+photo: neyman_and_s.gif | With Scott, Elizabeth | | From Constance Reid, Neyman - from Life, New York: Springer-Verlag 1982
+fields: stat
+ids: MR:130870 MacTutor:Neyman MG:12694 CIS:72951
+
+name: Nightingale, Florence
+dates: 1820-05-12 -- 1910-08-12
+wikipedia: Florence_Nightingale
+photo: nightingale.gif | | | A portrait taken immediately after her return from the Crimea | | Frontispiece from D Erskine Muir, Florence Nightingale, London: Blackie 1946
+fields: med stat
+ids: MacTutor:Nightingale MR:508829
+biog: ESS 6, 246-249
+biog: ODNB
+
+name: O'Hagan, Anthony
+dates: 1948-00-00 -- 
+photo: o_hagan.gif | | | http://www.shef.ac.uk/~st1ao/aoh.gif
+fields: stat
+ids: CIS:128026 CIS:7249 CIS:60797 CIS:107616 MR:132805 MG:97382
+
+name: Onicescu, Octav
+dates: 1892-08-20 -- 1983-08-19
+wikipedia: Octav_Onicescu
+photo: onicescu.gif | | | From p. 415 in C C Heyde and E Seneta, Statisticians of the Centuries, New York: Springer-Verlag 2001
+fields: stat
+ids: CIS:12936 CIS:2612 MG:50652
+
+name: Ostrogradsky, Mikhail Vasilievich
+dates: 1801-09-24 -- 1862-01-01
+wikipedia: Mikhail_Vasilievich_Ostrogradsky
+photo: ostrogradsky.gif | | | From p.124 in B Belhouse, Augustin-Louis Cauchy: A Biography, Berlin: Springer-Verlag 1991
+fields: math phys stat
+ids: MacTutor:Ostrogradski MR:212042
+biog: DSB 10, 247-252
+
+name: Pacioli, Fra Luca
+name_alt: Paccioli, Fra Luca
+name_alt: Paciolo, Fra Luca
+dates: 1446-00-00 -- 1517-00-00
+wikipedia: Luca_Pacioli
+photo: pacioli.gif | From the painting 'Fra Luca Pacioli and Pupil' by J. de Barbari (1440/50-1516) in the Capodimonte Museum, Naples | | Reproduced on the front cover of R Lawlor, Sacred Geometry: Philosophy and Practice, London: Thames and Hudson 1982
+fields: math stat
+ids: MacTutor:Pacioli MR:307399
+biog: DSB 10, 269-272
+
+name: Pareto, Vilfredo Federigo Samaso 
+dates: 1848-07-15 -- 1923-08-19
+wikipedia: Vilfredo_Pareto
+photo: pareto.gif | | | From p. 232 in C C Heyde and E Seneta, Statisticians of the Centuries, New York: Springer-Verlag 2001
+fields: soci econ phil stat
+
+name: Parzen, Emanuel
+dates: 1929-04-21 -- 
+wikipedia: Emanuel_Parzen
+photo: parzen.gif | | | No. 401 from Paul R Halmos, I Have a Photographic Memory, Providence, RI: American Mathematical Society 1987
+fields: stat
+ids: CIS:17136 CIS:1111 MR:202294 MG:14685
+
+name: Pascal, Blaise
+dates: 1623-06-19 -- 1662-08-19
+wikipedia: Blaise_Pascal
+photo: pascal.gif | | | Frontispiece from H Loeffel, Blaise Pascal, Basel: Birkhäuser 1987
+fields: theol phil math stat
+ids: MacTutor:Pascal MR:232401
+biog: DSB 10, 330-342
+biog: ESS 6, 626-628
+
+name: Pearl, Judea
+dates: 1936-00-00 -- 
+photo: pearl.gif | | | http://www.bruinwalk.com/professors/images/mugs/pearl.judea.gif
+fields: stat
+ids: CIS:18521 MR:137305 MG:70481
+
+name: Pearson, Egon Sharpe
+dates: 1895-08-11 -- 1980-06-12
+wikipedia: Egon_Pearson
+photo: pearson_e_s.gif | | | Frontispiece from E S Pearson, Karl Pearson: An Appreciation of some aspects of his life and works, Cambridge University Press 1938
+fields: stat
+ids: CIS:1356 MR:345332 MG:29652 MacTutor:Pearson_Egon
+biog: IESocSci 18 (Biog. Supp.), 630-632
+biog: ESS 6, 650-653
+biog: ODNB
+
+name: Pearson, Karl
+dates: 1857-03-27 -- 1936-04-27
+wikipedia: Karl_Pearson
+photo: pearson_k.gif | | | Frontispiece from E S Pearson, Karl Pearson: An Appreciation of some aspects of his life and works, Cambridge University Press 1938
+fields: stat
+ids: MR:285450 MacTutor:Pearson MG:30176
+biog: DSB 10, 447-473
+biog: IES 2, 691-698
+biog: ESS 6, 653-655
+biog: ESSU 3, 572-576
+biog: DNB (1931-1940), 681-68
+biog: ODNB
+
+name: Peirce, Benjamin
+dates: 1809-04-04 -- 1880-10-06
+wikipedia: Benjamin_Peirce
+photo: peirce_b.gif | | | http://www2.polito.it/didattica/polymath/htmlS/argoment/APPUNTI/TESTI/Ott_04/Numeroe.htm
+fields: math
+ids: 
+
+name: Peirce, Charles Sanders
+dates: 1939-09-10 -- 1914-04-19
+wikipedia: Charles_Peirce
+photo: peirce_c_s.gif | | | From p.663 in C B Boyer and U C Merzbach, A History of Mathematics (2nd ed.), London: Wiley 1989 (1st ed. by Boyer alone, 1968)
+fields: math phil stat
+ids: MacTutor:Peirce_Charles MR:137490 MG:24099
+biog: DSB 10, 478-488
+biog: IES 2, 698-702
+
+name: Petty, Sir William
+dates: 1623-05-27 -- 1687-12-16
+wikipedia: William_Petty
+photo: petty.gif | From a portrait by Closterman at Bowood | | Frontispiece of The Petty-Southwood correpondence 1676-1687, edited from the Bowood papers by the Marquis of Lansdowne, London: Constable 1928
+fields: econ phil stat
+biog: DSB 10, 564-565
+biog: IES 2, 702-704
+biog: DNB 15, 999-1005
+biog: ODNB
+
+name: Philips, Peter Charles Bonard
+dates: 1948-00-00 -- 
+photo: phillips.gif | | | http://cowles.econ.yale.edu/faculty/phillips.htm
+fields: stat econ
+ids: CIS:18880 MR:139150 MG:61476 CIS:142386 CIS:145861 CIS:157054
+
+name: Pitman, Edwin James George
+dates: 1897-00-00 -- 1993-00-00
+wikipedia: E.J.G._Pitman
+photo: pitman.gif | | | http://www.asap.unimelb.edu.au/bsparcs/aasmemoirs/gifs/pitman.gif
+fields: stat
+ids: CIS:554 CIS:25435
+biog: ESS 6, 729-731
+
+name: Poincaré, Jules Henri
+name_alt: Poincare, Jules Henri
+dates: 1854-04-29 -- 1912-07-17
+wikipedia: Henri_Poincar%C3%A9
+photo: poincare.gif | | | http://www-chaos.umd.edu/misc/poincare.html
+fields: math phys stat
+
+name: Poisson, Siméon Denis
+dates: 1781-06-21 -- 1840-04-25
+wikipedia: Sim%C3%A9on_Denis_Poisson
+photo: poisson.gif | | | From p.52 in B Belhouse, Augustin-Louis Cauchy: A Biography, Berlin: Springer-Verlag 1991.
+photo: poisson_other.gif | | | From p.159 in I J Good, Some statistical applications of Poisson's work, Statistical Science 1 (1986), 704-6.
+fields: math phys stat
+ids: MG:17865 MacTutor:Poisson MR:198239
+biog: DSB 15, 480-490
+biog: IES 2, 704-6
+biog: ESS 7, 41-43
+
+name: Pollaczek, Félix
+dates: 1892-10-01 -- 1981-04-29
+wikipedia: Felix_Pollaczek
+photo: pollaczek.gif | | | From p. 429 in C C Heyde and E Seneta, Statisticians of the Centuries, New York: Springer-Verlag 2001
+fields: math phys stat
+ids: CIS:10552 MR:519629 MG:17965
+
+name: Pólya, George
+name_alt: Polya, George
+dates: 1887-12-13 -- 1985-09-07
+wikipedia: George_Polya
+photo: polya.gif | | | http://www.mathgym.com.au/htdocs/polya.jpg 
+fields: math stat
+ids: CIS:13355
+
+name: Price, Richard
+dates: 1723-02-23 -- 1791-04-19
+wikipedia: Richard_Price
+photo: price.gif | From an engraving by Holloway in the National Museum of Wales after an original painting by Sir Benjamin West now in the possession of the Royal Society | | Frontispiece from R Thomas, Richard Price: Philosopher and Apostle of Liberty, Oxford University Press 1924
+fields: actu stat
+ids: MacTutor:Price
+
+name: Pyke, Ronald
+dates: 1931-00-00 -- 2005-00-00
+photo: pyke.gif | | | From IMS Bulletin 35 (2006), 4-5
+fields: stat
+ids: CIS:2490 CIS:89399 CIS:724 MR:142895 MG:27999
+
+name: Quetelet, Lambert Adolphe Jacques
+name_alt: Quetelet, Adolphe
+dates: 1796-02-22 -- 1874-02-17
+wikipedia: Adolphe_Quetelet
+photo: quetelet.gif | | | From facing p.40 in H M Walker, Studies in the History of Statistical Method, Baltimore: Williams and Wilkins 1931
+fields: astr math stat soci
+ids: MacTutor:Quetelet MR:143070 MG:86740
+biog: DSB 11, 236-238
+biog: IES 2, 824-834
+biog: ESS 7, 481-483
+
+name: Raiffa, Howard
+dates: 1939-09-10 -- 1914-04-19
+wikipedia: Howard_Raiffa
+photo: raiffa.gif | | | From p.137 in Statistical Science 23 (1) (2009), 136-139
+fields: math phil stat
+ids: 
+
+name: Ramsey, Frank Plumpton
+dates: 1903-02-22 -- 1930-01-19
+wikipedia: Frank_P._Ramsey
+photo: ramsey.gif | | | Frontispiece from D H Mellor (ed.), Prospects for Pragmatism: Essays in Memory of F.P. Ramsey, Cambridge University Press 1980.
+fields: math econ stat
+ids: MR:296668 MacTutor:Ramsey MG:70156
+biog: DSB 11, 285-286
+biog: ODNB
+
+name: Rao, Cayampudi Radhakrishna
+dates: 1920-09-10 -- 
+wikipedia: Calyampudi_Radhakrishna_Rao
+photo: rao.gif | With Cramér, Harald | | From p.56 in A conversation with C.R. Rao, Statistical Science, 2 (1987), 53-67.
+fields: stat
+ids: CIS:19967 CIS:6076 CIS:86588 CIS:1154 MG:74311 CIS:129715 MG:40000
+
+name: Reid, Constance Bowman
+dates: 1918-01-03 -- 
+wikipedia: Constance_Reid
+photo: reid.gif | | | No. 585 from Paul R Halmos, I Have a Photographic Memory, Providence, RI: American Mathematical Society 1987
+fields: hist math stat
+ids: CIS:34781
+
+name: Reid, Nancy
+dates: 0000-00-00 -- 
+photo: fraser.gif | Left to Right: Sir David (Roxbee) Cox, Nancy Reid, Donald A S Fraser, John Ashworth Nelder | | http://www.unine.ch/statistics/cox/cox14.gif
+fields: math stat
+ids: CIS:17385
+
+name: Rényi, Alfréd
+name_alt: Renyi, Alfréd
+dates: 1921-03-20 -- 1970-02-01
+wikipedia: Alfr%C3%A9d_R%C3%A9nyi
+photo: renyi.gif | | | Frontispiece from A Rényi, Probability Theory, Amsterdam: North-Holland 1970
+fields: math stat
+ids: CIS:498 CIS:5435
+biog: DSB 18, 732-734
+
+name: Révész, Pal
+name_alt, Revesz, Paul
+dates: 1934-00-00 -- 
+photo: revesz.gif | | | No. 340 from Paul R Halmos, I Have a Photographic Memory, Providence, RI: American Mathematical Society 1987.
+fields: math stat
+ids: CIS:3681 CIS:21197 CIS:14344
+
+name: Ricci, Ostilio
+dates: 1540-00-00 -- 1603-00-00
+photo: ricci.gif | | | From p.73 in C A Ronan, Galileo, London: Weidenfeld and Nicolson 1974.
+fields: math phys astr
+biog: DSB 11, 405-406
+
+name: Rice, John A
+dates: 0000-00-00 -- 
+photo: rice.gif | | | http://www.stat.ufl.edu/personnel/Faculty%20Listing/Emeritus.html 
+fields: stat
+ids: 
+
+name: Rice, Stuart Arthur
+dates: 1889-00-00 -- 1969-00-00
+photo: rice.gif | | | From p. 386 in C C Heyde and E Seneta, Statisticians of the Centuries, New York: Springer-Verlag 2001
+fields: stat
+ids: CIS:73 MR:147785
+
+name: Robbins, Herbert Ellis
+dates: 1915-01-12 -- 2001-02-12
+wikipedia: Herbert_Robbins
+photo: robbins.gif | | | From Constance Reid, Neyman - from Life, New York: Springer-Verlag 1982
+fields: math stat
+ids: CIS:63855 CIS:3783 MR:148845 MG:7781
+
+name: Roberval, Gilles Personne
+dates: 1602-08-10 -- 1675-10-27
+wikipedia: Gilles_de_Roberval
+photo: roberval.gif | | | http://encycloscience.eun.org/lmalp/worklist_action2.cfm?wid=18270&lang=fr&workLang=fr&tLang=fr
+fields: math
+ids: MR:327586 MacTutor:Roberval
+biog: DSB 11, 486-491
+
+name: Roberts, Gareth
+dates: 0000-00-00 -- 
+photo: roberts.gif | | | From M Atkins and N Gilbert, Faces of Mathematics, Panoptika 2001
+fields: stat
+ids: CIS:140382 CIS:76360
+
+name: Romanovsky, Vsevelod Ivanovich
+dates: 1879-00-00 -- 1954-00-00
+photo: romanovsky.gif | | | Uspekhi Matematicheski Nauk 10 (1) (1955), facing p. 79
+fields: math stat
+
+name: Rowntree, Benjamin Seebohm
+name_alt: Rowntree, Seebohm
+dates: 1871-07-07 -- 1954-10-07
+wikipedia: Benjamin_Seebohm_Rowntree
+photo: rowntree.gif | | | From S Hogarth and V Wallace (eds), Yorkshire People and Places: A millenium celebration, York: Yorkshire Philosohpical Society 2001, p. 132
+fields: econ soci stat
+biog: ODNB
+
+name: Rota, Gian-Carlo
+name_alt: Rota, Juan Carlos
+dates: 1932-04-27 -- 1999-04-18
+wikipedia: Gian-Carlo_Rota
+photo: rota.gif | | | From Obituary: Gian-Carlo Rota, The Mathematical Scientist 25 (2000), 61-62
+fields: math stat phil
+ids: CIS:17208 CIS:1792 MR:150900 MacTutor:Rota MG:7721
+
+name: Ruben, Harold
+dates: 1923-00-00 -- 
+photo: ruben.gif | | | From p.17 in Bulletin of the Institute of Mathematical Statistics 31 (2) (2002)
+fields: stat
+ids: CIS:451 CIS:912 MR:529418 MG:42286
+
+name: Rubin, Herman
+dates: 1926-00-00 -- 
+photo: rubin_h.gif | | | No. 342 from Paul R Halmos, I Have a Photographic Memory, Providence, RI: American Mathematical Society 1987
+fields: stat
+ids: CIS:493 CIS:403 MR:192890 MG:6399
+
+name: Savage, I Richard
+dates: 1925-00-00 -- 2004-00-00
+photo: savage_i_r.gif | | | No. 22 from Paul R Halmos, I Have a Photographic Memory, Providence, RI: American Mathematical Society 1987
+fields: econ stat
+ids: CIS:222 CIS:541 MG:79359 MR:155105
+
+name: Savage, Leonard Jimmie
+dates: 1917-11-20 -- 1971-11-01
+wikipedia: Jimmie_Savage
+photo: savage_l_j.gif | | | From frontispiece of The Writings of Leonard Jimmie Savage: A Memorial Selection, Washington, DC: American Statistical Association/ Institute of Mathematical Statistics 1981
+fields: stat
+ids: CIS:163 CIS:34763 CIS:1156 MR:155120 MacTutor:Savage MG:5192 CIS:34763
+biog: IESocSci 18 (Biog. Supp.), 691-694
+biog: ESS 8, 265-267
+
+name: Berger, Roger L
+dates: 0000-00-00 -- 
+photo: scheaffer.gif | | | http://www.stat.ufl.edu/personnel/Faculty%20Listing/Emeritus.html 
+fields: stat
+ids: 
+
+name: Scheffé, Henry
+name_alt: Scheffe, Henry
+dates: 1907-00-00 -- 1977-00-00
+photo: scheffe.gif | | | From Constance Reid, Neyman - from Life, New York: Springer-Verlag 1982
+fields: stat
+ids: CIS:253
+biog: DSB 18, 783-784
+
+name: Scott, Elizabeth Leonard
+dates: 1917-11-23 -- 1988-12-20
+wikipedia: Elizabeth_Scott
+photo: scott.gif | with NEYMAN, Jerzy (Sp.awa) 1894-1981 | | From Constance Reid, Neyman - from Life, New York: Springer-Verlag 1982
+fields: stat
+ids: MacTutor:Scott_Elizabeth MG:30379 MR:290141 MG:34690
+
+name: Sen, Pranab Kumar
+dates: 1917-00-00 -- 1988-00-00
+photo: sen.gif | with Neyman, Jerzy | | From the web at http://www.stat.unc.edu/faculty/sen.html 
+fields: stat
+ids: CIS:3780 CIS:12247 CIS:14824 CIS:2266 MG:18736
+
+name: Shannon, Claude Ellwood
+dates: 1916-04-30 -- 2001-02-24
+wikipedia: Claude_Shannon
+photo: shannon.gif | | | From p.155 in P R Masani, Norbert Wiener 1894-1964, Basel: Birkhäuser 1990
+fields: math engin comp stat
+ids: CIS:1157 MR:159675 MacTutor:Shannon MG:42920
+
+name: Shcherbina, Fedor Andreevich
+dates: 1849-00-00 -- 1936-00-00
+photo: shcherbina.gif | | | From p. 239 in C C Heyde and E Seneta, Statisticians of the Centuries, New York: Springer-Verlag 2001
+fields: stat
+
+name: Shewhart, Walter Andrew
+dates: 1891-03-18 -- 1967-03-11
+wikipedia: Walter_A._Shewhart
+photo: shewhart.gif | | | http://www.lucent.dk/museum/1924scc.html 
+fields: phys engin stat
+ids: CIS:27721 MacTutor:Shewhart MR:239808
+biog: DSB 18, 816-819
+
+name: Shrikhande, Sharadchankar Shankar
+name_alt: Shrikhande, Sharadchandra Shankar
+dates: 1917-10-19 -- 
+wikipedia: S._S._Shrikhande
+photo: shrikhande.gif | | | From p. 215 of J K Ghosh, S K Mitra and K R Parthasarathy (ed.), Glimpses of India's Statistical Heritage, New Delhi, etc.: Wiley 1992
+fields: math stat
+ids: CIS:2186 MR:197390 MG:47278 CIS:142342
+
+name: Simpson, Thomas
+dates: 1710-08-20 -- 1761-05-14
+wikipedia: Thomas_Simpson
+photo: simpson.gif | | | From p.209 of T O'Donnell, History of Life Insurance in its Formative Years, Chicago: American Conservation Company 1936
+photo: simpson2.gif | | | Thomas Bayes, F.R.S.: A biography to celebrate the tercentenary of his birth (with discussion, by D R Bellhouse, Statistical Science, 19 (2000), 3-43 at p.20
+fields: math stat
+ids: MacTutor:Simpson
+biog: DSB 12, 443-445
+biog: DNB 18, 279
+biog: ODNB
+
+name: Sinclair, Sir John
+dates: 1754-05-10 -- 1835-12-21
+wikipedia: Sir_John_Sinclair%2C_1st_Baronet
+photo: sinclair.gif | Raeburn's portrait of Sir John Sinclair (National Galleries of Scotland)| | Opp. p.179 in J C Gower, Statistics in Agriculture, Journal of the Royal Statistical Society Series A, 151 (1988), 179-200
+fields: econ stat
+biog: DNB 18, 301-305
+biog: ODNB
+
+name: Slutsky, Evgeny Evgeneivich
+dates: 1880-04-07 -- 1948-03-10
+wikipedia: Eugen_Slutsky
+photo: slutsky.gif | | | http://www.math.bme.hu/mathhist/SmallPictures/Slutsky.gif
+fields: math econ stat
+ids: MacTutor:Slutsky MR:541206
+biog: DSB 12, 461
+biog: ESS 8, 512-515
+
+name: Smirnov, Nikolai Vasil'yevich
+dates: 1900-00-00 -- 1966-00-00
+photo: smirnov.gif | | | http://hp.iitp.ru/eng/25/2584.htm
+fields: stat
+ids: CIS:1739
+
+name: Smith, Adrian Frederick Melhuish
+dates: 0000-00-00 -- 
+wikipedia: Adrian_Smith_%28academic%29
+photo: smith_a_f_m.gif | | | Frontispiece from Journal of the Royal Statistical Society Series A 159 (3) (1996)
+fields: stat
+ids: CIS:6786 CIS:119866 CIS:99972 CIS:39842 MR:163930 MG:87564 CIS:159087
+
+name: Smoluchowski, Marian Ritter von Smolan
+dates: 1872-05-28 -- 1917-09-05
+wikipedia: Marian_Smoluchowski
+photo: smoluchowski.gif | | | From p. 299 in C C Heyde and E Seneta, Statisticians of the Centuries, New York: Springer-Verlag 2001
+fields: phys stat
+ids: MacTutor:Smoluchowski
+
+name: Snedecor, George Waddell
+dates: 1881-10-20 -- 1974-02-15
+wikipedia: George_W._Snedecor
+photo: snedecor.gif | | | From p.258 in J L Folks, Ideas in Statistics, Ames, IO: Iowa State University Press 1981
+fields: stat
+ids: CIS:62 CIS:28967 MR:262271 MG:89292
+biog: ESS 8, 526-528
+
+name: Snell, James Laurie
+dates: 1925-00-00
+photo: snell.gif | | | From p.118 in The Mathematical Intelligencer 4 (1982)
+fields: stat
+ids: CIS:6198 CIS:1098 MR:246030 MG:4213
+
+name: Snow, John
+dates: 1813-03-16 -- 1858-06-16
+wikipedia: John_Snow_%28physician%29
+photo: snow.gif | | | http://www.ph.ucla.edu/epi/snowsinglehead.gif
+fields: epid stat med
+biog: ODNB.
+
+name: Sobel, Milton
+dates: 1919-00-00 -- 2002-00-00
+photo: sobel.gif | Sobel at the Bell Telephone Labs | 1959 | A conversation with Nitis Mukhopadhyay, Statistical Science, 15 (2000), 168-190 at p.178
+photo: bechhover.gif | left) with Bechhover, Robert (centre) and Gupta, Shanti S (right) | | A conversation with Shanti Gupta, Statistical Science, 13 (1998), 291-305 at page 294
+fields: stat
+ids: CIS:449 MR:210807 MG:49160
+
+name: Spearman, Charles Edward
+dates: 1863-09-10 -- 1945-09-17
+wikipedia: Charles_Spearman
+photo: spearman.gif | | | From p.328 in J L Folks, Ideas in Statistics, Ames, IO: Iowa State University Press 1981
+fields: psych stat
+ids: MR:543165
+biog: ODNB
+
+name: Sprott, David A
+dates: 1930-00-00 -- 
+photo: sprott.gif | | | http://www.ssc.ca/images/newsprott.jpg
+fields: stat
+ids: CIS:1094 CIS:39852 MR:165770 MG:16191
+
+name: Stein, Charles M
+dates: 1920-03-22 -- 
+wikipedia: Charles_Stein
+photo: stein.gif | | 1984 | From p.462 in A conversation with Charles Stein, Statistical Science 1 (1986), 454-462
+fields: stat
+ids: CIS:31392 MR:166815 MG:13645
+
+name: Stigler, Stephen Mack
+dates: 1941-00-00 -- 
+wikipedia: Stephen_Stigler
+photo: stigler.gif | | | From the dust-jacket of S M Stigler, The History of Statistics: The Measurement of Uncertainty before 1900, Cambridge, MA: Belknap (Harvard) 1986
+fields: stat hist
+ids: CIS:11672 CIS:157665 CIS:4552 CIS:4376 MR:216087
+
+name: Stirling, James "The Venetian"
+dates: 1692-04-22 -- 1770-12-05
+wikipedia: James_Stirling_%28mathematician%29
+photo: stirling.gif | No known portrait appears to exist. The illustration shows the arms of Stirling of Garden | | From p.90 in William Fraser, The Stirlings of Keir and their Family Papers, Edinburgh: Privately Printed 1858
+fields: math
+ids: MR:261107
+biog: DSB 13, 443-445
+biog: DNB 18, 1266-1267
+biog: ODNB
+
+name: Stuart, Alan
+dates: 1922-00-00 -- 1998-00-00
+photo: stuart.gif | | | From p.6 in The Independent, 1998 July 25
+fields: stat
+ids: CIS:470 MR:189567
+
+name: Sukhatme, Pandurang Vasudeo
+dates: 1911-00-00 -- 1997-00-00
+photo: sukhatme.gif | | | From p. 11 of J K Ghosh, S K Mitra and K R Parthasarathy (ed.), Glimpses of India's Statistical Heritage, New Delhi, etc.: Wiley 1992
+fields: stat
+ids: CIS:46337 CIS:3038 MR:274496
+
+name: Süssmilch, Johann Peter
+name_alt: Sussmilch, Johann Peter
+dates: 1707-09-03 -- 1767-03-22
+wikipedia: Johann_Peter_S%C3%BCssmilch
+photo: sussmilch.gif | | | From p. 72 in C C Heyde and E Seneta, Statisticians of the Centuries, New York: Springer-Verlag 2001
+fields: demog stat
+
+name: Takács, Lajos
+name_alt: Takacs, Lajos
+dates: 1924-08-21
+wikipedia: Lajos_Tak%C3%A1cs
+photo: takacs/gif | | | From p.139 in J Gani (ed.), The Craft of Probabilistic Modelling: A Collection of Personal Accounts, Berlin: Springer 1986
+fields: stat
+ids: CIS:574 CIS:501 MG:37339 MR:170215
+
+name: Taguchi, Genichi
+dates: 1924-01-01 -- 
+wikipedia: Genichi_Taguchi
+photo: taguchi.gif | | | http://www.skymark.com/images/taguchi.gif
+fields: engin stat
+ids: CIS:47835 CIS:51932 CIS:144343
+
+name: Tartaglia, Nicolo
+dates: 1500-00-00 -- 1557-12-13
+wikipedia: Niccol%C3%B2_Fontana_Tartaglia
+photo: tartaglia.gif | | | From facing p.117 in A Wykes, Doctor Cardano: Physician Extraordinary, London: Frederick Muller 1969
+fields: math
+ids: MacTutor:Tartaglia MR:551216
+biog: DSB 13, 258-262
+
+name: Tawn, Jonathan
+dates: 0000-00-00 -- 
+photo: tawn.gif | | | From M Atkins and N Gilbert, Faces of Mathematics, Panoptika 2001
+fields: stat
+ids: CIS:70840 CIS:92098 CIS:60961 MR:266144
+
+name: Tetens, Johannes Nikolaus
+dates: 1736-09-16 -- 1808-08-17
+wikipedia: Johannes_Nikolaus_Tetens
+photo: tetens.gif | | | From p.330 of T O'Donnell, History of Life Insurance in its Formative Years, Chicago: American Conservation Company 1936
+fields: math stat
+ids: MacTutor:Tetens
+
+name: Thiele, Thorvald Nicolai
+dates: 1838-12-24 -- 1910-09-26
+wikipedia: Thorvald_N._Thiele
+photo: thiele.gif | | | From p.161 in N L Johnson and S Kotz (ed.), Leading personalities in Statistical Sciences from the Seventeenth Century to the Present, New York, etc.: Wiley 1997 
+fields: astr actu stat
+ids: MacTutor:Thiele MR:365107
+
+name: Thorp, Edward Oakley
+dates: 1913-08-14 -- 
+wikipedia: Edward_O._Thorp
+photo: thorp.gif | | | No. 175 from Paul R Halmos, I Have a Photographic Memory, Providence, RI: American Mathematical Society 1987
+fields: math games
+ids: CIS:2970 MR:300887 MG:9739
+
+name: Tippett, Leonard Henry Caleb
+dates: 1902-00-00 -- 1985-00-00
+wikipedia: Leonard_Henry_Caleb_Tippett
+photo: tippett.gif | | | Frontispiece from Journal of the Royal Statistical Society Series A 129 (4) (1966)
+fields: stat
+ids: CIS:3043 MR:553427
+
+name: Todhunter, Isaac
+dates: 1820-11-23 -- 1884-03-01
+wikipedia: Isaac_Todhunter
+photo: todhunter.gif | | | Detail from frontispiece of A Macfarlane, Lectures on Ten British Mathematicians of the Nineteenth Century, New York: Wiley and London: Chapman & Hall 1916
+fields: math stat hist
+ids: MacTutor:Todhunter MR:553729
+biog: DNB 19, 914-915
+biog: ODNB
+
+name: Tufte, Edward Rolf
+dates: 1942-00-00 -- 
+wikipedia: Edward_Tufte
+photo: tufte.gif | | | From leaflet advertising E R Tufte, Visual Explanations: Images and Quantities, Evidence and Narrative, Cheshire, CO: Graphics Press 1997
+fields: stat
+ids: CIS:8476 CIS:66279
+
+name: Tukey, John Wilder
+dates: 1915-06-16 -- 2000-07-26
+wikipedia: John_Tukey
+photo: tukey.gif | (right) with Anderson, Theodore Wilbur | | No. 133 from Paul R Halmos, I Have a Photographic Memory, Providence, RI: American Mathematical Society 1987
+fields: stat
+ids: CIS:14376 CIS:21 CIS:42056 CIS:2305 MR:175155 MacTutor:Tukey MG:15860
+
+name: Tweedie, Maurice Charles Kenneth
+dates: 1918-00-00 -- 1996-00-00
+photo: tweedie_m_c_k.gif | | | Photograph supplied by his daughter 
+fields: stat
+ids: CIS:3263 MR:218860
+
+name: Tweedie, Richard L
+dates: 1948-00-00 -- 2001-00-00
+photo: tweedie.gif | | | From p.6 in Bulletin of the Institute of Mathematical Statistics 31 (6) (2002)
+fields: stat
+ids: CIS:65372 CIS:6005 CIS:6233 CIS:139520
+
+name: Varadhan, Sathamangalam Ravi Srinivasa
+name_alt: Varadhan, Sathamangalam Ranga Iyengar Srinivasa
+dates: 1940-01-02 -- 
+wikipedia: S._R._Srinivasa_Varadhan
+photo: varadhan.gif | | | http://www.math.utah.edu/~firas/varadhan.html
+fields: stat
+ids: CIS:2016 CIS:26856 MR:177175 MG:33923
+
+name: Venn, John
+dates: 1834-08-04 -- 
+wikipedia: John_Venn
+photo: venn.gif | | | Frontispiece of H D Francis, In memoriam John Venn. Privately printed, Cambridge 1928. Reprinted from The Caian, vol. XXXI, no.3
+fields: phil math stat hist
+ids: MacTutor:Venn MR:250350
+biog: DSB 13, 611-613
+biog: DNB (1922-1930), 869-870
+biog: ODNB
+
+name: Ville, Jean Andre
+dates: 1910-00-00 -- 1988-00-00
+photo: ville.gif | | | From p.122 in The Mathematical Intelligencer 4 (1982)
+fields: stat
+ids: MG:76474
+
+name: Waksberg, Joseph
+dates: 1915-00-00 -- 2006-00-00
+photo: waksberg.gif | | | From p. 136 in D Morganstein and D Marker, A conversation with Joseph Waksberg, Statistical Science 15 (2000), 299-312
+fields: stat
+ids: CIS:78925 CIS:1924 MR:316520
+
+name: Wald, Abraham
+dates: 1902-10-31 -- 1950-12-13
+wikipedia: Abraham_Wald
+photo: wald.gif | | | From Constance Reid, Neyman - from Life, New York: Springer-Verlag 1982
+fields: stat
+ids: CIS:161 CIS:162182 MR:342493 MacTutor:Wald MG:36887
+biog: DSB 14, 121-123
+biog: ESS 9, 514-517
+
+name: Walker, Francis Amasa
+dates: 1840-07-02 -- 1897-01-05
+wikipedia: Francis_Amasa_Walker
+photo: walker_f.gif | | | From p. 216 in C C Heyde and E Seneta, Statisticians of the Centuries, New York: Springer-Verlag 2001
+fields: pol econ stat
+ids: 
+
+name: Walker, Sir Gilbert Thomas
+dates: 1868-06-14 -- 1958-11-04
+wikipedia: Gilbert_Walker
+photo: walker_g.gif | | | A connection between El Niño and Statistics, Statistical Science, 17 (2002), at page 99
+fields: phys stat 
+biog: ODNB
+
+name: Walker, Helen Mary
+dates: 1891-00-00 -- 1983-00-00
+photo: walker.gif | | | From p.78 in S Stinnett et al., Women in Statistics: Sesquicentennial Activities, American Statistician 44(2) (1990), 74-80
+fields: stat hist
+ids: CIS:135 MR:562342
+
+name: Wallis, John
+dates: 1616-11-23 - 1703-10-28
+wikipedia: John_Wallis
+photo: wallis.gif | | | From Plate III of A Cook, Edmond Halley: Charting the Heavens and the Seas, Oxford: Clarendon Press 1998
+fields: math
+ids: MacTutor:Wallis MR:240641
+biog: DSB 14, 146-155
+biog: DNB 20, 598-602
+biog: ODNB
+
+name: Wargentin, Pehr Wilhelm
+dates: 1717-09-22 -- 1783-12-13
+wikipedia: Pehr_Wilhelm_Wargentin
+photo: wargentin.gif | | | http://www.ra.se/ola/wargentin.htm
+fields: astr stat
+biog: DSB 14, 178-179
+biog: ESSU 2, 706-709
+
+name: Weaver, Warren
+dates: 1894-07-17 -- 1978-11-24
+wikipedia: Warren_Weaver
+photo: weaver.gif | | | From Constance Reid, Neyman - from Life, New York: Springer-Verlag 1982
+fields: math
+ids: CIS:35573 MR:563558 MacTutor:Weaver MG:7958
+
+name: Weibull, Ernst Hjalmar Waloddi
+name_alt: Weibull, Waloddi
+dates: 1887-06-18 -- 1979-10-12
+wikipedia: Waloddi_Weibull
+photo: weibull.gif | | | http://www.barringer1.com/weibull_bio_files/image001.gif
+fields: engin math stat
+ids: MR:222578
+
+name: Weldon, Walter Frank Raphael
+name_alt: Weldon, Raphael
+dates: 1860-03-15 -- 1906-04-13
+wikipedia: Walter_Frank_Raphael_Weldon
+photo: weldon.gif | | | From p.264 of K Pearson, Walter Frank Raphael Weldon: A Memoir, Biometrika 5 (1906), 1-52
+fields: biol stat
+ids: MacTutor:Weldon
+biog: DSB 14, 251-252
+
+name: West, Mike
+dates: 0000-00-00 -- 
+photo: west.gif | | | http://www.stat.duke.edu/~mw/mw.gif
+fields: stat
+ids: CIS:44723 MR:217864
+
+name: Westergaard, Harald Ludvig
+dates: 1853-04-19 -- 1936-12-13
+wikipedia: Harald_Ludvig_Westergaard
+photo: westergaard.gif | | | From p.319 in N L Johnson and S Kotz (ed.), Leading personalities in Statistical Sciences from the Seventeenth Century to the Present, New York, etc.: Wiley 1997 
+fields: stat
+
+name: Wiener, Norbert
+dates: 1894-11-26 -- 1964-03-18
+wikipedia: Norbert_Wiener
+photo: wiener.gif | | | Frontispiece from Norbert Wiener, Selected Papers, Cambridge, MA: MIT Press 1964
+fields: math stat
+ids: CIS:817 CIS:434 MR:218283 MacTutor:Wiener_Norbert MG:25222
+biog: DSB 14, 344-347
+biog: ESS 9, 605-607
+biog: DAB Supp 7 (1961-65), 783-785
+
+name: Wilcoxon, Frank
+dates: 1892-00-00 -- 1965-00-00
+wikipedia: Frank_Wilcoxon
+photo: wilcoxon.gif | | | From p. 136 in A R Sampson and B Spencer, A conversation with I. Richard Savage, Statistical Science 14 (1999), 126-148
+fields: chem stat
+ids: CIS:1652 CIS:2556 MR:565457
+biog: ESS 9, 609-612
+
+name: Wilks, Samuel Stanley
+dates: 1906-06-17 -- 1964-03-07
+wikipedia: Samuel_S._Wilks
+photo: wilks.gif | | | From p.211 in N L Johnson and S Kotz (ed.), Leading personalities in Statistical Sciences from the Seventeenth Century to the Present, New York, etc.: Wiley 1997
+fields: stat
+ids: CIS:163217 CIS:11 MR:565625 MacTutor:Wilks MG:34710
+biog: DSB 14, 381-386
+
+name: Willcox, Walter Francis
+dates: 1861-03-22 -- 1964-10-12
+wikipedia: Walter_Francis_Willcox
+photo: willcox.gif | | | From p. 265 in C C Heyde and E Seneta, Statisticians of the Centuries, New York: Springer-Verlag 2001
+fields: stat
+ids: CIS:5
+
+name: Wilson, Edwin Biddell
+dates: 1879-04-25 -- 1964-12-28
+wikipedia: Edwin_Bidwell_Wilson
+photo: wilson.gif | | | From p. 265 in C C Heyde and E Seneta, Statisticians of the Centuries, New York: Springer-Verlag 2001
+fields: math stat econ
+ids: MR:565999 MacTutor:Wilson_Edwin MG:38410
+biog: ESS Sup, 78
+
+name: Winkler, Wilhelm
+dates: 1884-00-00 -- 1984-00-00
+photo: winkler.gif | | | From p. 369 in C C Heyde and E Seneta, Statisticians of the Centuries, New York: Springer-Verlag 2001
+fields: stat
+ids: MacTutor:Winkler MR:236264
+biog: ESS Sup, 78
+
+name: Wishart, John
+dates: 1898-11-28 -- 1956-07-14
+wikipedia: John_Wishart_%28statistician%29
+photo: wishart.gif | | | From opp. p.1 in E S Pearson, John Wishart 1898-1956, Biometrika 44 (1957), 1-8
+fields: stat
+ids: MacTutor:Wishart
+
+name: De Witt, Jan
+name_alt: De Witt, Johan
+dates: 1624-09-24 -- 1672-08-20
+wikipedia: Johan_de_Witt
+photo: witt.gif | | | Frontispiece from A Lefevre-Pontalis, Jean de Witt, Grande Pensionnaire de Hollande, Paris: Plon, Nourrit 1884
+fields: math actu stat
+ids: MacTutor:De_Witt
+biog: DSB 14, 465-467
+biog: ESS Sup 47-50
+
+name: Wold, Herman Ole Andreas
+dates: 1908-12-25 -- 1992-02-16
+wikipedia: Herman_Wold
+photo: wold.gif | | | No. 126 from Paul R Halmos, I Have a Photographic Memory, Providence, RI: American Mathematical Society 1987
+fields: stat econ
+ids: CIS:36729 CIS:1095 CIS:4587 MG:44712 MR:566649 CIS:1160
+
+name: Wolfowitz, Jacob
+dates: 1910-03-19 -- 1981-07-16
+wikipedia: Jacob_Wolfowitz
+photo: wolfowitz.gif | | | No. 402 from Paul R Halmos, I Have a Photographic Memory, Providence, RI: American Mathematical Society 1987
+fields: stat
+ids: CIS:86 MR:184165 MacTutor:Wolfowitz MG:4843
+biog: DSB 18, 996-997
+biog: ESS 9, 646-650
+
+name: Wu, Chien-Fu
+name_alt: Wu, Jeff
+dates: 0000-00-00 -- 
+photo: wu.gif | | | From p.10 in IMS Bulletin 33 (4) (2004), 4
+fields: stat
+ids: CIS:21206 CIS:51362 MR:184765 MG:34328
+
+name: Yanson, Yulli Eduardovich
+name_alt: Jahnson, Yulii Eduardovich
+dates: 1835-00-00 -- 1892-00-00
+photo: yanson.gif | | | From the web at http://hp.iitp.ru/ENG/33/3301.HTM
+fields: math stat
+biog: ESS 9, 658-659
+
+name: Yastremskii, Boris Sergeyevich
+dates: 1877-00-00 -- 1962-00-00
+fields: stat
+biog: ESS 9, 659
+
+name: Yates, Frank
+dates: 1902-05-12 -- 1994-06-17
+wikipedia: Frank_Yates
+photo: yates.gif | | | Plate 23 from J F Box, R.A. Fisher: The Life of a Scientist, New York: Wiley 1978
+fields: stat
+ids: CIS:122 CIS:31491 MacTutor:Yates
+biog: ODNB
+
+name: Youden, William John
+dates: 1900-00-00 -- 1971-00-00
+photo: youden.gif | | | From p. 479 in C C Heyde and E Seneta, Statisticians of the Centuries, New York: Springer-Verlag 2001
+fields: stat
+ids: CIS:797 MacTutor:Youden MR:569075
+
+name: Yule, Sir George Udny
+dates: 1871-02-18 -- 1951-06-26
+wikipedia: George_Udny_Yule
+photo: yule.gif | | | Fronticepiece from Statistical Papers of George Udny Yule, London: Griffin 1971 
+fields: stat
+ids: CIS:111907 MR:569387
+biog: ODNB
+
+name: Zacks, Shelemyahu
+dates: 1932-00-00 -- 
+photo: zacks.gif | | | A conversation with Shelemyahu Zacks, Statistical Science, 13 (2005), 89-110 at page 96
+fields: stat
+ids: CIS:1069 CIS:10358
+
+name: Zidek, James Victor
+name_alt: Zidek, Jim
+dates: 1939-00-00 -- 
+photo: zidek.gif | | | http://www.ssc.ca/images/JimZidek.jpg
+fields: stat
+ids: CIS:29007 CIS:4991 CIS:21193 CIS:2124 MR:187105 MG:17755
+
+name: 
+dates: 
+wikipedia: 
+photo: 
+fields: 
+ids: 
+

@@ -1,0 +1,35 @@
+{% extends 'directory/__base.html' %}
+{% load directory_tags %}
+
+{# ########################################### #}
+
+{% block head_title %}{% if entrytype.directoryentry_set.active|length == 1 %}{{ entrytype.verbose_name }}{% else %}{{ entrytype.verbose_name_plural }}{% endif %}{% endblock %}
+{% block body_title %}{% if entrytype.directoryentry_set.active|length == 1 %}{{ entrytype.verbose_name }}{% else %}{{ entrytype.verbose_name_plural }}{% endif %}{% endblock %}
+
+{# ########################################### #}
+
+{% block body_content %}
+
+<table>
+    {% for row in entrytype.directoryentry_set.active|visual_table:"4" %}
+        {% cycle "faces" "names" as rowtype silent %}
+        <tr>
+            {% for entry in row %}
+                <td style="text-align:center;vertical-align:{% if rowtype == "faces" %}bottom{% else %}top{% endif %}">
+                    {% include 'directory/visual_4col/includes/entry.html' with name=entry.person.cn %}
+                </td>
+            {% endfor %}
+        <tr>
+    {% endfor %}
+</table>
+
+{% endblock %}
+
+{# ########################################### #}
+
+{% block page_breadcrumbs %}
+    <span class="divider">&gt;</span>
+    {% if entrytype.directoryentry_set.active|length == 1 %}{{ entrytype.verbose_name }}{% else %}{{ entrytype.verbose_name_plural }}{% endif %}
+{% endblock page_breadcrumbs %}
+
+{# ########################################### #}

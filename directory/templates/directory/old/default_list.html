@@ -1,0 +1,29 @@
+{% extends 'directory/__base.html' %}
+
+{% block head_title %}Department Directory{% endblock %}
+{% block body_title %}Department Directory{% endblock %}
+
+{% block body_content %}
+
+{# this is a flat, alphabetical list #}
+
+<p>
+    <a href="{% url 'directory-type-list' %}">Categorized Directory</a>
+    |
+    <a href="{% url 'directory-visual-list' %}">Visual Directory</a>
+</p>
+
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Title</th>
+        <th>Office</th>
+        <th>Phone Number</th>
+    </tr>
+    {% for entry in directory_list %}
+        {% include 'directory/includes/direntry.html' %}
+    {% endfor %}
+</table>
+
+{% endblock %}
+

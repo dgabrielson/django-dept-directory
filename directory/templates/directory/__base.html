@@ -1,0 +1,34 @@
+{% extends "site_base.html" %}
+
+{# ########################################### #}
+
+{% block page_title %}{% block head_title %}HEAD TITLE{% endblock %}{% endblock %}
+
+{# ########################################### #}
+
+{% block page_content_header %}{% block body_title %}INSERT TITLE{% endblock %}{% endblock %}
+
+{% block page_content_body %}
+
+{% block body_content %}
+{% endblock %}
+
+{% block extra_content %}
+{% endblock %}
+
+{% endblock %}
+
+
+{# ########################################### #}
+
+{% block breadcrumbs %}
+    {{ block.super }}
+    {% block app_breadcrumbs %}
+        <span class="divider">&gt;</span>
+        {% include './includes/app_breadcrumbs.html' %}
+        {% block page_breadcrumbs %}
+        {% endblock %}
+    {% endblock app_breadcrumbs %}
+{% endblock %}
+
+{# ########################################### #}

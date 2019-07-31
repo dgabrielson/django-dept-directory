@@ -1,0 +1,29 @@
+{% extends 'directory/__base.html' %}
+
+{% block head_title %}Department Directory{% endblock %}
+{% block body_title %}Department Directory{% endblock %}
+
+{% block page_content_body %}
+
+<p>
+    {% if person_list %}
+        The following people have a directory entry:
+        <ul>
+            {% for person in person_list %}
+                <li>
+                    {% if person.slug %}
+                        <a href="{% url 'directory-by-person-detail' slug=person.slug %}">
+                            {{ person }}
+                        </a>
+                    {% else %}
+                        {{ person }}
+                    {% endif %}
+                </li>
+            {% endfor %}
+        </ul>
+    {% else %}
+        There are no people with a directory entry.
+    {% endif %}
+</p>
+
+{% endblock %}

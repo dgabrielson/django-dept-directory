@@ -1,0 +1,24 @@
+%
+{{ entry.person }}
+&
+{% if entry.title %}%
+    \raggedright {{ entry.title }}
+{% else %}%
+    \raggedright {{ entry.person.title }}
+{% endif %}%
+&
+{% if entry.office %}%
+    \raggedright {{ entry.office }}
+    &
+    {% if entry.phone_number %}{{ entry.phone_number }} %
+    {% elif entry.person.phone %}{{ entry.person.phone }} %
+    {% elif entry.office.phone_number %}{{ entry.office.phone_number }} %
+    {% endif %} %
+{% else %}%
+    &
+{% endif %}%
+{% if entry.note %}%
+\\
+    \multicolumn{4}{l}{\emph{\mbox{}\hspace*{2cm}\smaller {{ entry.note }} }} 
+{% endif %}%
+\\

@@ -1,0 +1,86 @@
+{% extends "admin/change_form.html" %}
+{% load i18n %}
+
+{% block object-tools-items %}
+    {# ##################################################### #}
+
+    {% if original.active and 'directory' in original.flags.slugs %}
+        {% for object in original.directoryentry_set.active %}
+            {% url 'admin:directory_directoryentry_change' object.pk as link_url %}
+            {% if perms.directory.change_directoryentry and link_url %}
+                <li>
+                    <a href="{{ link_url }}" class="viewsitelink">
+                        Directory Entry Record
+                    </a>
+                </li>
+            {% endif %}
+        {% empty %}
+            {% url 'admin:directory_directoryentry_add' as link_url %}
+            {% if perms.directory.add_directoryentry and link_url %}
+                <li><a href="{{ link_url }}" class="viewsitelink">
+                    Add Directory Entry</a>
+                </li>
+            {% endif %}
+        {% endfor %}
+    {% endif %}
+
+    {# ##################################################### #}
+
+    {% if original.active and 'directory' in original.flags.slugs %}
+        {% if original.personpage %}
+            {% url 'admin:person_pages_personpage_change' original.personpage.pk as link_url %}
+            {% if perms.person_pages.change_personpage and link_url %}
+                <li><a href="{{ link_url }}" class="viewsitelink">
+                    Person Page Record</a>
+                </li>
+            {% endif %}
+        {% else %}
+            {% url 'admin:person_pages_personpage_add' as link_url %}
+            {% if perms.person_pages.add_personpage and link_url %}
+                <li><a href="{{ link_url }}" class="viewsitelink">
+                    Add Person Page</a>
+                </li>
+            {% endif %}
+        {% endif %}
+    {% endif %}
+
+    {# ##################################################### #}
+
+    {% if original.active and 'gradstudent' in original.flags.slugs %}
+        <!-- grad student -->
+        {% for grad in original.graduatestudent_set.active %}
+            <!-- grad -->
+            {% url 'admin:graduate_students_graduatestudent_change' grad.pk as link_url %}
+            {% if perms.graduate_students.change_graduatestudent and link_url %}
+                <li><a href="{{ link_url }}" class="viewsitelink">
+                    Graduate Student Record</a>
+                </li>
+            {% endif %}
+        {% empty %}
+            {% url 'admin:graduate_students_graduatestudent_add' as link_url %}
+            {% if perms.graduate_students.add_graduatestudent and link_url %}
+                <li><a href="{{ link_url }}" class="viewsitelink">
+                    Add Graduate Student</a>
+                </li>
+            {% endif %}
+        {% endfor %}
+    {% endif %}
+
+    {# ##################################################### #}
+
+    {% if original.username %}
+        {% with user=original.get_user %}
+             {% url 'admin:auth_user_change' user.pk as link_url %}
+             {% if link_url and perms.auth.change_user %}
+                 <li>
+                     <a href="{{ link_url }}" class="viewsitelink">
+                         User Record
+                     </a>
+                 </li>
+             {% endif %}
+        {% endwith %}
+    {% endif %}
+
+    {# ##################################################### #}
+{{ block.super }}
+{% endblock %}

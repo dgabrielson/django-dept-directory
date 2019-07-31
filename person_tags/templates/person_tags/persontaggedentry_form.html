@@ -1,0 +1,64 @@
+{% extends 'person_tags/__base.html' %}
+
+{# ######################################################### #}
+
+{% block head_title %}Tags for {{ person }}{% endblock %}
+{% block body_title %}Tags for {{ person }}{% endblock %}
+
+{# ######################################################### #}
+
+{% block html_head %}
+{{ block.super }}
+{{ form.media }}
+{% endblock %}
+
+{# right sidebar should be empty in twocol mode #}
+{% block page_right_sidebar %}{% endblock %}
+{% block page_main_classes %}col-lg-10{% endblock %}
+
+
+{# ######################################################### #}
+
+{% block body_content %}
+
+<ul>
+    {% for entry in person.persontaggedentry_set.active %}
+        <li>
+            {{ entry }}
+        </li>
+    {% endfor %}
+</ul>
+
+<p>
+    &rarr;
+    <a href="{% url 'persontag-persontag-create' slug=person.slug %}">
+        Create new tag
+    </a>
+</p>
+
+<h3>Manage tags</h3>
+
+
+<form enctype="multipart/form-data" action="" method="post" class="form">{% csrf_token %}
+    <div class="form-container">
+        <table class="table-form">
+            {% include 'includes/form.html' %}
+        </table>
+        <table class="table-form">
+            {% include 'person_tags/includes/inline_tabular_formset.html' %}
+        </table>
+        <table class="table-form">
+            <tr class="submit-row">
+                <td>
+                    <input type="submit" value="Update" class="save-btn">
+                </td>
+            </tr>
+        </table>
+    </div>
+</form>
+
+
+{% endblock %}
+
+
+{# ######################################################### #}

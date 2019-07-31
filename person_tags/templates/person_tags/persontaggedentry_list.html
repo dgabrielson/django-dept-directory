@@ -1,0 +1,44 @@
+{% extends 'person_tags/__base.html' %}
+
+{% block head_title %}Faculty Research{% endblock %}
+{% block body_title %}Faculty Research{% endblock %}
+
+{% block body_content %}
+
+{% regroup object_list by person as person_list %}
+
+<ul>
+    {% for person in person_list %}
+        {% with directory_list=person.grouper.directoryentry_set.active %}
+            {% with type_slug_list=directory_list.type_slug_list %}
+                {% if type_slug_list %}
+                    <li>
+                        <strong>
+                            <a href="{{ person.grouper.get_absolute_url }}">
+                                {{ person.grouper }}</a></strong>{% if 'academic-staff' not in type_slug_list %} ({{ directory_list.0.type }}){% endif %}:
+                        {% for entry in person.list %}
+                            {% if entry.tag.groups %}
+                                <a href="{{ entry.tag.get_absolute_url }}">
+                                    {{ entry }}</a>{% if not forloop.last %}, {% endif %}
+                            {% else %}
+                                {{ entry }}{% if not forloop.last %}, {% endif %}
+                            {% endif %}
+                        {% endfor %}
+                    </li>
+                {% endif %}
+            {% endwith %}
+        {% endwith %}
+    {% endfor %}
+</ul>
+
+
+{% endblock %}
+
+{# ########################################### #}
+
+{% block page_breadcrumbs %}
+    <span class="divider">&gt;</span>
+    By person
+{% endblock page_breadcrumbs %}
+
+{# ########################################### #}

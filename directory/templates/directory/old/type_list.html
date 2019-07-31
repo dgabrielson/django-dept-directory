@@ -1,0 +1,36 @@
+{% extends 'directory/__base.html' %}
+
+{% block head_title %}Department Directory{% endblock %}
+{% block body_title %}Department Directory{% endblock %}
+
+{% block body_content %}
+
+{# this list is broken out by types #}
+
+<table width="100%">
+    <col align="left" width="25%" />
+    <col align="left" width="30%" />
+    <col align="center" width="20%" />
+    <col align="center" width="15%" />
+    <tr>
+        <th>Name</th>
+        <th>Title</th>
+        <th>Office</th>
+        <th>Phone Number</th>
+    </tr>
+    {% for type in directory_list %}
+        {% with type_list=type.directoryentry_set.default_list %}
+            {% if type_list %}
+                <tr>
+                    <th colspan="4"><h3>{% if type_list|length == 1 %}{{ type.verbose_name }}{% else %}{{ type.verbose_name_plural }}{% endif %}</h3></th>
+                </tr>
+                {% for entry in type_list %}
+                    {% include 'directory/includes/direntry.html' %}
+                {% endfor %}
+            {% endif %}
+        {% endwith %}
+    {% endfor %}
+</table>
+
+{% endblock %}
+

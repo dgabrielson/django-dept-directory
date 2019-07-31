@@ -1,0 +1,40 @@
+{% extends 'directory/__base.html' %}
+{% load directory_tags %}
+
+{# ############################################################### #}
+
+{% block head_title %}Department Directory{% endblock %}
+{% block body_title %}Department Directory{% endblock %}
+
+{# ############################################################### #}
+
+{% block body_content %}
+
+
+{% regroup directoryentry_list by type as directory_list %}
+
+<table>
+    {% for type in directory_list %}
+        <tr>
+            <th colspan="4">
+                <h2>{% if type.list|length == 1 %}{{ type.grouper.verbose_name }}{% else %}{{ type.grouper.verbose_name_plural }}{% endif %}</h2>
+                <a name="{{ type.slug }}"></a>
+            </th>
+        
+        </tr>
+        {% for row in type.list|visual_table:"4" %}
+            {% cycle "faces" "names" as rowtype silent %}
+            <tr>
+                {% for entry in row %}
+                    <td style="text-align:center;vertical-align:{% if rowtype == "faces" %}bottom{% else %}top{% endif %}">
+                        {% include 'directory/visual_4col/includes/entry.html' with name=entry.person.cn %}
+                    </td>
+                {% endfor %}
+            <tr>
+        {% endfor %}
+    {% endfor %}
+</table>
+
+{% endblock %}
+
+{# ############################################################### #}

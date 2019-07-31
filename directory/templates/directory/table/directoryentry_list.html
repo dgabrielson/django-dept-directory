@@ -1,0 +1,36 @@
+{% extends 'directory/__base.html' %}
+{% load directory_tags %}
+
+##################################################################
+
+{% block head_title %}Department Directory{% endblock %}
+{% block body_title %}Department Directory{% endblock %}
+
+##################################################################
+
+{% block body_content %}
+
+{% regroup directoryentry_list by type as directory_list %}
+
+{% for type in directory_list %}
+    {% if type.list %}
+        <a name="{{ type.grouper.slug }}"></a>
+        <h2>{% if type.list|length == 1 %}{{ type.grouper.verbose_name }}{% else %}{{ type.grouper.verbose_name_plural }}{% endif %}</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th width="180">Name</th>
+                    <th width="120">Office</th>
+                    <th width="120">Phone</th>
+                </tr>
+            </thead>
+            {% for entry in type.list %}
+                {% include 'directory/table/includes/entry.html' %}
+            {% endfor %}
+        </table>
+    {% endif %}
+{% endfor %}
+
+
+{% endblock %}
+

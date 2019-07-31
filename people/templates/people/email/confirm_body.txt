@@ -1,0 +1,12 @@
+Hi {{ verify.email.person.given_name }},
+
+You are receiving this email message because you are being requested
+to confirm the email address: {{ verify.email }}
+
+If you did not request this email message, please just ignore it.
+
+Otherwise, click this link to confirm your email address:
+
+http://{{ site.domain }}{% url 'people-email-confirmed' slug=verify.key %}
+
+Thanks!

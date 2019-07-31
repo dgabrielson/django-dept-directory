@@ -1,0 +1,57 @@
+{% autoescape off %}%
+\documentclass[10pt]{article}
+
+\usepackage[margin=0.5in,top=0.35in]{geometry}
+\usepackage{longtable}
+\usepackage{helvet}
+\usepackage[utf8]{inputenc}
+\usepackage{booktabs}
+\usepackage{relsize}
+\usepackage[utf8]{inputenc}
+
+{% if geometry %}
+    \geometry{ {{ geometry }} }
+{% endif %}
+
+\hyphenpenalty=10000
+\tolerance=2500
+
+\renewcommand{\familydefault}{\sfdefault}
+\pagestyle{empty}
+
+\begin{document}
+    {% if at_document_start %}
+       {{ at_document_start }}
+    {% endif %}
+
+    \begin{center}
+        \textbf{Department Directory}
+
+        \textbf{(as of \today)}
+
+        {% for type in directory_list %}%
+            {% with type_list=type.directoryentry_set.offices_only.default_list %}%
+                {% if type_list %}%
+                    \begin{longtable}{p{0.28\textwidth}p{0.28\textwidth}p{0.17\textwidth}p{0.15\textwidth}}
+                        \\[\medskipamount]
+                        \multicolumn{4}{c}{\relsize{+0.5}\textbf{\mbox{}{% if type_list|length == 1 %}{{ type.verbose_name }}{% else %}{{ type.verbose_name_plural }}{% endif %} }} \\
+                        \toprule
+                        \endhead
+                        \bottomrule
+                        \endfoot
+                        {% for entry in type_list %}%
+                            {% include 'directory/print/includes/direntry.tex' %}%
+                            {% if not forloop.last %}%
+                                \midrule
+                            {% endif %}%
+                        {% endfor %}%
+                    \end{longtable}
+                {% endif %}%
+            {% endwith %}%
+        {% endfor %}%
+%
+
+
+
+\end{document}
+{% endautoescape %}

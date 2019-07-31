@@ -1,0 +1,24 @@
+{% extends 'person_tags/__base.html' %}
+
+{# ######################################################### #}
+
+{% block head_title %}Tags for {{ object }}{% endblock %}
+{% block body_title %}Tags for {{ object }}{% endblock %}
+
+{# ######################################################### #}
+
+{% block body_content %}
+
+<ul>
+    {% for entry in person.persontaggedentry_set.active %}
+        <li>
+            {{ entry }}
+        </li>
+    {% endfor %}
+</ul>
+
+
+{% endblock %}
+
+
+{# ######################################################### #}
